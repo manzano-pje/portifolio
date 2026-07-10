@@ -1,0 +1,27 @@
+@import "./tokens/colors.css";
+@import "./tokens/spacing.css";
+@import "./tokens/typography.css";
+@import "./tokens/radius.css";
+@import "./tokens/shadows.css";
+@import "./tokens/breakpoints.css";
+@import "./tokens/transitions.css";
+
+@import "./base/reset.css";
+@import "./base/fonts.css";
+@import "./base/animations.css";
+@import "./base/utilities.css";
+
+@import "./components/button.css";
+@import "./components/card.css";
+@import "./components/badge.css";
+@import "./components/timeline.css";
+
+@import "/src/sections/about/about.css";
+@import "/src/sections/certificates/certificates.css";
+@import "/src/sections/contact/contact.css";
+@import "/src/sections/experience/experience.css";
+@import "/src/sections/footer/footer.css";
+@import "/src/sections/header/header.css";
+@import "/src/sections/hero/hero.css";
+@import "/src/sections/projects/projects.css";
+@import "/src/sections/skills/skills.css";
