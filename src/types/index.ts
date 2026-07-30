@@ -40,9 +40,34 @@ export interface TechnologyGroup {
   technologies: string[]
 }
 
+// ─── Skills ──────────────────────────────────────────────────────────────────
+
+/** Tecnologia com ícone visual — usada no grid da seção Stacks */
+export interface SkillTech {
+  name: string
+  /** Slug do Simple Icons (https://simpleicons.org) para montar a URL do ícone */
+  slug: string
+  /** Cor hex do ícone (sem #). Se omitido, usa a cor padrão do Simple Icons */
+  iconColor?: string
+}
+
+export type SkillConceptCategory =
+  | 'Boas Práticas'
+  | 'Metodologias'
+  | 'APIs & Protocolos'
+
+/** Grupo de conceitos/metodologias — exibidos como text badges */
+export interface SkillConceptGroup {
+  category: SkillConceptCategory
+  items: string[]
+}
+
+// ─── Projects ─────────────────────────────────────────────────────────────────
+
 export interface Project {
   id: string
   name: string
+  subtitle?: string
   description: string
   tags: string[]
   image: string
@@ -51,6 +76,8 @@ export interface Project {
   inDevelopment?: boolean
 }
 
+// ─── Experience ───────────────────────────────────────────────────────────────
+
 export interface Experience {
   id: string
   company: string
@@ -58,7 +85,10 @@ export interface Experience {
   period: string
   description: string
   activities?: string[]
+  isCurrent?: boolean
 }
+
+// ─── Certificates ─────────────────────────────────────────────────────────────
 
 export interface Certificate {
   id: string
@@ -85,22 +115,39 @@ export interface CertificateGroup {
   certificates: Certificate[]
 }
 
-export interface GithubStats {
-  rank: string
-  currentStreak: number
-  contributionGraph: string
+// ─── GitHub ───────────────────────────────────────────────────────────────────
+
+export interface GithubUserStats {
+  login: string
+  name: string
+  bio: string
+  publicRepos: number
+  followers: number
+  following: number
+  avatarUrl: string
+  profileUrl: string
 }
 
-export interface Indicator {
-  label: string
-  value: string
+export interface GithubRepoStats {
+  totalStars: number
+  topLanguages: { language: string; percentage: number }[]
 }
+
+// ─── Contact ──────────────────────────────────────────────────────────────────
 
 export interface Contact {
   title: string
   description: string
   email: string
+  location: string
   linkedinUrl: string
   githubUrl: string
   resumeUrl: string
+}
+
+// ─── Shared ───────────────────────────────────────────────────────────────────
+
+export interface Indicator {
+  label: string
+  value: string
 }
