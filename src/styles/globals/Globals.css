@@ -4,7 +4,7 @@
 @import "../tokens/Typography.css";
 @import "../tokens/Radius.css";
 @import "../tokens/Shadows.css";
-@import "../tokens/Breakpoints.css";
+@import "../tokens/BreakPoints.css";
 @import "../tokens/Transitions.css";
 
 @import "../base/Reset.css";
