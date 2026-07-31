@@ -9,9 +9,3 @@ export const about = {
   ctaLabel: 'Saiba mais sobre minha jornada',
   ctaHref: '#experiencia',
 }
-
-export const indicators: Indicator[] = [
-  { value: '3+', label: 'Anos de experiência' },
-  { value: '5+', label: 'Projetos concluídos' },
-  { value: '100%', label: 'Dedicação e entrega' },
-]
