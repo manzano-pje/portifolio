@@ -1,21 +1,21 @@
 
-@import "../tokens/colors.css";
-@import "../tokens/spacing.css";
-@import "../tokens/typography.css";
-@import "../tokens/radius.css";
-@import "../tokens/shadows.css";
-@import "../tokens/breakpoints.css";
-@import "../tokens/transitions.css";
+@import "../tokens/Colors.css";
+@import "../tokens/Spacing.css";
+@import "../tokens/Typography.css";
+@import "../tokens/Radius.css";
+@import "../tokens/Shadows.css";
+@import "../tokens/BreakPoints.css";
+@import "../tokens/Transitions.css";
 
-@import "../base/reset.css";
-@import "../base/fonts.css";
-@import "../base/animations.css";
-@import "../base/utilities.css";
+@import "../base/Reset.css";
+@import "../base/Fonts.css";
+@import "../base/Animations.css";
+@import "../base/Utilities.css";
 
-@import "../components/button.css";
-@import "../components/card.css";
-@import "../components/badge.css";
-@import "../components/timeline.css";
+@import "../components/Button.css";
+@import "../components/Card.css";
+@import "../components/Badge.css";
+@import "../components/Timeline.css";
 @import "../components/Header.css";
 
 @import "/src/sections/about/About.css";
