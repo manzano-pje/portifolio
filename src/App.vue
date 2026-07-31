@@ -1,26 +1,21 @@
 <template>
   <div id="app">
+
     <Header />
-    <Hero />
-    <Sobre />
-    <Stacks />
-    <Projetos />
-    <Experiencia />
-    <Certificacoes />
-    <Github />
-    <Contato />
+
+    <main>
+      <HeroSection />
+    </main>
+
     <Footer />
+
   </div>
 </template>
 
-<script>
-// Exemplo de como importaremos os componentes futuramente:
-// import Header from './components/Header.vue';
-
-export default {
-  name: 'App',
-  components: {
-    // Registraremos cada seção aqui
-  }
-}
+<script setup>
+  import Header from './components/layout/Header.vue'
+  import Footer from './components/layout/Footer.vue'
+  import HeroSection from './sections/hero/HeroSection.vue'
 </script>
+ 
+    
