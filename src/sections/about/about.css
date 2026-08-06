@@ -1,0 +1,136 @@
+.about-section {
+  padding: calc(var(--space-5) + 1rem) 0 var(--space-9);
+  background: var(--color-background);
+  margin-left: var(--space-5);
+  width: 40%;
+}
+
+.about-shell {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 1.5rem;
+  background: var(--color-surface-raised);
+  border-radius: var(--radius-xl);
+
+}
+
+.about-content {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+}
+
+.about-title {
+  margin: 0;
+  color: var(--color-text);
+  font-size: var(--text-4xl);
+  line-height: 1.5;
+  font-weight: 800;
+}
+
+.about-copy {
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
+}
+
+.about-copy p {
+  margin: 0;
+  color: var(--color-text-muted);
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+.about-link {
+  display: inline-flex;
+  align-items: center;
+  width: fit-content;
+  margin-top: var(--space-2);
+  padding: 0.85rem 1.1rem;
+  border-radius: var(--radius-md);
+  background: linear-gradient(135deg, var(--color-primary), var(--color-accent));
+  color: var(--color-background);
+  text-decoration: none;
+  font-weight: 700;
+  box-shadow: 0 0 20px rgba(115, 92, 255, 0.18);
+}
+
+.skills-panel {
+  padding: 1.4rem;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-xl);
+  background: rgba(255, 255, 255, 0.03);
+  box-shadow: var(--shadow-sm);
+}
+
+.skills-header {
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+  margin-bottom: 1rem;
+}
+
+.skills-panel-title {
+  margin: 0;
+  color: var(--color-text);
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 0.7rem;
+}
+
+.skill-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.55rem;
+  padding: 0.9rem 0.7rem;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  background: var(--color-surface);
+  min-height: 92px;
+}
+
+.skill-logo {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+  filter: grayscale(0.1);
+}
+
+.skill-name {
+  color: var(--color-text-muted);
+  font-size: 0.82rem;
+  font-weight: 600;
+  text-align: center;
+  line-height: 1.2;
+}
+
+@media (max-width: 980px) {
+  .about-shell {
+    grid-template-columns: 1fr;
+  }
+
+  .skills-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 640px) {
+  .about-section {
+    padding: calc(var(--space-7) + 1rem) 0 var(--space-8);
+  }
+
+  .about-shell {
+    padding: 0 1rem;
+  }
+
+  .skills-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
