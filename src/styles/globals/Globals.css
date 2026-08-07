@@ -18,10 +18,10 @@
 @import "../components/Timeline.css";
 @import "../components/Header.css";
 
-@import "/src/sections/about/About.css";
-@import "/src/sections/certificates/Certificates.css";
-@import "/src/sections/contact/Contact.css";
-@import "/src/sections/experience/Experience.css";
-@import "/src/sections/hero/Hero.css";
-@import "/src/sections/projects/Projects.css";
-@import "/src/sections/skills/Skills.css";
+@import "../src/sections/about/About.css";
+@import "../src/sections/certificates/Certificates.css";
+@import "../src/sections/contact/Contact.css";
+@import "../src/sections/experience/Experience.css";
+@import "../src/sections/hero/Hero.css";
+@import "../src/sections/projects/Projects.css";
+@import "../src/sections/skills/Skills.css";
