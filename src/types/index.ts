@@ -51,15 +51,9 @@ export interface SkillTech {
   iconColor?: string
 }
 
-export type SkillConceptCategory =
-  | 'Boas Práticas'
-  | 'Metodologias'
-  | 'APIs & Protocolos'
-
 /** Grupo de conceitos/metodologias — exibidos como text badges */
 export interface SkillConceptGroup {
-  category: SkillConceptCategory
-  items: string[]
+  item: string
 }
 
 // ─── Projects ─────────────────────────────────────────────────────────────────
