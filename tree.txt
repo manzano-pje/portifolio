@@ -1,0 +1,4278 @@
+ O volume na unidade E ‚ ssd secundario
+ O N£mero de S‚rie do Volume ‚ 72F8-9311
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio
+
+31/07/2026  12:24    <DIR>          .
+31/07/2026  12:24    <DIR>          ..
+10/07/2026  16:23                69 .gitignore
+10/07/2026  16:23                67 .prettierrc
+10/07/2026  15:30    <DIR>          .vscode
+31/07/2026  11:35    <DIR>          dist
+30/07/2026  16:16               329 index.html
+10/07/2026  15:43    <DIR>          modelo
+30/07/2026  18:09    <DIR>          node_modules
+30/07/2026  18:06            48.356 package-lock.json
+30/07/2026  18:05               444 package.json
+31/07/2026  12:21         4.369.780 portifolio.zip
+10/07/2026  15:46    <DIR>          public
+10/07/2026  16:22                 0 README.md
+31/07/2026  00:31    <DIR>          src
+31/07/2026  12:51                 0 tree.txt
+30/07/2026  18:05               309 tsconfig.app.json
+10/07/2026  18:48               119 tsconfig.json
+10/07/2026  18:48               508 tsconfig.node.json
+10/07/2026  18:48               234 vite.config.ts
+              12 arquivo(s)      4.420.215 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git
+
+31/07/2026  12:06                38 COMMIT_EDITMSG
+10/07/2026  18:52               397 config
+10/07/2026  15:30                73 description
+10/07/2026  18:52                24 HEAD
+10/07/2026  15:30    <DIR>          hooks
+31/07/2026  12:06             9.858 index
+10/07/2026  15:30    <DIR>          info
+10/07/2026  15:30    <DIR>          logs
+31/07/2026  12:06    <DIR>          objects
+10/07/2026  15:30               180 packed-refs
+10/07/2026  15:30    <DIR>          refs
+               6 arquivo(s)         10.570 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\hooks
+
+10/07/2026  15:30    <DIR>          .
+10/07/2026  15:30    <DIR>          ..
+10/07/2026  15:30               478 applypatch-msg.sample
+10/07/2026  15:30               896 commit-msg.sample
+10/07/2026  15:30             4.726 fsmonitor-watchman.sample
+10/07/2026  15:30               189 post-update.sample
+10/07/2026  15:30               424 pre-applypatch.sample
+10/07/2026  15:30             1.649 pre-commit.sample
+10/07/2026  15:30               416 pre-merge-commit.sample
+10/07/2026  15:30             1.374 pre-push.sample
+10/07/2026  15:30             4.898 pre-rebase.sample
+10/07/2026  15:30               544 pre-receive.sample
+10/07/2026  15:30             1.492 prepare-commit-msg.sample
+10/07/2026  15:30             2.783 push-to-checkout.sample
+10/07/2026  15:30             2.308 sendemail-validate.sample
+10/07/2026  15:30             3.650 update.sample
+              14 arquivo(s)         25.827 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\info
+
+10/07/2026  15:30    <DIR>          .
+10/07/2026  15:30    <DIR>          ..
+10/07/2026  15:30               240 exclude
+               1 arquivo(s)            240 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\logs
+
+10/07/2026  15:30    <DIR>          .
+10/07/2026  15:30    <DIR>          ..
+31/07/2026  12:06             2.030 HEAD
+10/07/2026  15:30    <DIR>          refs
+               1 arquivo(s)          2.030 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\logs\refs
+
+10/07/2026  15:30    <DIR>          .
+10/07/2026  15:30    <DIR>          ..
+10/07/2026  18:52    <DIR>          heads
+10/07/2026  15:30    <DIR>          remotes
+               0 arquivo(s)              0 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\logs\refs\heads
+
+10/07/2026  18:52    <DIR>          .
+10/07/2026  18:52    <DIR>          ..
+31/07/2026  12:06             1.589 criacao
+10/07/2026  16:46               427 master
+               2 arquivo(s)          2.016 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\logs\refs\remotes
+
+10/07/2026  15:30    <DIR>          .
+10/07/2026  15:30    <DIR>          ..
+30/07/2026  15:28    <DIR>          origin
+               0 arquivo(s)              0 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\logs\refs\remotes\origin
+
+30/07/2026  15:28    <DIR>          .
+30/07/2026  15:28    <DIR>          ..
+31/07/2026  12:06             1.232 criacao
+10/07/2026  15:30               219 HEAD
+10/07/2026  16:46               176 master
+               3 arquivo(s)          1.627 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects
+
+31/07/2026  12:06    <DIR>          .
+31/07/2026  12:06    <DIR>          ..
+31/07/2026  11:40    <DIR>          01
+30/07/2026  18:10    <DIR>          04
+30/07/2026  15:28    <DIR>          08
+30/07/2026  16:01    <DIR>          0b
+31/07/2026  11:40    <DIR>          0f
+30/07/2026  18:11    <DIR>          13
+10/07/2026  16:46    <DIR>          14
+31/07/2026  00:33    <DIR>          18
+31/07/2026  00:33    <DIR>          19
+31/07/2026  00:33    <DIR>          1d
+31/07/2026  11:42    <DIR>          1e
+31/07/2026  00:34    <DIR>          1f
+30/07/2026  15:28    <DIR>          20
+30/07/2026  15:28    <DIR>          21
+10/07/2026  16:46    <DIR>          23
+30/07/2026  15:28    <DIR>          25
+31/07/2026  00:34    <DIR>          26
+10/07/2026  16:46    <DIR>          27
+30/07/2026  15:28    <DIR>          2c
+30/07/2026  18:10    <DIR>          2e
+31/07/2026  00:34    <DIR>          2f
+31/07/2026  00:34    <DIR>          30
+30/07/2026  18:11    <DIR>          35
+31/07/2026  11:42    <DIR>          37
+31/07/2026  00:34    <DIR>          3d
+30/07/2026  18:11    <DIR>          44
+10/07/2026  16:46    <DIR>          47
+31/07/2026  00:34    <DIR>          4a
+31/07/2026  00:33    <DIR>          4b
+30/07/2026  18:10    <DIR>          4c
+31/07/2026  00:33    <DIR>          4d
+31/07/2026  11:40    <DIR>          4e
+30/07/2026  15:28    <DIR>          50
+31/07/2026  12:06    <DIR>          51
+30/07/2026  18:11    <DIR>          58
+31/07/2026  00:33    <DIR>          5a
+30/07/2026  18:11    <DIR>          5d
+30/07/2026  18:11    <DIR>          5e
+30/07/2026  15:28    <DIR>          62
+31/07/2026  00:34    <DIR>          64
+30/07/2026  15:28    <DIR>          65
+30/07/2026  18:11    <DIR>          68
+31/07/2026  00:33    <DIR>          69
+30/07/2026  15:28    <DIR>          6c
+31/07/2026  00:34    <DIR>          6d
+30/07/2026  18:11    <DIR>          70
+31/07/2026  11:39    <DIR>          73
+10/07/2026  16:46    <DIR>          74
+30/07/2026  18:10    <DIR>          75
+30/07/2026  18:10    <DIR>          76
+31/07/2026  00:34    <DIR>          77
+30/07/2026  15:28    <DIR>          78
+30/07/2026  15:28    <DIR>          79
+31/07/2026  00:34    <DIR>          7a
+30/07/2026  18:10    <DIR>          7f
+31/07/2026  00:33    <DIR>          81
+31/07/2026  11:40    <DIR>          84
+30/07/2026  15:28    <DIR>          87
+31/07/2026  11:42    <DIR>          88
+31/07/2026  12:06    <DIR>          89
+10/07/2026  16:46    <DIR>          8a
+31/07/2026  12:06    <DIR>          8d
+30/07/2026  18:10    <DIR>          8f
+30/07/2026  15:28    <DIR>          92
+31/07/2026  00:34    <DIR>          93
+30/07/2026  18:10    <DIR>          94
+10/07/2026  16:46    <DIR>          95
+30/07/2026  15:28    <DIR>          97
+10/07/2026  16:46    <DIR>          98
+30/07/2026  18:10    <DIR>          9b
+10/07/2026  16:46    <DIR>          9d
+10/07/2026  16:46    <DIR>          9f
+31/07/2026  12:06    <DIR>          a0
+30/07/2026  18:10    <DIR>          a4
+10/07/2026  16:46    <DIR>          a6
+10/07/2026  16:46    <DIR>          a7
+10/07/2026  16:46    <DIR>          a8
+31/07/2026  11:42    <DIR>          aa
+31/07/2026  00:34    <DIR>          ac
+30/07/2026  18:10    <DIR>          ae
+30/07/2026  18:11    <DIR>          af
+30/07/2026  15:28    <DIR>          b2
+31/07/2026  00:34    <DIR>          b3
+30/07/2026  15:28    <DIR>          b5
+31/07/2026  00:33    <DIR>          b7
+10/07/2026  16:46    <DIR>          b9
+30/07/2026  15:28    <DIR>          ba
+31/07/2026  00:33    <DIR>          bc
+31/07/2026  00:33    <DIR>          bd
+31/07/2026  00:33    <DIR>          be
+10/07/2026  16:46    <DIR>          bf
+30/07/2026  18:11    <DIR>          c0
+10/07/2026  16:46    <DIR>          c1
+31/07/2026  11:42    <DIR>          c2
+31/07/2026  00:34    <DIR>          c3
+30/07/2026  15:28    <DIR>          c5
+30/07/2026  18:11    <DIR>          c7
+30/07/2026  18:10    <DIR>          ca
+30/07/2026  15:28    <DIR>          cb
+10/07/2026  16:46    <DIR>          cc
+31/07/2026  00:34    <DIR>          ce
+30/07/2026  18:10    <DIR>          d0
+31/07/2026  00:33    <DIR>          d1
+30/07/2026  15:28    <DIR>          d2
+10/07/2026  16:46    <DIR>          d3
+30/07/2026  15:28    <DIR>          d4
+30/07/2026  15:28    <DIR>          d5
+31/07/2026  12:06    <DIR>          d9
+10/07/2026  16:46    <DIR>          da
+31/07/2026  12:06    <DIR>          de
+31/07/2026  11:40    <DIR>          e0
+10/07/2026  16:46    <DIR>          e5
+10/07/2026  16:46    <DIR>          e6
+30/07/2026  15:28    <DIR>          e7
+30/07/2026  18:11    <DIR>          e9
+30/07/2026  18:10    <DIR>          ee
+30/07/2026  18:11    <DIR>          ef
+31/07/2026  00:33    <DIR>          f0
+31/07/2026  11:42    <DIR>          f2
+30/07/2026  15:28    <DIR>          f3
+30/07/2026  15:28    <DIR>          fb
+10/07/2026  15:30    <DIR>          info
+10/07/2026  15:30    <DIR>          pack
+               0 arquivo(s)              0 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\01
+
+31/07/2026  11:40    <DIR>          .
+31/07/2026  11:40    <DIR>          ..
+31/07/2026  11:40                56 8b66ac2044859b8962f01a466fdae516ba56b1
+               1 arquivo(s)             56 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\04
+
+30/07/2026  18:10    <DIR>          .
+30/07/2026  18:10    <DIR>          ..
+30/07/2026  18:10                60 3a7a1481504e1c15c44beee24cf539671445ef
+               1 arquivo(s)             60 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\08
+
+30/07/2026  15:28    <DIR>          .
+30/07/2026  15:28    <DIR>          ..
+30/07/2026  15:28               689 c0cda48b6c7ec75e9e38346945458213c3373f
+               1 arquivo(s)            689 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\0b
+
+30/07/2026  16:01    <DIR>          .
+30/07/2026  16:01    <DIR>          ..
+30/07/2026  16:01               477 d50ddd6f6e5d7b39784946393946d9b6a1c90f
+               1 arquivo(s)            477 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\0f
+
+31/07/2026  11:40    <DIR>          .
+31/07/2026  11:40    <DIR>          ..
+31/07/2026  11:40               203 3e270257f4c184aab0b5c5d7c9547b2a47b952
+30/07/2026  18:10               104 f16e24951fddf9f6e268f4a6f222e4883b815e
+30/07/2026  18:10                65 fe22781bb20021baa5a659a51cc4dc7bed7577
+               3 arquivo(s)            372 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\13
+
+30/07/2026  18:11    <DIR>          .
+30/07/2026  18:11    <DIR>          ..
+30/07/2026  18:11               202 43d6177907c4dd2ba249b767b4e8bfa489d4ac
+               1 arquivo(s)            202 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\14
+
+10/07/2026  16:46    <DIR>          .
+10/07/2026  16:46    <DIR>          ..
+10/07/2026  16:46                83 ff200d4fcaa01cd31182a4aaaabb1d0495d7e8
+               1 arquivo(s)             83 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\18
+
+31/07/2026  00:33    <DIR>          .
+31/07/2026  00:33    <DIR>          ..
+31/07/2026  00:33             1.560 93c9ee43ee9e6f9a762a6892d4fdec38337779
+               1 arquivo(s)          1.560 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\19
+
+31/07/2026  00:33    <DIR>          .
+31/07/2026  00:33    <DIR>          ..
+31/07/2026  00:33               181 2d2af28805f3c0540432835c6cd97e05d5a46a
+               1 arquivo(s)            181 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\1d
+
+31/07/2026  00:33    <DIR>          .
+31/07/2026  00:33    <DIR>          ..
+31/07/2026  00:33               398 40f65c14ef56179d6aa59f4338d46675282de2
+31/07/2026  00:33           192.231 fb1e12a2365e037d70733117b4e8dfa27a8dd9
+               2 arquivo(s)        192.629 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\1e
+
+31/07/2026  11:42    <DIR>          .
+31/07/2026  11:42    <DIR>          ..
+31/07/2026  11:42                56 1725e29ee80b4d8fc758a7af6cfe65499204c2
+31/07/2026  00:34               477 9e0339069f1bf67de60eaad8d2b5b0c71c8996
+               2 arquivo(s)            533 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\1f
+
+31/07/2026  00:34    <DIR>          .
+31/07/2026  00:34    <DIR>          ..
+31/07/2026  00:34               278 cdb2038abe84ed12d9df8fec0b8f7e67885d97
+               1 arquivo(s)            278 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\20
+
+30/07/2026  15:28    <DIR>          .
+30/07/2026  15:28    <DIR>          ..
+30/07/2026  15:28             1.084 6eaf1dd0c41eb0a46975bcd5efd273c6fc743f
+               1 arquivo(s)          1.084 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\21
+
+30/07/2026  15:28    <DIR>          .
+30/07/2026  15:28    <DIR>          ..
+30/07/2026  15:28            12.473 1d6c59c200c2ea2ac5956117b5b4a4d0b83794
+               1 arquivo(s)         12.473 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\23
+
+10/07/2026  16:46    <DIR>          .
+10/07/2026  16:46    <DIR>          ..
+10/07/2026  16:46                71 c296ae24df4c4f85c4d4aad857b7771c829c08
+               1 arquivo(s)             71 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\25
+
+30/07/2026  15:28    <DIR>          .
+30/07/2026  15:28    <DIR>          ..
+30/07/2026  15:28               166 ccbc8af0b150997f9321c7609c66dace94fc4c
+               1 arquivo(s)            166 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\26
+
+31/07/2026  00:34    <DIR>          .
+31/07/2026  00:34    <DIR>          ..
+31/07/2026  00:34               189 438e2c2f82a2607195d915f1af27bda472452d
+               1 arquivo(s)            189 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\27
+
+10/07/2026  16:46    <DIR>          .
+10/07/2026  16:46    <DIR>          ..
+10/07/2026  16:46                86 6608aafbec9c1be5f1537d4a28e167673e4510
+               1 arquivo(s)             86 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\2c
+
+30/07/2026  15:28    <DIR>          .
+30/07/2026  15:28    <DIR>          ..
+30/07/2026  15:28               259 7d84a4f88a759c323b76561153e5d6841e099b
+               1 arquivo(s)            259 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\2e
+
+30/07/2026  18:10    <DIR>          .
+30/07/2026  18:10    <DIR>          ..
+10/07/2026  16:46               294 1e447f6ead6e2947a7939572d5b6616e020ea1
+30/07/2026  18:10               259 8d5fcc83f65ae91766f6c138a0906e4a742252
+               2 arquivo(s)            553 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\2f
+
+31/07/2026  00:34    <DIR>          .
+31/07/2026  00:34    <DIR>          ..
+31/07/2026  00:34                80 30cade2ecb4952b84aaafaa286725c105e5c19
+               1 arquivo(s)             80 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\30
+
+31/07/2026  00:34    <DIR>          .
+31/07/2026  00:34    <DIR>          ..
+31/07/2026  00:34               388 9376ececef7df91cccb7351d6d28d41b6e5c7f
+30/07/2026  16:01               201 94471e435d16976d3b46dbd54b54f16ebfc933
+               2 arquivo(s)            589 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\35
+
+30/07/2026  18:11    <DIR>          .
+30/07/2026  18:11    <DIR>          ..
+30/07/2026  18:11               327 f0809d9b61956f83098363b76a650bd97a0420
+               1 arquivo(s)            327 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\37
+
+31/07/2026  11:42    <DIR>          .
+31/07/2026  11:42    <DIR>          ..
+30/07/2026  18:10                67 a371f6f91ccba5986e9de5da14b176b57b1b84
+31/07/2026  11:42               272 c2ce0f1777c16a04d0d8681bb6a510e12b8ff4
+               2 arquivo(s)            339 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\3d
+
+31/07/2026  00:34    <DIR>          .
+31/07/2026  00:34    <DIR>          ..
+31/07/2026  00:34               151 68320e4dcefb7dde70713e6893e5276dc9d222
+30/07/2026  15:28               147 ede7b6414fe3d1be67601ae484c4983fbf9898
+               2 arquivo(s)            298 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\44
+
+30/07/2026  18:11    <DIR>          .
+30/07/2026  18:11    <DIR>          ..
+30/07/2026  18:11               142 4fb7218163538ff05fea03a12cc0aa7457b3a1
+30/07/2026  15:28               279 5d9f04636d866a67763a6c30c3039902722790
+30/07/2026  15:28               170 79b82acdad5bd7a7622b78411adb9cb12b6e23
+               3 arquivo(s)            591 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\47
+
+10/07/2026  16:46    <DIR>          .
+10/07/2026  16:46    <DIR>          ..
+10/07/2026  16:46                80 f5eb8e73f62bb0e65820aeb8fb8afdcbd5a4bd
+               1 arquivo(s)             80 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\4a
+
+31/07/2026  00:34    <DIR>          .
+31/07/2026  00:34    <DIR>          ..
+31/07/2026  00:34                55 a8af2bddaf1118172e202926c876c98a2ea2ce
+               1 arquivo(s)             55 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\4b
+
+31/07/2026  00:33    <DIR>          .
+31/07/2026  00:33    <DIR>          ..
+31/07/2026  00:33               265 13113c0525cf9a1140e36886a88224d0732b5c
+               1 arquivo(s)            265 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\4c
+
+30/07/2026  18:10    <DIR>          .
+30/07/2026  18:10    <DIR>          ..
+30/07/2026  18:10            26.310 7fb31328a9b6239ce16e4a98a222dd1c294ce3
+               1 arquivo(s)         26.310 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\4d
+
+31/07/2026  00:33    <DIR>          .
+31/07/2026  00:33    <DIR>          ..
+31/07/2026  00:33         1.346.726 18b67f66b3943bf40fbd1601965087db9d37c0
+30/07/2026  16:01               293 eb28a34d1e032a2bd196648975a776f0ea7130
+               2 arquivo(s)      1.347.019 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\4e
+
+31/07/2026  11:40    <DIR>          .
+31/07/2026  11:40    <DIR>          ..
+31/07/2026  11:40               477 d2ba0e764c3878f5782b32953e63ac0ae3d6cd
+10/07/2026  16:46               102 d6b44fe0095fa9b37ef5785f35d1e110506c21
+               2 arquivo(s)            579 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\50
+
+30/07/2026  15:28    <DIR>          .
+30/07/2026  15:28    <DIR>          ..
+30/07/2026  15:28               153 263ca8398887bebd02293f2d7511642ae62683
+               1 arquivo(s)            153 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\51
+
+31/07/2026  12:06    <DIR>          .
+31/07/2026  12:06    <DIR>          ..
+31/07/2026  12:06               206 0d2ec01787537e2195b4400472bbb8e4211107
+               1 arquivo(s)            206 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\58
+
+30/07/2026  18:11    <DIR>          .
+30/07/2026  18:11    <DIR>          ..
+30/07/2026  18:11               102 10553b8c224dd8890f684101411840b9eb2eb5
+               1 arquivo(s)            102 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\5a
+
+31/07/2026  00:33    <DIR>          .
+31/07/2026  00:33    <DIR>          ..
+31/07/2026  00:33               242 88bfcc3bb6e0c364b0c6de2dae5ba87b754762
+               1 arquivo(s)            242 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\5d
+
+30/07/2026  18:11    <DIR>          .
+30/07/2026  18:11    <DIR>          ..
+30/07/2026  18:11                56 64f30b2a43feb3183d89eeb0bb8d852df35b03
+10/07/2026  16:46               105 735da8089a9ae22828569eea9d497677d876b0
+               2 arquivo(s)            161 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\5e
+
+30/07/2026  18:11    <DIR>          .
+30/07/2026  18:11    <DIR>          ..
+30/07/2026  18:11               106 37a42d6cc117cf62b8c03a9f3c368de74b8b39
+               1 arquivo(s)            106 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\62
+
+30/07/2026  15:28    <DIR>          .
+30/07/2026  15:28    <DIR>          ..
+30/07/2026  15:28               116 431a2a39447075997a193f2d9e8297ea10e1cc
+               1 arquivo(s)            116 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\64
+
+31/07/2026  00:34    <DIR>          .
+31/07/2026  00:34    <DIR>          ..
+31/07/2026  00:34               252 817f682f249d339f346fef6cd92efcf3a707a3
+               1 arquivo(s)            252 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\65
+
+30/07/2026  15:28    <DIR>          .
+30/07/2026  15:28    <DIR>          ..
+30/07/2026  15:28               322 8531fa41fdcba49bc6ecfc81ed70a34bac5aea
+               1 arquivo(s)            322 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\68
+
+30/07/2026  18:11    <DIR>          .
+30/07/2026  18:11    <DIR>          ..
+30/07/2026  18:11               102 8185b47f22051b6f637b651b88f0f90f1e4547
+               1 arquivo(s)            102 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\69
+
+31/07/2026  00:33    <DIR>          .
+31/07/2026  00:33    <DIR>          ..
+31/07/2026  00:33           230.892 ef75fc14f55731ae85a2df5c3cb928a66d6e43
+               1 arquivo(s)        230.892 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\6c
+
+30/07/2026  15:28    <DIR>          .
+30/07/2026  15:28    <DIR>          ..
+30/07/2026  15:28                89 9526c03683c4f1f6c454a22564eee2769a23b0
+               1 arquivo(s)             89 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\6d
+
+31/07/2026  00:34    <DIR>          .
+31/07/2026  00:34    <DIR>          ..
+31/07/2026  00:34               122 7a6c9669dcd1781846a87951efa0fe02c73cf7
+               1 arquivo(s)            122 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\70
+
+30/07/2026  18:11    <DIR>          .
+30/07/2026  18:11    <DIR>          ..
+30/07/2026  18:11               105 6b722d1835a68e4341c4e1fc0b8ed91f1ce617
+               1 arquivo(s)            105 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\73
+
+31/07/2026  11:39    <DIR>          .
+31/07/2026  11:39    <DIR>          ..
+31/07/2026  11:39               272 d19b0da6b79e0aa09a68ea675096df34503b66
+               1 arquivo(s)            272 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\74
+
+10/07/2026  16:46    <DIR>          .
+10/07/2026  16:46    <DIR>          ..
+10/07/2026  16:46               141 89e211dde0e79bcb2b586b0ba2d9d8ad70a5da
+               1 arquivo(s)            141 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\75
+
+30/07/2026  18:10    <DIR>          .
+30/07/2026  18:10    <DIR>          ..
+30/07/2026  18:10               170 2b958d3f430e32a5cee22dc990482acd6c7456
+               1 arquivo(s)            170 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\76
+
+30/07/2026  18:10    <DIR>          .
+30/07/2026  18:10    <DIR>          ..
+30/07/2026  18:10               180 9fc2f9374bb9fb2e977f865a4a6d33b9f239a5
+               1 arquivo(s)            180 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\77
+
+31/07/2026  00:34    <DIR>          .
+31/07/2026  00:34    <DIR>          ..
+31/07/2026  00:34               102 6081109241a33728c92c35cdac2603c33e1a06
+               1 arquivo(s)            102 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\78
+
+30/07/2026  15:28    <DIR>          .
+30/07/2026  15:28    <DIR>          ..
+30/07/2026  15:28               128 85cb680f9a05a14b8f1692164e334ee54909f2
+               1 arquivo(s)            128 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\79
+
+30/07/2026  15:28    <DIR>          .
+30/07/2026  15:28    <DIR>          ..
+30/07/2026  15:28               705 b7163a904e445eb73139a3ed6b693a293329ac
+               1 arquivo(s)            705 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\7a
+
+31/07/2026  00:34    <DIR>          .
+31/07/2026  00:34    <DIR>          ..
+10/07/2026  16:46               232 33a688c2aace40b6a28e7b8ac8d8db24088c2a
+31/07/2026  00:34               142 f783bb4c5f01ce6b3858eba4ba09beef3fee80
+               2 arquivo(s)            374 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\7f
+
+30/07/2026  18:10    <DIR>          .
+30/07/2026  18:10    <DIR>          ..
+30/07/2026  18:10               104 560c5ba3526dae6b34521c8c4858eeb966a30a
+               1 arquivo(s)            104 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\81
+
+31/07/2026  00:33    <DIR>          .
+31/07/2026  00:33    <DIR>          ..
+10/07/2026  16:46                80 028054230afa19aa45dd56ef49e082b1be133e
+31/07/2026  00:33            15.980 101dabbf65b5f541bad5724a0c0418ca7648e5
+               2 arquivo(s)         16.060 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\84
+
+31/07/2026  11:40    <DIR>          .
+31/07/2026  11:40    <DIR>          ..
+31/07/2026  11:40               388 4e2b44c1f59fef0085f755ec652f7c67d6e485
+               1 arquivo(s)            388 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\87
+
+30/07/2026  15:28    <DIR>          .
+30/07/2026  15:28    <DIR>          ..
+30/07/2026  15:28               291 2ffbd9d0525983d95746522465bc88bc140637
+10/07/2026  16:46               185 804bdf0682f58543bd4316215c6d3ce43da716
+               2 arquivo(s)            476 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\88
+
+31/07/2026  11:42    <DIR>          .
+31/07/2026  11:42    <DIR>          ..
+31/07/2026  11:42               142 1c47a3b05de66151661eec9fd124bea4ecfb60
+               1 arquivo(s)            142 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\89
+
+31/07/2026  12:06    <DIR>          .
+31/07/2026  12:06    <DIR>          ..
+31/07/2026  12:06               388 41d0d4a0989b922f613cd1879788c80d4fa39c
+               1 arquivo(s)            388 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\8a
+
+10/07/2026  16:46    <DIR>          .
+10/07/2026  16:46    <DIR>          ..
+10/07/2026  16:46                80 d4ca183659aa91351dcca6d8744a7b99c204fd
+               1 arquivo(s)             80 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\8d
+
+31/07/2026  12:06    <DIR>          .
+31/07/2026  12:06    <DIR>          ..
+31/07/2026  12:06               142 caaa185c1502714c8beecf7b74aee2df6c2fa0
+               1 arquivo(s)            142 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\8f
+
+30/07/2026  18:10    <DIR>          .
+30/07/2026  18:10    <DIR>          ..
+30/07/2026  18:10                62 fb2f0f0a6489a33017e5641ca1cfd96149a34a
+               1 arquivo(s)             62 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\92
+
+30/07/2026  15:28    <DIR>          .
+30/07/2026  15:28    <DIR>          ..
+10/07/2026  16:46                69 04174e6a24f934f64906d305ae03ee5b87f4c0
+30/07/2026  15:28               482 19f2489ae47021a1a3147acbde56bc908e38c5
+               2 arquivo(s)            551 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\93
+
+31/07/2026  00:34    <DIR>          .
+31/07/2026  00:34    <DIR>          ..
+31/07/2026  00:34               111 aabd4e4bbcf55b3bf7ffd4208bea75694eed15
+               1 arquivo(s)            111 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\94
+
+30/07/2026  18:10    <DIR>          .
+30/07/2026  18:10    <DIR>          ..
+10/07/2026  16:46                72 67dd11bfea171ed6c42578fe03d0fdd57077e1
+30/07/2026  18:10                61 ea85a350254addb1e1c5d7bab738b0bbb16b9d
+               2 arquivo(s)            133 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\95
+
+10/07/2026  16:46    <DIR>          .
+10/07/2026  16:46    <DIR>          ..
+10/07/2026  16:46                93 69a17e0b12b120e0c74974e609274f42df12c9
+10/07/2026  16:46                80 84e4a75f588bf12f537345896fca232b0ef115
+               2 arquivo(s)            173 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\97
+
+30/07/2026  15:28    <DIR>          .
+30/07/2026  15:28    <DIR>          ..
+30/07/2026  15:28         3.121.508 e0513cc6e7f1f426d68fd557679f18870d0d9f
+               1 arquivo(s)      3.121.508 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\98
+
+10/07/2026  16:46    <DIR>          .
+10/07/2026  16:46    <DIR>          ..
+30/07/2026  15:28                69 f8cb1d8a77ee7187bc9bbfecf8a00b01e4b525
+               1 arquivo(s)             69 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\9b
+
+30/07/2026  18:10    <DIR>          .
+30/07/2026  18:10    <DIR>          ..
+30/07/2026  18:10               161 21000b31d18671e761074602fb710111d76698
+               1 arquivo(s)            161 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\9d
+
+10/07/2026  16:46    <DIR>          .
+10/07/2026  16:46    <DIR>          ..
+10/07/2026  16:46               207 b3597ee9081129b25ddec83318bfc6c9e6dd9b
+               1 arquivo(s)            207 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\9f
+
+10/07/2026  16:46    <DIR>          .
+10/07/2026  16:46    <DIR>          ..
+10/07/2026  16:46                71 a5cdea7c4b111f01bb0d63bace6cb44a7a5387
+               1 arquivo(s)             71 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\a0
+
+31/07/2026  12:06    <DIR>          .
+31/07/2026  12:06    <DIR>          ..
+31/07/2026  12:06               477 10a9df538e1a3ca5f85c62afb9f3b81833ec69
+30/07/2026  15:28             1.035 dd3b6c4778d8df69963557e6c29da64015cb96
+               2 arquivo(s)          1.512 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\a4
+
+30/07/2026  18:10    <DIR>          .
+30/07/2026  18:10    <DIR>          ..
+30/07/2026  18:10               238 07223e18e1ff49d0d08a01cb102401dac54012
+               1 arquivo(s)            238 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\a6
+
+10/07/2026  16:46    <DIR>          .
+10/07/2026  16:46    <DIR>          ..
+10/07/2026  16:46                72 773c05246c55e965346229639bb4d01d09cd8a
+               1 arquivo(s)             72 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\a7
+
+10/07/2026  16:46    <DIR>          .
+10/07/2026  16:46    <DIR>          ..
+10/07/2026  16:46                86 99bf6de5c38afc15ca00baf0cb23724cd8a12e
+               1 arquivo(s)             86 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\a8
+
+10/07/2026  16:46    <DIR>          .
+10/07/2026  16:46    <DIR>          ..
+10/07/2026  16:46                72 0b898ed96ea3887cd0ca6fe0b3bae0f10a5347
+               1 arquivo(s)             72 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\aa
+
+31/07/2026  11:42    <DIR>          .
+31/07/2026  11:42    <DIR>          ..
+31/07/2026  11:42               203 0e6710ad08d00d62b7cbc612b3d3c3bba96a1a
+10/07/2026  16:46               238 9b638a13bad1179bc59713807ed6fe008fae65
+               2 arquivo(s)            441 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\ac
+
+31/07/2026  00:34    <DIR>          .
+31/07/2026  00:34    <DIR>          ..
+31/07/2026  00:34                84 4e9befcb73006f61c4e5babb85c78d785473f9
+               1 arquivo(s)             84 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\ae
+
+30/07/2026  18:10    <DIR>          .
+30/07/2026  18:10    <DIR>          ..
+30/07/2026  18:10               148 4373e4c202069385d0914eed51c4a98e61ce79
+               1 arquivo(s)            148 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\af
+
+30/07/2026  18:11    <DIR>          .
+30/07/2026  18:11    <DIR>          ..
+10/07/2026  16:46               262 41919354073d15ab799880e81a242c499d5c48
+30/07/2026  18:11               477 a7745ed561892608b30b2071ee597b0b6ff76d
+               2 arquivo(s)            739 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\b2
+
+30/07/2026  15:28    <DIR>          .
+30/07/2026  15:28    <DIR>          ..
+10/07/2026  16:46                65 377f7e43a1fdc1bf15f586fa89a3d13e32ab25
+30/07/2026  15:28               478 a6a6b3c5fb1d3f1989adb44f709d0c0ee2f3c6
+               2 arquivo(s)            543 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\b3
+
+31/07/2026  00:34    <DIR>          .
+31/07/2026  00:34    <DIR>          ..
+31/07/2026  00:34                48 b6b7e10962c6bdb0fb2609cc3e251f7ae68a56
+               1 arquivo(s)             48 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\b5
+
+30/07/2026  15:28    <DIR>          .
+30/07/2026  15:28    <DIR>          ..
+30/07/2026  15:28               465 16fc9e6b83c889787ebaf178b456cac5f72731
+               1 arquivo(s)            465 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\b7
+
+31/07/2026  00:33    <DIR>          .
+31/07/2026  00:33    <DIR>          ..
+31/07/2026  00:33               418 4896e1efce2c1bef5c7f372f6991bddac33ffe
+               1 arquivo(s)            418 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\b9
+
+10/07/2026  16:46    <DIR>          .
+10/07/2026  16:46    <DIR>          ..
+10/07/2026  16:46               143 d0693c9abddff4ccb7609f1dc305c23bf8f128
+               1 arquivo(s)            143 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\ba
+
+30/07/2026  15:28    <DIR>          .
+30/07/2026  15:28    <DIR>          ..
+30/07/2026  15:28                96 5ccc4a2bebbc9dfb124bdea3dd7a7bae4776cc
+10/07/2026  16:46               128 f97eea200eb244d8b186d23644f01d0e40d5bb
+               2 arquivo(s)            224 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\bc
+
+31/07/2026  00:33    <DIR>          .
+31/07/2026  00:33    <DIR>          ..
+30/07/2026  15:28               142 3603ab5d3eadcb6fbf576a20bd170dfb3fe8f4
+31/07/2026  00:33               142 5d22831d544320040cfebb44237ca82cf30851
+30/07/2026  18:10                59 f9e15bedf1938a89aa1d0e3724ac845ad20c82
+               3 arquivo(s)            343 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\bd
+
+31/07/2026  00:33    <DIR>          .
+31/07/2026  00:33    <DIR>          ..
+31/07/2026  00:33             1.201 0f53e884e83d3305a5e46134d1d85f07608345
+30/07/2026  18:11               105 1b226f961b9c31e5dff4795e136b3866774ff0
+30/07/2026  18:11               104 88e2adabeed5473fdd783dcd148cb2273369a5
+               3 arquivo(s)          1.410 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\be
+
+31/07/2026  00:33    <DIR>          .
+31/07/2026  00:33    <DIR>          ..
+31/07/2026  00:33               338 44e3a69f3d72d8480b5dbfd33a076164da9cfe
+               1 arquivo(s)            338 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\bf
+
+10/07/2026  16:46    <DIR>          .
+10/07/2026  16:46    <DIR>          ..
+10/07/2026  16:46                56 f8005ebb97c97316b7b4ca8429ad94df285868
+               1 arquivo(s)             56 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\c0
+
+30/07/2026  18:11    <DIR>          .
+30/07/2026  18:11    <DIR>          ..
+30/07/2026  18:11               236 1f349b5f5496747cebee841d464f3a3acd0a78
+               1 arquivo(s)            236 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\c1
+
+10/07/2026  16:46    <DIR>          .
+10/07/2026  16:46    <DIR>          ..
+10/07/2026  16:46               110 02711c6fc779b804907b1cab35dabbc08f2db0
+               1 arquivo(s)            110 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\c2
+
+31/07/2026  11:42    <DIR>          .
+31/07/2026  11:42    <DIR>          ..
+31/07/2026  11:42               477 0c9a5c34133a5886f8cb3350eabab0f4f15ab5
+               1 arquivo(s)            477 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\c3
+
+31/07/2026  00:34    <DIR>          .
+31/07/2026  00:34    <DIR>          ..
+31/07/2026  00:34               236 f4e1f82b3007ec473c243114f2ea98ffc55105
+               1 arquivo(s)            236 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\c5
+
+30/07/2026  15:28    <DIR>          .
+30/07/2026  15:28    <DIR>          ..
+30/07/2026  15:28               206 6ddfbc69b0ab1ba382827f4ffbcf3720cf8545
+               1 arquivo(s)            206 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\c7
+
+30/07/2026  18:11    <DIR>          .
+30/07/2026  18:11    <DIR>          ..
+30/07/2026  18:11               128 6676b6cd7de851fe7da234e75a4fe5b78f0ff3
+               1 arquivo(s)            128 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\ca
+
+30/07/2026  18:10    <DIR>          .
+30/07/2026  18:10    <DIR>          ..
+30/07/2026  18:10                61 1af5539cb24a61d54bc62023975f2349fd921c
+30/07/2026  18:10               255 cf10621db5c00146eda1ded73e84ac69148818
+               2 arquivo(s)            316 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\cb
+
+30/07/2026  15:28    <DIR>          .
+30/07/2026  15:28    <DIR>          ..
+30/07/2026  15:28               211 a73ad58593252e0be88a9f49a89808c2dc22a2
+               1 arquivo(s)            211 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\cc
+
+10/07/2026  16:46    <DIR>          .
+10/07/2026  16:46    <DIR>          ..
+10/07/2026  16:46               435 3b2815c9bf3f03fa6116e49bc5353ee46e9e33
+               1 arquivo(s)            435 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\ce
+
+31/07/2026  00:34    <DIR>          .
+31/07/2026  00:34    <DIR>          ..
+31/07/2026  00:34               128 3f76e18f0af8ae2fdcd3f850926d6a0f7fe1e6
+               1 arquivo(s)            128 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\d0
+
+30/07/2026  18:10    <DIR>          .
+30/07/2026  18:10    <DIR>          ..
+30/07/2026  18:10            11.826 804a04221b44340a0b0222dbf1598c6e56e756
+10/07/2026  16:46               176 b3eed28a23463f9336c92156e608104e717e52
+               2 arquivo(s)         12.002 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\d1
+
+31/07/2026  00:33    <DIR>          .
+31/07/2026  00:33    <DIR>          ..
+31/07/2026  00:33               922 c7bc0790584a82125a7ed6c667ac511ae59f63
+31/07/2026  00:33           520.465 d74afa346a751d6d7d99e2ef559409f9dd8224
+               2 arquivo(s)        521.387 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\d2
+
+30/07/2026  15:28    <DIR>          .
+30/07/2026  15:28    <DIR>          ..
+30/07/2026  15:28               121 cf8a68455524412c6f6d7601af2c95f1bcec98
+               1 arquivo(s)            121 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\d3
+
+10/07/2026  16:46    <DIR>          .
+10/07/2026  16:46    <DIR>          ..
+10/07/2026  16:46                71 296588bc3ed55f14bb0e9e82cc352f680eb7fe
+               1 arquivo(s)             71 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\d4
+
+30/07/2026  15:28    <DIR>          .
+30/07/2026  15:28    <DIR>          ..
+30/07/2026  15:28                87 029eb97cbd0fee33a46186846f970a371d4edf
+               1 arquivo(s)             87 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\d5
+
+30/07/2026  15:28    <DIR>          .
+30/07/2026  15:28    <DIR>          ..
+30/07/2026  15:28               450 cf468e1a11501fbeffdf3a85309e6a6a85f637
+               1 arquivo(s)            450 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\d9
+
+31/07/2026  12:06    <DIR>          .
+31/07/2026  12:06    <DIR>          ..
+31/07/2026  12:06                56 60c0a6f9a8808558baace2eda72ed09a233a4d
+               1 arquivo(s)             56 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\da
+
+10/07/2026  16:46    <DIR>          .
+10/07/2026  16:46    <DIR>          ..
+10/07/2026  16:46                66 cdc9515075781a8b332b2f9e67724306ba375a
+               1 arquivo(s)             66 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\de
+
+31/07/2026  12:06    <DIR>          .
+31/07/2026  12:06    <DIR>          ..
+31/07/2026  12:06               271 2fc4c2c26b01f532934ee15913496d6f2d69e7
+               1 arquivo(s)            271 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\e0
+
+31/07/2026  11:40    <DIR>          .
+31/07/2026  11:40    <DIR>          ..
+31/07/2026  11:40               142 1ecb8f262da2775cfcdeeb8f6bfc7234a3d67e
+30/07/2026  15:28               266 f804627468bdee50470c5fbec024809599c829
+               2 arquivo(s)            408 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\e5
+
+10/07/2026  16:46    <DIR>          .
+10/07/2026  16:46    <DIR>          ..
+10/07/2026  16:46                83 5ea446e9a408410c036e89a73de94a8f4827f1
+               1 arquivo(s)             83 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\e6
+
+10/07/2026  16:46    <DIR>          .
+10/07/2026  16:46    <DIR>          ..
+30/07/2026  15:28                69 30d3f0d0b6a7defa9e8572258375bd1b74cee6
+30/07/2026  18:10                15 9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+               2 arquivo(s)             84 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\e7
+
+30/07/2026  15:28    <DIR>          .
+30/07/2026  15:28    <DIR>          ..
+30/07/2026  15:28               238 823a017f2b11efc732842e4c56d0b306a2bd59
+               1 arquivo(s)            238 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\e9
+
+30/07/2026  18:11    <DIR>          .
+30/07/2026  18:11    <DIR>          ..
+30/07/2026  18:11               108 27ed48de933cfe8f435c48353f3b032e20395f
+               1 arquivo(s)            108 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\ee
+
+30/07/2026  18:10    <DIR>          .
+30/07/2026  18:10    <DIR>          ..
+30/07/2026  18:10               197 1570eb9fcebce5fe567128ac7ae51543b91faa
+               1 arquivo(s)            197 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\ef
+
+30/07/2026  18:11    <DIR>          .
+30/07/2026  18:11    <DIR>          ..
+10/07/2026  16:46                84 432fe9731418b57e86570f2ee092e44dafa2c8
+30/07/2026  18:11               121 c25691ee40b9f1c687682ffd62eff2906bdbbe
+               2 arquivo(s)            205 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\f0
+
+31/07/2026  00:33    <DIR>          .
+31/07/2026  00:33    <DIR>          ..
+10/07/2026  16:46                81 632c465d1106273df237d318d33f25a7e52415
+31/07/2026  00:33            95.186 fd4857f452ccb9ad17db257d04bf76542ef1f1
+               2 arquivo(s)         95.267 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\f2
+
+31/07/2026  11:42    <DIR>          .
+31/07/2026  11:42    <DIR>          ..
+30/07/2026  15:28               253 92aa46ada85e28cc7adf66f4ebf21f89dd2ebf
+31/07/2026  11:42               388 c8b28c6bc12060f86d3c9c42c914cd7ed4cef1
+               2 arquivo(s)            641 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\f3
+
+30/07/2026  15:28    <DIR>          .
+30/07/2026  15:28    <DIR>          ..
+30/07/2026  15:28               782 0830b054fa25ff630ceeb116b2d087c525c0b1
+               1 arquivo(s)            782 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\fb
+
+30/07/2026  15:28    <DIR>          .
+30/07/2026  15:28    <DIR>          ..
+30/07/2026  15:28               377 1dd01228005cc2394e0703a3d872af373f3409
+               1 arquivo(s)            377 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\info
+
+10/07/2026  15:30    <DIR>          .
+10/07/2026  15:30    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\objects\pack
+
+10/07/2026  15:30    <DIR>          .
+10/07/2026  15:30    <DIR>          ..
+10/07/2026  15:30             3.956 pack-607f0fae68e302019d07d88fd8215e739c79cdd6.idx
+10/07/2026  16:46         5.119.680 pack-607f0fae68e302019d07d88fd8215e739c79cdd6.pack
+10/07/2026  15:30               464 pack-607f0fae68e302019d07d88fd8215e739c79cdd6.rev
+               3 arquivo(s)      5.124.100 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\refs
+
+10/07/2026  15:30    <DIR>          .
+10/07/2026  15:30    <DIR>          ..
+31/07/2026  12:06    <DIR>          heads
+10/07/2026  15:30    <DIR>          remotes
+10/07/2026  15:30    <DIR>          tags
+               0 arquivo(s)              0 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\refs\heads
+
+31/07/2026  12:06    <DIR>          .
+31/07/2026  12:06    <DIR>          ..
+31/07/2026  12:06                41 criacao
+10/07/2026  16:46                41 master
+               2 arquivo(s)             82 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\refs\remotes
+
+10/07/2026  15:30    <DIR>          .
+10/07/2026  15:30    <DIR>          ..
+31/07/2026  12:06    <DIR>          origin
+               0 arquivo(s)              0 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\refs\remotes\origin
+
+31/07/2026  12:06    <DIR>          .
+31/07/2026  12:06    <DIR>          ..
+31/07/2026  12:06                41 criacao
+10/07/2026  15:30                32 HEAD
+10/07/2026  16:46                41 master
+               3 arquivo(s)            114 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.git\refs\tags
+
+10/07/2026  15:30    <DIR>          .
+10/07/2026  15:30    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\.vscode
+
+10/07/2026  15:30    <DIR>          .
+10/07/2026  15:30    <DIR>          ..
+10/07/2026  15:30                42 extensions.json
+               1 arquivo(s)             42 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\dist
+
+31/07/2026  11:35    <DIR>          .
+31/07/2026  11:35    <DIR>          ..
+31/07/2026  11:35    <DIR>          assets
+31/07/2026  11:35    <DIR>          cv
+31/07/2026  11:35    <DIR>          images
+31/07/2026  11:35               432 index.html
+               1 arquivo(s)            432 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\dist\assets
+
+31/07/2026  11:35    <DIR>          .
+31/07/2026  11:35    <DIR>          ..
+31/07/2026  11:35           230.799 fundo1-BSkewdTp.png
+31/07/2026  11:35            63.599 index-BahUTzGW.js
+31/07/2026  11:35             9.228 index-CSATP6fk.css
+               3 arquivo(s)        303.626 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\dist\cv
+
+31/07/2026  11:35    <DIR>          .
+31/07/2026  11:35    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\dist\images
+
+31/07/2026  11:35    <DIR>          .
+31/07/2026  11:35    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\modelo
+
+10/07/2026  15:43    <DIR>          .
+10/07/2026  15:43    <DIR>          ..
+10/07/2026  15:30         1.796.490 layout-portifolio.png
+               1 arquivo(s)      1.796.490 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules
+
+30/07/2026  18:09    <DIR>          .
+30/07/2026  18:09    <DIR>          ..
+30/07/2026  18:05    <DIR>          .bin
+30/07/2026  18:06            24.600 .package-lock.json
+30/07/2026  18:10    <DIR>          .tmp
+30/07/2026  18:11    <DIR>          .vite
+31/07/2026  11:48    <DIR>          .vite-temp
+30/07/2026  15:53    <DIR>          .vue-global-types
+30/07/2026  15:17    <DIR>          @babel
+30/07/2026  15:17    <DIR>          @esbuild
+30/07/2026  15:17    <DIR>          @jridgewell
+30/07/2026  15:31    <DIR>          @rollup
+30/07/2026  15:17    <DIR>          @types
+30/07/2026  15:17    <DIR>          @vitejs
+30/07/2026  18:05    <DIR>          @volar
+30/07/2026  18:05    <DIR>          @vue
+30/07/2026  18:05    <DIR>          alien-signals
+30/07/2026  15:17    <DIR>          csstype
+30/07/2026  15:17    <DIR>          entities
+30/07/2026  15:17    <DIR>          esbuild
+30/07/2026  15:17    <DIR>          estree-walker
+30/07/2026  15:17    <DIR>          fdir
+30/07/2026  15:17    <DIR>          magic-string
+30/07/2026  15:17    <DIR>          muggle-string
+30/07/2026  15:17    <DIR>          nanoid
+30/07/2026  15:17    <DIR>          path-browserify
+30/07/2026  15:17    <DIR>          picocolors
+30/07/2026  15:17    <DIR>          picomatch
+30/07/2026  15:17    <DIR>          postcss
+30/07/2026  15:17    <DIR>          rollup
+30/07/2026  15:17    <DIR>          source-map-js
+30/07/2026  15:17    <DIR>          tinyglobby
+30/07/2026  15:17    <DIR>          typescript
+30/07/2026  15:17    <DIR>          undici-types
+30/07/2026  15:17    <DIR>          vite
+30/07/2026  15:17    <DIR>          vscode-uri
+30/07/2026  15:17    <DIR>          vue
+30/07/2026  18:05    <DIR>          vue-tsc
+               1 arquivo(s)         24.600 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\.bin
+
+30/07/2026  18:05    <DIR>          .
+30/07/2026  18:05    <DIR>          ..
+30/07/2026  15:17    <SYMLINK>      esbuild [..\esbuild\bin\esbuild]
+30/07/2026  15:17    <SYMLINK>      nanoid [..\nanoid\bin\nanoid.cjs]
+30/07/2026  15:17    <SYMLINK>      parser [..\@babel\parser\bin\babel-parser.js]
+30/07/2026  15:17    <SYMLINK>      rollup [..\rollup\dist\bin\rollup]
+30/07/2026  15:17    <SYMLINK>      tsc [..\typescript\bin\tsc]
+30/07/2026  15:17    <SYMLINK>      tsserver [..\typescript\bin\tsserver]
+30/07/2026  15:17    <SYMLINK>      vite [..\vite\bin\vite.js]
+30/07/2026  18:05    <SYMLINK>      vue-tsc [..\vue-tsc\bin\vue-tsc.js]
+               8 arquivo(s)              0 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\.tmp
+
+30/07/2026  18:10    <DIR>          .
+30/07/2026  18:10    <DIR>          ..
+31/07/2026  11:35             1.911 tsconfig.app.tsbuildinfo
+31/07/2026  11:35                51 tsconfig.node.tsbuildinfo
+               2 arquivo(s)          1.962 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\.vite
+
+30/07/2026  18:11    <DIR>          .
+30/07/2026  18:11    <DIR>          ..
+30/07/2026  18:11    <DIR>          deps
+               0 arquivo(s)              0 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\.vite\deps
+
+30/07/2026  18:11    <DIR>          .
+30/07/2026  18:11    <DIR>          ..
+30/07/2026  18:11                23 package.json
+30/07/2026  18:11           390.050 vue.js
+30/07/2026  18:11           688.661 vue.js.map
+30/07/2026  18:11               308 _metadata.json
+               4 arquivo(s)      1.079.042 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\.vite-temp
+
+31/07/2026  11:48    <DIR>          .
+31/07/2026  11:48    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\.vue-global-types
+
+30/07/2026  15:53    <DIR>          .
+30/07/2026  15:53    <DIR>          ..
+30/07/2026  17:48             6.521 vue_3.5_0_0_0.d.ts
+               1 arquivo(s)          6.521 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@babel
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17    <DIR>          helper-string-parser
+30/07/2026  15:17    <DIR>          helper-validator-identifier
+30/07/2026  15:17    <DIR>          parser
+30/07/2026  15:17    <DIR>          types
+               0 arquivo(s)              0 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@babel\helper-string-parser
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17    <DIR>          lib
+30/07/2026  15:17             1.106 LICENSE
+30/07/2026  15:17               758 package.json
+30/07/2026  15:17               335 README.md
+               3 arquivo(s)          2.199 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@babel\helper-string-parser\lib
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17             7.860 index.js
+30/07/2026  15:17            21.757 index.js.map
+               2 arquivo(s)         29.617 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@babel\helper-validator-identifier
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17    <DIR>          lib
+30/07/2026  15:17             1.106 LICENSE
+30/07/2026  15:17               738 package.json
+30/07/2026  15:17               369 README.md
+               3 arquivo(s)          2.213 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@babel\helper-validator-identifier\lib
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17            12.543 identifier.js
+30/07/2026  15:17            26.771 identifier.js.map
+30/07/2026  15:17             1.362 index.js
+30/07/2026  15:17               505 index.js.map
+30/07/2026  15:17             1.577 keyword.js
+30/07/2026  15:17             3.842 keyword.js.map
+               6 arquivo(s)         46.600 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@babel\parser
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17    <DIR>          bin
+30/07/2026  15:17            38.238 CHANGELOG.md
+30/07/2026  15:17    <DIR>          lib
+30/07/2026  15:17             1.086 LICENSE
+30/07/2026  15:17             1.382 package.json
+30/07/2026  15:17               412 README.md
+30/07/2026  15:17    <DIR>          typings
+               4 arquivo(s)         41.118 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@babel\parser\bin
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17               363 babel-parser.js
+               1 arquivo(s)            363 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@babel\parser\lib
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17           512.666 index.js
+30/07/2026  15:17         1.434.020 index.js.map
+               2 arquivo(s)      1.946.686 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@babel\parser\typings
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17             9.317 babel-parser.d.ts
+               1 arquivo(s)          9.317 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@babel\types
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17    <DIR>          lib
+30/07/2026  15:17             1.106 LICENSE
+30/07/2026  15:17             1.065 package.json
+30/07/2026  15:17               446 README.md
+               3 arquivo(s)          2.617 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@babel\types\lib
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17    <DIR>          asserts
+30/07/2026  15:17    <DIR>          ast-types
+30/07/2026  15:17    <DIR>          builders
+30/07/2026  15:17    <DIR>          clone
+30/07/2026  15:17    <DIR>          comments
+30/07/2026  15:17    <DIR>          constants
+30/07/2026  15:17    <DIR>          converters
+30/07/2026  15:17    <DIR>          definitions
+30/07/2026  15:17           170.968 index-legacy.d.ts
+30/07/2026  15:17           666.005 index.d.ts
+30/07/2026  15:17            17.306 index.js
+30/07/2026  15:17           179.591 index.js.flow
+30/07/2026  15:17            13.272 index.js.map
+30/07/2026  15:17    <DIR>          modifications
+30/07/2026  15:17    <DIR>          retrievers
+30/07/2026  15:17    <DIR>          traverse
+30/07/2026  15:17    <DIR>          utils
+30/07/2026  15:17    <DIR>          validators
+               5 arquivo(s)      1.047.142 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@babel\types\lib\asserts
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17               465 assertNode.js
+30/07/2026  15:17               842 assertNode.js.map
+30/07/2026  15:17    <DIR>          generated
+               2 arquivo(s)          1.307 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@babel\types\lib\asserts\generated
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17            45.593 index.js
+30/07/2026  15:17           101.071 index.js.map
+               2 arquivo(s)        146.664 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@babel\types\lib\ast-types
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17    <DIR>          generated
+               0 arquivo(s)              0 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@babel\types\lib\ast-types\generated
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17                49 index.js
+30/07/2026  15:17           223.851 index.js.map
+               2 arquivo(s)        223.900 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@babel\types\lib\builders
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17    <DIR>          flow
+30/07/2026  15:17    <DIR>          generated
+30/07/2026  15:17               333 productions.js
+30/07/2026  15:17               527 productions.js.map
+30/07/2026  15:17    <DIR>          react
+30/07/2026  15:17    <DIR>          typescript
+30/07/2026  15:17               614 validateNode.js
+30/07/2026  15:17             1.469 validateNode.js.map
+               4 arquivo(s)          2.943 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@babel\types\lib\builders\flow
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17               534 createFlowUnionType.js
+30/07/2026  15:17             1.208 createFlowUnionType.js.map
+30/07/2026  15:17             1.058 createTypeAnnotationBasedOnTypeof.js
+30/07/2026  15:17             2.662 createTypeAnnotationBasedOnTypeof.js.map
+               4 arquivo(s)          5.462 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@babel\types\lib\builders\generated
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17               809 index.js
+30/07/2026  15:17             6.773 index.js.map
+30/07/2026  15:17            85.733 lowercase.js
+30/07/2026  15:17           203.104 lowercase.js.map
+30/07/2026  15:17            27.089 uppercase.js
+30/07/2026  15:17            36.712 uppercase.js.map
+               6 arquivo(s)        360.220 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@babel\types\lib\builders\react
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17               769 buildChildren.js
+30/07/2026  15:17             1.797 buildChildren.js.map
+               2 arquivo(s)          2.566 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@babel\types\lib\builders\typescript
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17               729 createTSUnionType.js
+30/07/2026  15:17             1.626 createTSUnionType.js.map
+               2 arquivo(s)          2.355 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@babel\types\lib\clone
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17               256 clone.js
+30/07/2026  15:17               627 clone.js.map
+30/07/2026  15:17               261 cloneDeep.js
+30/07/2026  15:17               635 cloneDeep.js.map
+30/07/2026  15:17               303 cloneDeepWithoutLoc.js
+30/07/2026  15:17               735 cloneDeepWithoutLoc.js.map
+30/07/2026  15:17             3.314 cloneNode.js
+30/07/2026  15:17             9.135 cloneNode.js.map
+30/07/2026  15:17               292 cloneWithoutLoc.js
+30/07/2026  15:17               642 cloneWithoutLoc.js.map
+              10 arquivo(s)         16.200 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@babel\types\lib\comments
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17               374 addComment.js
+30/07/2026  15:17               898 addComment.js.map
+30/07/2026  15:17               476 addComments.js
+30/07/2026  15:17             1.195 addComments.js.map
+30/07/2026  15:17               323 inheritInnerComments.js
+30/07/2026  15:17               576 inheritInnerComments.js.map
+30/07/2026  15:17               331 inheritLeadingComments.js
+30/07/2026  15:17               586 inheritLeadingComments.js.map
+30/07/2026  15:17               595 inheritsComments.js
+30/07/2026  15:17             1.195 inheritsComments.js.map
+30/07/2026  15:17               335 inheritTrailingComments.js
+30/07/2026  15:17               590 inheritTrailingComments.js.map
+30/07/2026  15:17               321 removeComments.js
+30/07/2026  15:17               691 removeComments.js.map
+              14 arquivo(s)          8.486 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@babel\types\lib\constants
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17    <DIR>          generated
+30/07/2026  15:17             2.739 index.js
+30/07/2026  15:17             4.674 index.js.map
+               2 arquivo(s)          7.413 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@babel\types\lib\constants\generated
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17             6.364 index.js
+30/07/2026  15:17             8.657 index.js.map
+               2 arquivo(s)         15.021 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@babel\types\lib\converters
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17               333 ensureBlock.js
+30/07/2026  15:17             1.022 ensureBlock.js.map
+30/07/2026  15:17             2.437 gatherSequenceExpressions.js
+30/07/2026  15:17             6.220 gatherSequenceExpressions.js.map
+30/07/2026  15:17               393 toBindingIdentifierName.js
+30/07/2026  15:17               673 toBindingIdentifierName.js.map
+30/07/2026  15:17               758 toBlock.js
+30/07/2026  15:17             1.709 toBlock.js.map
+30/07/2026  15:17               450 toComputedKey.js
+30/07/2026  15:17             1.219 toComputedKey.js.map
+30/07/2026  15:17               737 toExpression.js
+30/07/2026  15:17             2.534 toExpression.js.map
+30/07/2026  15:17               737 toIdentifier.js
+30/07/2026  15:17             1.649 toIdentifier.js.map
+30/07/2026  15:17             1.047 toKeyAlias.js
+30/07/2026  15:17             2.667 toKeyAlias.js.map
+30/07/2026  15:17               540 toSequenceExpression.js
+30/07/2026  15:17             1.807 toSequenceExpression.js.map
+30/07/2026  15:17               997 toStatement.js
+30/07/2026  15:17             2.973 toStatement.js.map
+30/07/2026  15:17             2.832 valueToNode.js
+30/07/2026  15:17             7.811 valueToNode.js.map
+              22 arquivo(s)         41.545 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@babel\types\lib\definitions
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17            55.646 core.js
+30/07/2026  15:17           128.496 core.js.map
+30/07/2026  15:17               275 deprecated-aliases.js
+30/07/2026  15:17               359 deprecated-aliases.js.map
+30/07/2026  15:17             2.887 experimental.js
+30/07/2026  15:17             6.965 experimental.js.map
+30/07/2026  15:17            16.513 flow.js
+30/07/2026  15:17            33.424 flow.js.map
+30/07/2026  15:17             2.749 index.js
+30/07/2026  15:17             2.770 index.js.map
+30/07/2026  15:17             4.231 jsx.js
+30/07/2026  15:17             9.458 jsx.js.map
+30/07/2026  15:17               746 misc.js
+30/07/2026  15:17             1.872 misc.js.map
+30/07/2026  15:17             1.042 placeholders.js
+30/07/2026  15:17             2.051 placeholders.js.map
+30/07/2026  15:17            16.858 typescript.js
+30/07/2026  15:17            39.441 typescript.js.map
+30/07/2026  15:17             9.685 utils.js
+30/07/2026  15:17            23.660 utils.js.map
+              20 arquivo(s)        359.128 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@babel\types\lib\modifications
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17               480 appendToMemberExpression.js
+30/07/2026  15:17             1.112 appendToMemberExpression.js.map
+30/07/2026  15:17    <DIR>          flow
+30/07/2026  15:17               746 inherits.js
+30/07/2026  15:17             2.166 inherits.js.map
+30/07/2026  15:17               552 prependToMemberExpression.js
+30/07/2026  15:17             1.179 prependToMemberExpression.js.map
+30/07/2026  15:17               802 removeProperties.js
+30/07/2026  15:17             2.403 removeProperties.js.map
+30/07/2026  15:17               418 removePropertiesDeep.js
+30/07/2026  15:17               803 removePropertiesDeep.js.map
+30/07/2026  15:17    <DIR>          typescript
+              10 arquivo(s)         10.661 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@babel\types\lib\modifications\flow
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17             1.869 removeTypeDuplicates.js
+30/07/2026  15:17             5.013 removeTypeDuplicates.js.map
+               2 arquivo(s)          6.882 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@babel\types\lib\modifications\typescript
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17             2.006 removeTypeDuplicates.js
+30/07/2026  15:17             5.472 removeTypeDuplicates.js.map
+               2 arquivo(s)          7.478 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@babel\types\lib\retrievers
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17             1.156 getAssignmentIdentifiers.js
+30/07/2026  15:17             2.825 getAssignmentIdentifiers.js.map
+30/07/2026  15:17             2.949 getBindingIdentifiers.js
+30/07/2026  15:17             9.016 getBindingIdentifiers.js.map
+30/07/2026  15:17             1.721 getFunctionName.js
+30/07/2026  15:17             4.955 getFunctionName.js.map
+30/07/2026  15:17               419 getOuterBindingIdentifiers.js
+30/07/2026  15:17             1.112 getOuterBindingIdentifiers.js.map
+               8 arquivo(s)         24.153 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@babel\types\lib\traverse
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17             1.227 traverse.js
+30/07/2026  15:17             3.536 traverse.js.map
+30/07/2026  15:17               961 traverseFast.js
+30/07/2026  15:17             2.789 traverseFast.js.map
+               4 arquivo(s)          8.513 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@babel\types\lib\utils
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17             1.223 deprecationWarning.js
+30/07/2026  15:17             3.225 deprecationWarning.js.map
+30/07/2026  15:17               304 inherit.js
+30/07/2026  15:17               890 inherit.js.map
+30/07/2026  15:17    <DIR>          react
+30/07/2026  15:17               350 shallowEqual.js
+30/07/2026  15:17               811 shallowEqual.js.map
+               6 arquivo(s)          6.803 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@babel\types\lib\utils\react
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17             1.175 cleanJSXElementLiteralChild.js
+30/07/2026  15:17             2.838 cleanJSXElementLiteralChild.js.map
+               2 arquivo(s)          4.013 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@babel\types\lib\validators
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17               409 buildMatchMemberExpression.js
+30/07/2026  15:17             1.079 buildMatchMemberExpression.js.map
+30/07/2026  15:17    <DIR>          generated
+30/07/2026  15:17               769 is.js
+30/07/2026  15:17             3.049 is.js.map
+30/07/2026  15:17               776 isBinding.js
+30/07/2026  15:17             2.033 isBinding.js.map
+30/07/2026  15:17               390 isBlockScoped.js
+30/07/2026  15:17               841 isBlockScoped.js.map
+30/07/2026  15:17               487 isImmutable.js
+30/07/2026  15:17             1.062 isImmutable.js.map
+30/07/2026  15:17               384 isLet.js
+30/07/2026  15:17             1.169 isLet.js.map
+30/07/2026  15:17               270 isNode.js
+30/07/2026  15:17               534 isNode.js.map
+30/07/2026  15:17             1.481 isNodesEquivalent.js
+30/07/2026  15:17             3.489 isNodesEquivalent.js.map
+30/07/2026  15:17               470 isPlaceholderType.js
+30/07/2026  15:17               999 isPlaceholderType.js.map
+30/07/2026  15:17             2.615 isReferenced.js
+30/07/2026  15:17             7.035 isReferenced.js.map
+30/07/2026  15:17               534 isScope.js
+30/07/2026  15:17             1.517 isScope.js.map
+30/07/2026  15:17               410 isSpecifierDefault.js
+30/07/2026  15:17               994 isSpecifierDefault.js.map
+30/07/2026  15:17               505 isType.js
+30/07/2026  15:17             1.687 isType.js.map
+30/07/2026  15:17               649 isValidES3Identifier.js
+30/07/2026  15:17             1.483 isValidES3Identifier.js.map
+30/07/2026  15:17               584 isValidIdentifier.js
+30/07/2026  15:17             1.191 isValidIdentifier.js.map
+30/07/2026  15:17               383 isVar.js
+30/07/2026  15:17             1.178 isVar.js.map
+30/07/2026  15:17             1.422 matchesPattern.js
+30/07/2026  15:17             3.894 matchesPattern.js.map
+30/07/2026  15:17    <DIR>          react
+30/07/2026  15:17             1.490 validate.js
+30/07/2026  15:17             3.177 validate.js.map
+              36 arquivo(s)         50.439 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@babel\types\lib\validators\generated
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17            96.324 index.js
+30/07/2026  15:17           290.238 index.js.map
+               2 arquivo(s)        386.562 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@babel\types\lib\validators\react
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17               232 isCompatTag.js
+30/07/2026  15:17               437 isCompatTag.js.map
+30/07/2026  15:17               368 isReactComponent.js
+30/07/2026  15:17               587 isReactComponent.js.map
+               4 arquivo(s)          1.624 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@esbuild
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17    <DIR>          linux-x64
+               0 arquivo(s)              0 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@esbuild\linux-x64
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17    <DIR>          bin
+30/07/2026  15:17               373 package.json
+30/07/2026  15:17               141 README.md
+               2 arquivo(s)            514 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@esbuild\linux-x64\bin
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17        10.358.936 esbuild
+               1 arquivo(s)     10.358.936 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@jridgewell
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17    <DIR>          sourcemap-codec
+               0 arquivo(s)              0 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@jridgewell\sourcemap-codec
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17    <DIR>          dist
+30/07/2026  15:17             1.080 LICENSE
+30/07/2026  15:17             2.150 package.json
+30/07/2026  15:17            10.051 README.md
+30/07/2026  15:17    <DIR>          src
+30/07/2026  15:17    <DIR>          types
+               3 arquivo(s)         13.281 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@jridgewell\sourcemap-codec\dist
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17            12.869 sourcemap-codec.mjs
+30/07/2026  15:17             9.612 sourcemap-codec.mjs.map
+30/07/2026  15:17            14.590 sourcemap-codec.umd.js
+30/07/2026  15:17             9.700 sourcemap-codec.umd.js.map
+               4 arquivo(s)         46.771 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@jridgewell\sourcemap-codec\src
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17             9.713 scopes.ts
+30/07/2026  15:17             3.203 sourcemap-codec.ts
+30/07/2026  15:17             1.503 strings.ts
+30/07/2026  15:17             1.387 vlq.ts
+               4 arquivo(s)         15.806 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@jridgewell\sourcemap-codec\types
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17             1.151 scopes.d.cts
+30/07/2026  15:17             1.348 scopes.d.cts.map
+30/07/2026  15:17             1.151 scopes.d.mts
+30/07/2026  15:17             1.348 scopes.d.mts.map
+30/07/2026  15:17               699 sourcemap-codec.d.cts
+30/07/2026  15:17               705 sourcemap-codec.d.cts.map
+30/07/2026  15:17               699 sourcemap-codec.d.mts
+30/07/2026  15:17               705 sourcemap-codec.d.mts.map
+30/07/2026  15:17               361 strings.d.cts
+30/07/2026  15:17               422 strings.d.cts.map
+30/07/2026  15:17               361 strings.d.mts
+30/07/2026  15:17               422 strings.d.mts.map
+30/07/2026  15:17               442 vlq.d.cts
+30/07/2026  15:17               449 vlq.d.cts.map
+30/07/2026  15:17               442 vlq.d.mts
+30/07/2026  15:17               449 vlq.d.mts.map
+              16 arquivo(s)         11.154 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@rollup
+
+30/07/2026  15:31    <DIR>          .
+30/07/2026  15:31    <DIR>          ..
+30/07/2026  15:17    <DIR>          rollup-linux-x64-gnu
+30/07/2026  15:31    <DIR>          rollup-linux-x64-musl
+               0 arquivo(s)              0 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@rollup\rollup-linux-x64-gnu
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17               480 package.json
+30/07/2026  15:17                95 README.md
+30/07/2026  15:17         2.082.032 rollup.linux-x64-gnu.node
+               3 arquivo(s)      2.082.607 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@rollup\rollup-linux-x64-musl
+
+30/07/2026  15:31    <DIR>          .
+30/07/2026  15:31    <DIR>          ..
+30/07/2026  15:31               482 package.json
+30/07/2026  15:31                97 README.md
+30/07/2026  15:31         2.122.160 rollup.linux-x64-musl.node
+               3 arquivo(s)      2.122.739 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@types
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17    <DIR>          estree
+30/07/2026  15:17    <DIR>          node
+               0 arquivo(s)              0 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@types\estree
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17             4.801 flow.d.ts
+30/07/2026  15:17            18.924 index.d.ts
+30/07/2026  15:17             1.141 LICENSE
+30/07/2026  15:17               829 package.json
+30/07/2026  15:17               458 README.md
+               5 arquivo(s)         26.153 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@types\node
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17    <DIR>          assert
+30/07/2026  15:17            45.270 assert.d.ts
+30/07/2026  15:17            25.553 async_hooks.d.ts
+30/07/2026  15:17            22.839 buffer.buffer.d.ts
+30/07/2026  15:17            88.244 buffer.d.ts
+30/07/2026  15:17            66.722 child_process.d.ts
+30/07/2026  15:17            27.926 cluster.d.ts
+30/07/2026  15:17    <DIR>          compatibility
+30/07/2026  15:17            21.249 console.d.ts
+30/07/2026  15:17               816 constants.d.ts
+30/07/2026  15:17           192.007 crypto.d.ts
+30/07/2026  15:17            28.114 dgram.d.ts
+30/07/2026  15:17            25.048 diagnostics_channel.d.ts
+30/07/2026  15:17    <DIR>          dns
+30/07/2026  15:17            37.027 dns.d.ts
+30/07/2026  15:17             7.812 domain.d.ts
+30/07/2026  15:17            44.252 events.d.ts
+30/07/2026  15:17    <DIR>          fs
+30/07/2026  15:17           190.525 fs.d.ts
+30/07/2026  15:17             6.114 globals.d.ts
+30/07/2026  15:17             1.825 globals.typedarray.d.ts
+30/07/2026  15:17            93.421 http.d.ts
+30/07/2026  15:17           134.592 http2.d.ts
+30/07/2026  15:17            25.856 https.d.ts
+30/07/2026  15:17             4.196 index.d.ts
+30/07/2026  15:17            11.019 inspector.d.ts
+30/07/2026  15:17           205.045 inspector.generated.d.ts
+30/07/2026  15:17             1.141 LICENSE
+30/07/2026  15:17            40.283 module.d.ts
+30/07/2026  15:17            49.205 net.d.ts
+30/07/2026  15:17            19.431 os.d.ts
+30/07/2026  15:17             4.274 package.json
+30/07/2026  15:17             8.333 path.d.ts
+30/07/2026  15:17            38.425 perf_hooks.d.ts
+30/07/2026  15:17           107.574 process.d.ts
+30/07/2026  15:17             5.479 punycode.d.ts
+30/07/2026  15:17             7.125 querystring.d.ts
+30/07/2026  15:17    <DIR>          readline
+30/07/2026  15:17            25.878 readline.d.ts
+30/07/2026  15:17             1.541 README.md
+30/07/2026  15:17            19.459 repl.d.ts
+30/07/2026  15:17             6.639 sea.d.ts
+30/07/2026  15:17            36.253 sqlite.d.ts
+30/07/2026  15:17    <DIR>          stream
+30/07/2026  15:17            87.169 stream.d.ts
+30/07/2026  15:17             2.809 string_decoder.d.ts
+30/07/2026  15:17           106.675 test.d.ts
+30/07/2026  15:17    <DIR>          timers
+30/07/2026  15:17            14.636 timers.d.ts
+30/07/2026  15:17            62.617 tls.d.ts
+30/07/2026  15:17             8.926 trace_events.d.ts
+30/07/2026  15:17    <DIR>          ts5.6
+30/07/2026  15:17            10.053 tty.d.ts
+30/07/2026  15:17            43.390 url.d.ts
+30/07/2026  15:17            99.419 util.d.ts
+30/07/2026  15:17            38.762 v8.d.ts
+30/07/2026  15:17            47.668 vm.d.ts
+30/07/2026  15:17             7.944 wasi.d.ts
+30/07/2026  15:17    <DIR>          web-globals
+30/07/2026  15:17            39.180 worker_threads.d.ts
+30/07/2026  15:17            27.954 zlib.d.ts
+              52 arquivo(s)      2.273.714 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@types\node\assert
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17             3.003 strict.d.ts
+               1 arquivo(s)          3.003 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@types\node\compatibility
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17               328 disposable.d.ts
+30/07/2026  15:17               533 index.d.ts
+30/07/2026  15:17               990 indexable.d.ts
+30/07/2026  15:17             1.173 iterators.d.ts
+               4 arquivo(s)          3.024 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@types\node\dns
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17            21.098 promises.d.ts
+               1 arquivo(s)         21.098 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@types\node\fs
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17            56.169 promises.d.ts
+               1 arquivo(s)         56.169 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@types\node\readline
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17             6.439 promises.d.ts
+               1 arquivo(s)          6.439 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@types\node\stream
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17             1.619 consumers.d.ts
+30/07/2026  15:17             2.971 promises.d.ts
+30/07/2026  15:17            27.400 web.d.ts
+               3 arquivo(s)         31.990 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@types\node\timers
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17             3.780 promises.d.ts
+               1 arquivo(s)          3.780 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@types\node\ts5.6
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17            22.077 buffer.buffer.d.ts
+30/07/2026  15:17             1.160 globals.typedarray.d.ts
+30/07/2026  15:17             4.408 index.d.ts
+               3 arquivo(s)         27.645 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@types\node\web-globals
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17             1.145 abortcontroller.d.ts
+30/07/2026  15:17             2.565 domexception.d.ts
+30/07/2026  15:17             2.871 events.d.ts
+30/07/2026  15:17             2.700 fetch.d.ts
+30/07/2026  15:17               811 navigator.d.ts
+30/07/2026  15:17               724 storage.d.ts
+30/07/2026  15:17               774 streams.d.ts
+               7 arquivo(s)         11.590 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@vitejs
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17    <DIR>          plugin-vue
+               0 arquivo(s)              0 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@vitejs\plugin-vue
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17    <DIR>          dist
+30/07/2026  15:17             1.103 LICENSE
+30/07/2026  15:17             1.212 package.json
+30/07/2026  15:17             7.418 README.md
+               3 arquivo(s)          9.733 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@vitejs\plugin-vue\dist
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17            89.369 index.cjs
+30/07/2026  15:17             4.562 index.d.cts
+30/07/2026  15:17             4.550 index.d.mts
+30/07/2026  15:17             4.562 index.d.ts
+30/07/2026  15:17            88.358 index.mjs
+               5 arquivo(s)        191.401 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@volar
+
+30/07/2026  18:05    <DIR>          .
+30/07/2026  18:05    <DIR>          ..
+30/07/2026  18:05    <DIR>          language-core
+30/07/2026  18:05    <DIR>          source-map
+30/07/2026  18:05    <DIR>          typescript
+               0 arquivo(s)              0 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@volar\language-core
+
+30/07/2026  18:05    <DIR>          .
+30/07/2026  18:05    <DIR>          ..
+30/07/2026  18:05               681 index.d.ts
+30/07/2026  18:05            11.246 index.js
+30/07/2026  18:05    <DIR>          lib
+30/07/2026  18:05             1.076 LICENSE
+30/07/2026  18:05               361 package.json
+               4 arquivo(s)         13.364 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@volar\language-core\lib
+
+30/07/2026  18:05    <DIR>          .
+30/07/2026  18:05    <DIR>          ..
+30/07/2026  18:05             2.586 editor.d.ts
+30/07/2026  18:05             6.515 editor.js
+30/07/2026  18:05               180 linkedCodeMap.d.ts
+30/07/2026  18:05               535 linkedCodeMap.js
+30/07/2026  18:05             7.349 types.d.ts
+30/07/2026  18:05               110 types.js
+30/07/2026  18:05               387 utils.d.ts
+30/07/2026  18:05             1.007 utils.js
+               8 arquivo(s)         18.669 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@volar\source-map
+
+30/07/2026  18:05    <DIR>          .
+30/07/2026  18:05    <DIR>          ..
+30/07/2026  18:05                72 index.d.ts
+30/07/2026  18:05               898 index.js
+30/07/2026  18:05    <DIR>          lib
+30/07/2026  18:05             1.076 LICENSE
+30/07/2026  18:05               300 package.json
+30/07/2026  18:05             2.150 README.md
+               5 arquivo(s)          4.496 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@volar\source-map\lib
+
+30/07/2026  18:05    <DIR>          .
+30/07/2026  18:05    <DIR>          ..
+30/07/2026  18:05               148 binarySearch.d.ts
+30/07/2026  18:05               862 binarySearch.js
+30/07/2026  18:05             1.717 sourceMap.d.ts
+30/07/2026  18:05             4.889 sourceMap.js
+30/07/2026  18:05               186 translateOffset.d.ts
+30/07/2026  18:05             2.192 translateOffset.js
+               6 arquivo(s)          9.994 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@volar\typescript
+
+30/07/2026  18:05    <DIR>          .
+30/07/2026  18:05    <DIR>          ..
+30/07/2026  18:05             2.138 index.d.ts
+30/07/2026  18:05             1.230 index.js
+30/07/2026  18:05    <DIR>          lib
+30/07/2026  18:05             1.076 LICENSE
+30/07/2026  18:05               517 package.json
+               4 arquivo(s)          4.961 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@volar\typescript\lib
+
+30/07/2026  18:05    <DIR>          .
+30/07/2026  18:05    <DIR>          ..
+30/07/2026  18:05                81 common.d.ts
+30/07/2026  18:05               751 common.js
+30/07/2026  18:05    <DIR>          node
+30/07/2026  18:05    <DIR>          protocol
+30/07/2026  18:05    <DIR>          quickstart
+30/07/2026  18:05               644 resolveModuleName.d.ts
+30/07/2026  18:05             4.981 resolveModuleName.js
+30/07/2026  18:05    <DIR>          typescript
+               4 arquivo(s)          6.457 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@volar\typescript\lib\node
+
+30/07/2026  18:05    <DIR>          .
+30/07/2026  18:05    <DIR>          ..
+30/07/2026  18:05               390 decorateLanguageServiceHost.d.ts
+30/07/2026  18:05             7.455 decorateLanguageServiceHost.js
+30/07/2026  18:05               189 decorateProgram.d.ts
+30/07/2026  18:05             4.293 decorateProgram.js
+30/07/2026  18:05               128 dedupe.d.ts
+30/07/2026  18:05               514 dedupe.js
+30/07/2026  18:05               476 proxyCreateProgram.d.ts
+30/07/2026  18:05            10.368 proxyCreateProgram.js
+30/07/2026  18:05               924 proxyLanguageService.d.ts
+30/07/2026  18:05            48.394 proxyLanguageService.js
+30/07/2026  18:05             4.329 transform.d.ts
+30/07/2026  18:05            12.175 transform.js
+30/07/2026  18:05               836 utils.d.ts
+30/07/2026  18:05             2.250 utils.js
+              14 arquivo(s)         92.721 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@volar\typescript\lib\protocol
+
+30/07/2026  18:05    <DIR>          .
+30/07/2026  18:05    <DIR>          ..
+30/07/2026  18:05               990 createProject.d.ts
+30/07/2026  18:05            12.676 createProject.js
+30/07/2026  18:05               498 createSys.d.ts
+30/07/2026  18:05            13.792 createSys.js
+               4 arquivo(s)         27.956 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@volar\typescript\lib\quickstart
+
+30/07/2026  18:05    <DIR>          .
+30/07/2026  18:05    <DIR>          ..
+30/07/2026  18:05             1.440 createAsyncLanguageServicePlugin.d.ts
+30/07/2026  18:05             5.611 createAsyncLanguageServicePlugin.js
+30/07/2026  18:05               439 createLanguageServicePlugin.d.ts
+30/07/2026  18:05             1.909 createLanguageServicePlugin.js
+30/07/2026  18:05             1.841 languageServicePluginCommon.d.ts
+30/07/2026  18:05             4.667 languageServicePluginCommon.js
+30/07/2026  18:05             1.336 runTsc.d.ts
+30/07/2026  18:05             5.131 runTsc.js
+               8 arquivo(s)         22.374 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@volar\typescript\lib\typescript
+
+30/07/2026  18:05    <DIR>          .
+30/07/2026  18:05    <DIR>          ..
+30/07/2026  18:05             4.827 core.d.ts
+30/07/2026  18:05            12.275 core.js
+30/07/2026  18:05             2.767 corePublic.d.ts
+30/07/2026  18:05             2.595 corePublic.js
+30/07/2026  18:05             5.252 path.d.ts
+30/07/2026  18:05            18.263 path.js
+30/07/2026  18:05             2.319 types.d.ts
+30/07/2026  18:05               110 types.js
+30/07/2026  18:05               546 utilities.d.ts
+30/07/2026  18:05            13.068 utilities.js
+              10 arquivo(s)         62.022 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@vue
+
+30/07/2026  18:05    <DIR>          .
+30/07/2026  18:05    <DIR>          ..
+30/07/2026  15:17    <DIR>          compiler-core
+30/07/2026  15:17    <DIR>          compiler-dom
+30/07/2026  15:17    <DIR>          compiler-sfc
+30/07/2026  15:17    <DIR>          compiler-ssr
+30/07/2026  18:05    <DIR>          language-core
+30/07/2026  15:17    <DIR>          reactivity
+30/07/2026  15:17    <DIR>          runtime-core
+30/07/2026  15:17    <DIR>          runtime-dom
+30/07/2026  15:17    <DIR>          server-renderer
+30/07/2026  15:17    <DIR>          shared
+30/07/2026  17:46    <DIR>          tsconfig
+               0 arquivo(s)              0 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@vue\compiler-core
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17    <DIR>          dist
+30/07/2026  15:17               191 index.js
+30/07/2026  15:17             1.091 LICENSE
+30/07/2026  15:17             1.386 package.json
+30/07/2026  15:17                21 README.md
+               4 arquivo(s)          2.689 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@vue\compiler-core\dist
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17           206.052 compiler-core.cjs.js
+30/07/2026  15:17           201.393 compiler-core.cjs.prod.js
+30/07/2026  15:17            46.597 compiler-core.d.ts
+30/07/2026  15:17           176.138 compiler-core.esm-bundler.js
+               4 arquivo(s)        630.180 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@vue\compiler-dom
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17    <DIR>          dist
+30/07/2026  15:17               189 index.js
+30/07/2026  15:17             1.091 LICENSE
+30/07/2026  15:17             1.380 package.json
+30/07/2026  15:17                20 README.md
+               4 arquivo(s)          2.680 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@vue\compiler-dom\dist
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17            27.369 compiler-dom.cjs.js
+30/07/2026  15:17            21.213 compiler-dom.cjs.prod.js
+30/07/2026  15:17             1.859 compiler-dom.d.ts
+30/07/2026  15:17           196.924 compiler-dom.esm-browser.js
+30/07/2026  15:17            82.334 compiler-dom.esm-browser.prod.js
+30/07/2026  15:17            20.577 compiler-dom.esm-bundler.js
+30/07/2026  15:17           214.788 compiler-dom.global.js
+30/07/2026  15:17            82.022 compiler-dom.global.prod.js
+               8 arquivo(s)        647.086 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@vue\compiler-sfc
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17    <DIR>          dist
+30/07/2026  15:17             1.091 LICENSE
+30/07/2026  15:17             1.710 package.json
+30/07/2026  15:17             4.445 README.md
+               3 arquivo(s)          7.246 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@vue\compiler-sfc\dist
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17           886.681 compiler-sfc.cjs.js
+30/07/2026  15:17            16.694 compiler-sfc.d.ts
+30/07/2026  15:17         1.722.207 compiler-sfc.esm-browser.js
+               3 arquivo(s)      2.625.582 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@vue\compiler-ssr
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17    <DIR>          dist
+30/07/2026  15:17             1.091 LICENSE
+30/07/2026  15:17               728 package.json
+30/07/2026  15:17                20 README.md
+               3 arquivo(s)          1.839 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@vue\compiler-ssr\dist
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17            46.482 compiler-ssr.cjs.js
+30/07/2026  15:17               182 compiler-ssr.d.ts
+               2 arquivo(s)         46.664 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@vue\language-core
+
+30/07/2026  18:05    <DIR>          .
+30/07/2026  18:05    <DIR>          ..
+30/07/2026  18:05               691 index.d.ts
+30/07/2026  18:05             2.019 index.js
+30/07/2026  18:05    <DIR>          lib
+30/07/2026  18:05             1.076 LICENSE
+30/07/2026  18:05               871 package.json
+30/07/2026  18:05             6.108 README.md
+30/07/2026  18:05    <DIR>          types
+               5 arquivo(s)         10.765 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@vue\language-core\lib
+
+30/07/2026  18:05    <DIR>          .
+30/07/2026  18:05    <DIR>          ..
+30/07/2026  18:05    <DIR>          codegen
+30/07/2026  18:05             1.460 compilerOptions.d.ts
+30/07/2026  18:05            10.209 compilerOptions.js
+30/07/2026  18:05               513 languagePlugin.d.ts
+30/07/2026  18:05             5.645 languagePlugin.js
+30/07/2026  18:05    <DIR>          parsers
+30/07/2026  18:05    <DIR>          plugins
+30/07/2026  18:05               183 plugins.d.ts
+30/07/2026  18:05             3.253 plugins.js
+30/07/2026  18:05    <DIR>          template
+30/07/2026  18:05             6.115 types.d.ts
+30/07/2026  18:05               181 types.js
+30/07/2026  18:05    <DIR>          utils
+30/07/2026  18:05    <DIR>          virtualCode
+               8 arquivo(s)         27.559 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@vue\language-core\lib\codegen
+
+30/07/2026  18:05    <DIR>          .
+30/07/2026  18:05    <DIR>          ..
+30/07/2026  18:05             1.097 codeFeatures.d.ts
+30/07/2026  18:05             3.249 codeFeatures.js
+30/07/2026  18:05               379 inlayHints.d.ts
+30/07/2026  18:05               715 inlayHints.js
+30/07/2026  18:05               419 localTypes.d.ts
+30/07/2026  18:05             2.921 localTypes.js
+30/07/2026  18:05             1.869 names.d.ts
+30/07/2026  18:05             1.807 names.js
+30/07/2026  18:05    <DIR>          script
+30/07/2026  18:05    <DIR>          style
+30/07/2026  18:05    <DIR>          template
+30/07/2026  18:05    <DIR>          utils
+               8 arquivo(s)         12.456 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@vue\language-core\lib\codegen\script
+
+30/07/2026  18:05    <DIR>          .
+30/07/2026  18:05    <DIR>          ..
+30/07/2026  18:05               422 component.d.ts
+30/07/2026  18:05             5.372 component.js
+30/07/2026  18:05               668 context.d.ts
+30/07/2026  18:05               488 context.js
+30/07/2026  18:05             1.147 index.d.ts
+30/07/2026  18:05            10.135 index.js
+30/07/2026  18:05               860 scriptSetup.d.ts
+30/07/2026  18:05            18.926 scriptSetup.js
+30/07/2026  18:05               285 template.d.ts
+30/07/2026  18:05             5.765 template.js
+              10 arquivo(s)         44.068 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@vue\language-core\lib\codegen\style
+
+30/07/2026  18:05    <DIR>          .
+30/07/2026  18:05    <DIR>          ..
+30/07/2026  18:05               273 common.d.ts
+30/07/2026  18:05             1.595 common.js
+30/07/2026  18:05             3.412 index.d.ts
+30/07/2026  18:05             1.493 index.js
+30/07/2026  18:05               299 modules.d.ts
+30/07/2026  18:05             1.556 modules.js
+30/07/2026  18:05               305 scopedClasses.d.ts
+30/07/2026  18:05             1.655 scopedClasses.js
+               8 arquivo(s)         10.588 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@vue\language-core\lib\codegen\template
+
+30/07/2026  18:05    <DIR>          .
+30/07/2026  18:05    <DIR>          ..
+30/07/2026  18:05             3.165 context.d.ts
+30/07/2026  18:05             9.341 context.js
+30/07/2026  18:05               659 element.d.ts
+30/07/2026  18:05            16.167 element.js
+30/07/2026  18:05               571 elementDirectives.d.ts
+30/07/2026  18:05             7.131 elementDirectives.js
+30/07/2026  18:05             1.108 elementEvents.d.ts
+30/07/2026  18:05             9.779 elementEvents.js
+30/07/2026  18:05               801 elementProps.d.ts
+30/07/2026  18:05            14.086 elementProps.js
+30/07/2026  18:05             3.605 index.d.ts
+30/07/2026  18:05             5.912 index.js
+30/07/2026  18:05               531 interpolation.d.ts
+30/07/2026  18:05             7.911 interpolation.js
+30/07/2026  18:05               414 objectProperty.d.ts
+30/07/2026  18:05             1.834 objectProperty.js
+30/07/2026  18:05               360 propertyAccess.d.ts
+30/07/2026  18:05               849 propertyAccess.js
+30/07/2026  18:05               360 slotOutlet.d.ts
+30/07/2026  18:05             6.961 slotOutlet.js
+30/07/2026  18:05               573 styleScopedClasses.d.ts
+30/07/2026  18:05             7.282 styleScopedClasses.js
+30/07/2026  18:05               610 templateChild.d.ts
+30/07/2026  18:05             6.075 templateChild.js
+30/07/2026  18:05               552 vFor.d.ts
+30/07/2026  18:05             3.865 vFor.js
+30/07/2026  18:05               345 vIf.d.ts
+30/07/2026  18:05             3.149 vIf.js
+30/07/2026  18:05               416 vSlot.d.ts
+30/07/2026  18:05             6.418 vSlot.js
+              30 arquivo(s)        120.830 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@vue\language-core\lib\codegen\utils
+
+30/07/2026  18:05    <DIR>          .
+30/07/2026  18:05    <DIR>          ..
+30/07/2026  18:05               335 boundary.d.ts
+30/07/2026  18:05               639 boundary.js
+30/07/2026  18:05               197 camelized.d.ts
+30/07/2026  18:05               771 camelized.js
+30/07/2026  18:05               217 escaped.d.ts
+30/07/2026  18:05               678 escaped.js
+30/07/2026  18:05               636 index.d.ts
+30/07/2026  18:05             2.101 index.js
+30/07/2026  18:05               204 merge.d.ts
+30/07/2026  18:05               727 merge.js
+30/07/2026  18:05               188 stringLiteralKey.d.ts
+30/07/2026  18:05               507 stringLiteralKey.js
+30/07/2026  18:05               541 transform.d.ts
+30/07/2026  18:05               829 transform.js
+30/07/2026  18:05               179 unicode.d.ts
+30/07/2026  18:05               867 unicode.js
+              16 arquivo(s)          9.616 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@vue\language-core\lib\parsers
+
+30/07/2026  18:05    <DIR>          .
+30/07/2026  18:05    <DIR>          ..
+30/07/2026  18:05             1.561 scriptRanges.d.ts
+30/07/2026  18:05             3.420 scriptRanges.js
+30/07/2026  18:05             1.948 scriptSetupRanges.d.ts
+30/07/2026  18:05            11.963 scriptSetupRanges.js
+30/07/2026  18:05               563 utils.d.ts
+30/07/2026  18:05             3.866 utils.js
+30/07/2026  18:05               159 vueCompilerOptions.d.ts
+30/07/2026  18:05               692 vueCompilerOptions.js
+               8 arquivo(s)         24.172 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@vue\language-core\lib\plugins
+
+30/07/2026  18:05    <DIR>          .
+30/07/2026  18:05    <DIR>          ..
+30/07/2026  18:05               115 file-html.d.ts
+30/07/2026  18:05             3.597 file-html.js
+30/07/2026  18:05               115 file-md.d.ts
+30/07/2026  18:05             3.861 file-md.js
+30/07/2026  18:05               115 file-vue.d.ts
+30/07/2026  18:05             3.138 file-vue.js
+30/07/2026  18:05               115 vue-root-tags.d.ts
+30/07/2026  18:05             1.802 vue-root-tags.js
+30/07/2026  18:05               115 vue-script-js.d.ts
+30/07/2026  18:05               490 vue-script-js.js
+30/07/2026  18:05               115 vue-sfc-customblocks.d.ts
+30/07/2026  18:05             1.005 vue-sfc-customblocks.js
+30/07/2026  18:05               115 vue-sfc-scripts.d.ts
+30/07/2026  18:05             1.175 vue-sfc-scripts.js
+30/07/2026  18:05               115 vue-sfc-styles.d.ts
+30/07/2026  18:05             1.966 vue-sfc-styles.js
+30/07/2026  18:05               115 vue-sfc-template.d.ts
+30/07/2026  18:05               936 vue-sfc-template.js
+30/07/2026  18:05               115 vue-style-css.d.ts
+30/07/2026  18:05             3.862 vue-style-css.js
+30/07/2026  18:05               115 vue-template-html.d.ts
+30/07/2026  18:05            10.601 vue-template-html.js
+30/07/2026  18:05               115 vue-template-inline-css.d.ts
+30/07/2026  18:05             2.936 vue-template-inline-css.js
+30/07/2026  18:05               115 vue-template-inline-ts.d.ts
+30/07/2026  18:05            10.663 vue-template-inline-ts.js
+30/07/2026  18:05             6.604 vue-tsx.d.ts
+30/07/2026  18:05            10.687 vue-tsx.js
+              28 arquivo(s)         64.818 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@vue\language-core\lib\template
+
+30/07/2026  18:05    <DIR>          .
+30/07/2026  18:05    <DIR>          ..
+30/07/2026  18:05               179 compile.d.ts
+30/07/2026  18:05             1.210 compile.js
+30/07/2026  18:05    <DIR>          transforms
+30/07/2026  18:05               315 utils.d.ts
+30/07/2026  18:05             1.269 utils.js
+               4 arquivo(s)          2.973 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@vue\language-core\lib\template\transforms
+
+30/07/2026  18:05    <DIR>          .
+30/07/2026  18:05    <DIR>          ..
+30/07/2026  18:05               110 transformElement.d.ts
+30/07/2026  18:05             4.762 transformElement.js
+30/07/2026  18:05               107 transformText.d.ts
+30/07/2026  18:05             1.488 transformText.js
+30/07/2026  18:05                78 vFor.d.ts
+30/07/2026  18:05             1.608 vFor.js
+30/07/2026  18:05                77 vIf.d.ts
+30/07/2026  18:05             3.549 vIf.js
+               8 arquivo(s)         11.779 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@vue\language-core\lib\utils
+
+30/07/2026  18:05    <DIR>          .
+30/07/2026  18:05    <DIR>          ..
+30/07/2026  18:05               177 buildMappings.d.ts
+30/07/2026  18:05               670 buildMappings.js
+30/07/2026  18:05               681 collectBindings.d.ts
+30/07/2026  18:05             1.258 collectBindings.js
+30/07/2026  18:05               377 forEachTemplateNode.d.ts
+30/07/2026  18:05             3.233 forEachTemplateNode.js
+30/07/2026  18:05               223 parseSfc.d.ts
+30/07/2026  18:05             5.870 parseSfc.js
+30/07/2026  18:05               743 shared.d.ts
+30/07/2026  18:05             1.828 shared.js
+30/07/2026  18:05               339 signals.d.ts
+30/07/2026  18:05             2.253 signals.js
+              12 arquivo(s)         17.652 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@vue\language-core\lib\virtualCode
+
+30/07/2026  18:05    <DIR>          .
+30/07/2026  18:05    <DIR>          ..
+30/07/2026  18:05               514 embeddedCodes.d.ts
+30/07/2026  18:05             8.849 embeddedCodes.js
+30/07/2026  18:05             1.094 index.d.ts
+30/07/2026  18:05             3.249 index.js
+30/07/2026  18:05               371 ir.d.ts
+30/07/2026  18:05            12.139 ir.js
+               6 arquivo(s)         26.216 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@vue\language-core\types
+
+30/07/2026  18:05    <DIR>          .
+30/07/2026  18:05    <DIR>          ..
+30/07/2026  18:05                83 props-fallback.d.ts
+30/07/2026  18:05             6.346 template-helpers.d.ts
+30/07/2026  18:05               113 vue-3.4-shims.d.ts
+               3 arquivo(s)          6.542 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@vue\reactivity
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17    <DIR>          dist
+30/07/2026  15:17               185 index.js
+30/07/2026  15:17             1.091 LICENSE
+30/07/2026  15:17             1.297 package.json
+30/07/2026  15:17               921 README.md
+               4 arquivo(s)          3.494 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@vue\reactivity\dist
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17            54.389 reactivity.cjs.js
+30/07/2026  15:17            50.120 reactivity.cjs.prod.js
+30/07/2026  15:17            27.379 reactivity.d.ts
+30/07/2026  15:17            54.525 reactivity.esm-browser.js
+30/07/2026  15:17            19.772 reactivity.esm-browser.prod.js
+30/07/2026  15:17            54.728 reactivity.esm-bundler.js
+30/07/2026  15:17            59.845 reactivity.global.js
+30/07/2026  15:17            19.630 reactivity.global.prod.js
+               8 arquivo(s)        340.388 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@vue\runtime-core
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17    <DIR>          dist
+30/07/2026  15:17               189 index.js
+30/07/2026  15:17             1.091 LICENSE
+30/07/2026  15:17             1.233 package.json
+30/07/2026  15:17               657 README.md
+               4 arquivo(s)          3.170 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@vue\runtime-core\dist
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17           265.560 runtime-core.cjs.js
+30/07/2026  15:17           206.781 runtime-core.cjs.prod.js
+30/07/2026  15:17            94.071 runtime-core.d.ts
+30/07/2026  15:17           274.553 runtime-core.esm-bundler.js
+               4 arquivo(s)        840.965 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@vue\runtime-dom
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17    <DIR>          dist
+30/07/2026  15:17               187 index.js
+30/07/2026  15:17             1.091 LICENSE
+30/07/2026  15:17             1.424 package.json
+30/07/2026  15:17               198 README.md
+               4 arquivo(s)          2.900 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@vue\runtime-dom\dist
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17            60.459 runtime-dom.cjs.js
+30/07/2026  15:17            54.925 runtime-dom.cjs.prod.js
+30/07/2026  15:17            57.898 runtime-dom.d.ts
+30/07/2026  15:17           385.238 runtime-dom.esm-browser.js
+30/07/2026  15:17           108.987 runtime-dom.esm-browser.prod.js
+30/07/2026  15:17            62.636 runtime-dom.esm-bundler.js
+30/07/2026  15:17           411.351 runtime-dom.global.js
+30/07/2026  15:17           106.953 runtime-dom.global.prod.js
+               8 arquivo(s)      1.248.447 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@vue\server-renderer
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17    <DIR>          dist
+30/07/2026  15:17               195 index.js
+30/07/2026  15:17             1.091 LICENSE
+30/07/2026  15:17             1.302 package.json
+30/07/2026  15:17             3.895 README.md
+               4 arquivo(s)          6.483 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@vue\server-renderer\dist
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17            26.641 server-renderer.cjs.js
+30/07/2026  15:17            26.070 server-renderer.cjs.prod.js
+30/07/2026  15:17             4.003 server-renderer.d.ts
+30/07/2026  15:17           254.876 server-renderer.esm-browser.js
+30/07/2026  15:17            69.348 server-renderer.esm-browser.prod.js
+30/07/2026  15:17            23.494 server-renderer.esm-bundler.js
+               6 arquivo(s)        404.432 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@vue\shared
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17    <DIR>          dist
+30/07/2026  15:17               177 index.js
+30/07/2026  15:17             1.091 LICENSE
+30/07/2026  15:17             1.082 package.json
+30/07/2026  15:17                87 README.md
+               4 arquivo(s)          2.437 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@vue\shared\dist
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17            24.685 shared.cjs.js
+30/07/2026  15:17            24.423 shared.cjs.prod.js
+30/07/2026  15:17            13.433 shared.d.ts
+30/07/2026  15:17            23.097 shared.esm-bundler.js
+               4 arquivo(s)         85.638 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@vue\tsconfig
+
+30/07/2026  17:46    <DIR>          .
+30/07/2026  17:46    <DIR>          ..
+30/07/2026  17:46                40 .gitattributes
+30/07/2026  17:46    <DIR>          .github
+30/07/2026  17:46             1.080 LICENSE
+30/07/2026  17:46               829 package.json
+30/07/2026  17:46             4.951 README.md
+30/07/2026  17:46               794 tsconfig.dom.json
+30/07/2026  17:46             2.907 tsconfig.json
+30/07/2026  17:46               918 tsconfig.lib.json
+               7 arquivo(s)         11.519 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@vue\tsconfig\.github
+
+30/07/2026  17:46    <DIR>          .
+30/07/2026  17:46    <DIR>          ..
+30/07/2026  17:46               667 MAINTENANCE.md
+30/07/2026  17:46    <DIR>          workflows
+               1 arquivo(s)            667 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\@vue\tsconfig\.github\workflows
+
+30/07/2026  17:46    <DIR>          .
+30/07/2026  17:46    <DIR>          ..
+30/07/2026  17:46               604 publish.yml
+               1 arquivo(s)            604 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\alien-signals
+
+30/07/2026  18:05    <DIR>          .
+30/07/2026  18:05    <DIR>          ..
+30/07/2026  18:05    <DIR>          cjs
+30/07/2026  18:05    <DIR>          esm
+30/07/2026  18:05             1.076 LICENSE
+30/07/2026  18:05             1.670 package.json
+30/07/2026  18:05            10.166 README.md
+30/07/2026  18:05    <DIR>          types
+               3 arquivo(s)         12.912 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\alien-signals\cjs
+
+30/07/2026  18:05    <DIR>          .
+30/07/2026  18:05    <DIR>          ..
+30/07/2026  18:05             9.604 index.cjs
+30/07/2026  18:05             6.770 system.cjs
+               2 arquivo(s)         16.374 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\alien-signals\esm
+
+30/07/2026  18:05    <DIR>          .
+30/07/2026  18:05    <DIR>          ..
+30/07/2026  18:05             9.170 index.mjs
+30/07/2026  18:05             6.620 system.mjs
+               2 arquivo(s)         15.790 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\alien-signals\types
+
+30/07/2026  18:05    <DIR>          .
+30/07/2026  18:05    <DIR>          ..
+30/07/2026  18:05             1.041 index.d.ts
+30/07/2026  18:05             1.028 system.d.ts
+               2 arquivo(s)          2.069 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\csstype
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17           894.969 index.d.ts
+30/07/2026  15:17           344.546 index.js.flow
+30/07/2026  15:17             1.062 LICENSE
+30/07/2026  15:17             1.985 package.json
+30/07/2026  15:17            10.887 README.md
+               5 arquivo(s)      1.253.449 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\entities
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17               119 decode.d.ts
+30/07/2026  15:17               149 decode.js
+30/07/2026  15:17    <DIR>          dist
+30/07/2026  15:17               119 escape.d.ts
+30/07/2026  15:17               149 escape.js
+30/07/2026  15:17             1.260 LICENSE
+30/07/2026  15:17             3.740 package.json
+30/07/2026  15:17             5.816 readme.md
+30/07/2026  15:17    <DIR>          src
+               7 arquivo(s)         11.352 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\entities\dist
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17    <DIR>          commonjs
+30/07/2026  15:17    <DIR>          esm
+               0 arquivo(s)              0 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\entities\dist\commonjs
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17               765 decode-codepoint.d.ts
+30/07/2026  15:17               348 decode-codepoint.d.ts.map
+30/07/2026  15:17             2.285 decode-codepoint.js
+30/07/2026  15:17             1.869 decode-codepoint.js.map
+30/07/2026  15:17             8.049 decode.d.ts
+30/07/2026  15:17             2.037 decode.d.ts.map
+30/07/2026  15:17            24.682 decode.js
+30/07/2026  15:17            13.694 decode.js.map
+30/07/2026  15:17               951 encode.d.ts
+30/07/2026  15:17               251 encode.d.ts.map
+30/07/2026  15:17             3.341 encode.js
+30/07/2026  15:17             2.344 encode.js.map
+30/07/2026  15:17             1.667 escape.d.ts
+30/07/2026  15:17               590 escape.d.ts.map
+30/07/2026  15:17             4.777 escape.js
+30/07/2026  15:17             3.177 escape.js.map
+30/07/2026  15:17    <DIR>          generated
+30/07/2026  15:17             3.338 index.d.ts
+30/07/2026  15:17             1.335 index.d.ts.map
+30/07/2026  15:17             7.349 index.js
+30/07/2026  15:17             2.737 index.js.map
+30/07/2026  15:17    <DIR>          internal
+30/07/2026  15:17                25 package.json
+              21 arquivo(s)         85.611 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\entities\dist\commonjs\generated
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17                96 decode-data-html.d.ts
+30/07/2026  15:17               177 decode-data-html.d.ts.map
+30/07/2026  15:17            32.536 decode-data-html.js
+30/07/2026  15:17               230 decode-data-html.js.map
+30/07/2026  15:17                94 decode-data-xml.d.ts
+30/07/2026  15:17               175 decode-data-xml.d.ts.map
+30/07/2026  15:17               397 decode-data-xml.js
+30/07/2026  15:17               222 decode-data-xml.js.map
+30/07/2026  15:17               169 encode-html.d.ts
+30/07/2026  15:17               241 encode-html.d.ts.map
+30/07/2026  15:17            13.479 encode-html.js
+30/07/2026  15:17               305 encode-html.js.map
+              12 arquivo(s)         48.121 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\entities\dist\commonjs\internal
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17               706 bin-trie-flags.d.ts
+30/07/2026  15:17               244 bin-trie-flags.d.ts.map
+30/07/2026  15:17             1.066 bin-trie-flags.js
+30/07/2026  15:17               295 bin-trie-flags.js.map
+30/07/2026  15:17               109 decode-shared.d.ts
+30/07/2026  15:17               188 decode-shared.d.ts.map
+30/07/2026  15:17             1.381 decode-shared.js
+30/07/2026  15:17             1.033 decode-shared.js.map
+30/07/2026  15:17             1.289 encode-shared.d.ts
+30/07/2026  15:17               462 encode-shared.d.ts.map
+30/07/2026  15:17             3.663 encode-shared.js
+30/07/2026  15:17             3.066 encode-shared.js.map
+              12 arquivo(s)         13.502 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\entities\dist\esm
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17               765 decode-codepoint.d.ts
+30/07/2026  15:17               348 decode-codepoint.d.ts.map
+30/07/2026  15:17             2.094 decode-codepoint.js
+30/07/2026  15:17             1.854 decode-codepoint.js.map
+30/07/2026  15:17             8.049 decode.d.ts
+30/07/2026  15:17             2.037 decode.d.ts.map
+30/07/2026  15:17            23.157 decode.js
+30/07/2026  15:17            13.761 decode.js.map
+30/07/2026  15:17               951 encode.d.ts
+30/07/2026  15:17               251 encode.d.ts.map
+30/07/2026  15:17             3.159 encode.js
+30/07/2026  15:17             2.389 encode.js.map
+30/07/2026  15:17             1.667 escape.d.ts
+30/07/2026  15:17               590 escape.d.ts.map
+30/07/2026  15:17             4.574 escape.js
+30/07/2026  15:17             3.238 escape.js.map
+30/07/2026  15:17    <DIR>          generated
+30/07/2026  15:17             3.338 index.d.ts
+30/07/2026  15:17             1.335 index.d.ts.map
+30/07/2026  15:17             4.444 index.js
+30/07/2026  15:17             2.723 index.js.map
+30/07/2026  15:17    <DIR>          internal
+30/07/2026  15:17                23 package.json
+              21 arquivo(s)         80.747 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\entities\dist\esm\generated
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17                96 decode-data-html.d.ts
+30/07/2026  15:17               177 decode-data-html.d.ts.map
+30/07/2026  15:17            32.416 decode-data-html.js
+30/07/2026  15:17               271 decode-data-html.js.map
+30/07/2026  15:17                94 decode-data-xml.d.ts
+30/07/2026  15:17               175 decode-data-xml.d.ts.map
+30/07/2026  15:17               278 decode-data-xml.js
+30/07/2026  15:17               263 decode-data-xml.js.map
+30/07/2026  15:17               169 encode-html.d.ts
+30/07/2026  15:17               241 encode-html.d.ts.map
+30/07/2026  15:17            13.353 encode-html.js
+30/07/2026  15:17               337 encode-html.js.map
+              12 arquivo(s)         47.870 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\entities\dist\esm\internal
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17               706 bin-trie-flags.d.ts
+30/07/2026  15:17               244 bin-trie-flags.d.ts.map
+30/07/2026  15:17               942 bin-trie-flags.js
+30/07/2026  15:17               301 bin-trie-flags.js.map
+30/07/2026  15:17               109 decode-shared.d.ts
+30/07/2026  15:17               188 decode-shared.d.ts.map
+30/07/2026  15:17             1.274 decode-shared.js
+30/07/2026  15:17             1.022 decode-shared.js.map
+30/07/2026  15:17             1.289 encode-shared.d.ts
+30/07/2026  15:17               462 encode-shared.d.ts.map
+30/07/2026  15:17             3.550 encode-shared.js
+30/07/2026  15:17             3.055 encode-shared.js.map
+              12 arquivo(s)         13.142 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\entities\src
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17             2.164 decode-codepoint.ts
+30/07/2026  15:17            23.654 decode.ts
+30/07/2026  15:17             3.202 encode.ts
+30/07/2026  15:17             5.047 escape.ts
+30/07/2026  15:17    <DIR>          generated
+30/07/2026  15:17             5.086 index.ts
+30/07/2026  15:17    <DIR>          internal
+               5 arquivo(s)         39.153 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\entities\src\generated
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17               250 .eslintrc.json
+30/07/2026  15:17            32.393 decode-data-html.ts
+30/07/2026  15:17               256 decode-data-xml.ts
+30/07/2026  15:17            13.392 encode-html.ts
+               4 arquivo(s)         46.291 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\entities\src\internal
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17               723 bin-trie-flags.ts
+30/07/2026  15:17             1.276 decode-shared.ts
+30/07/2026  15:17             4.466 encode-shared.ts
+               3 arquivo(s)          6.465 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\esbuild
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17    <DIR>          bin
+30/07/2026  15:17            11.160 install.js
+30/07/2026  15:17    <DIR>          lib
+30/07/2026  15:17             1.069 LICENSE.md
+30/07/2026  15:17             1.490 package.json
+30/07/2026  15:17               175 README.md
+               4 arquivo(s)         13.894 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\esbuild\bin
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17        10.358.936 esbuild
+               1 arquivo(s)     10.358.936 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\esbuild\lib
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17            23.392 main.d.ts
+30/07/2026  15:17            88.706 main.js
+               2 arquivo(s)        112.098 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\estree-walker
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17             1.548 CHANGELOG.md
+30/07/2026  15:17    <DIR>          dist
+30/07/2026  15:17             1.126 LICENSE
+30/07/2026  15:17               848 package.json
+30/07/2026  15:17             1.623 README.md
+30/07/2026  15:17    <DIR>          src
+30/07/2026  15:17    <DIR>          types
+               4 arquivo(s)          5.145 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\estree-walker\dist
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17    <DIR>          esm
+30/07/2026  15:17    <DIR>          umd
+               0 arquivo(s)              0 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\estree-walker\dist\esm
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17             7.158 estree-walker.js
+30/07/2026  15:17                17 package.json
+               2 arquivo(s)          7.175 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\estree-walker\dist\umd
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17             7.828 estree-walker.js
+               1 arquivo(s)          7.828 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\estree-walker\src
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17             2.712 async.js
+30/07/2026  15:17               842 index.js
+30/07/2026  15:17                18 package.json
+30/07/2026  15:17             2.659 sync.js
+30/07/2026  15:17             1.114 walker.js
+               5 arquivo(s)          7.345 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\estree-walker\types
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17             1.939 async.d.ts
+30/07/2026  15:17             2.242 index.d.ts
+30/07/2026  15:17             1.879 sync.d.ts
+30/07/2026  15:17            15.666 tsconfig.tsbuildinfo
+30/07/2026  15:17             1.024 walker.d.ts
+               5 arquivo(s)         22.750 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\fdir
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17    <DIR>          dist
+30/07/2026  15:17             1.053 LICENSE
+30/07/2026  15:17             2.694 package.json
+30/07/2026  15:17             3.851 README.md
+               3 arquivo(s)          7.598 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\fdir\dist
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17            18.210 index.cjs
+30/07/2026  15:17             5.129 index.d.cts
+30/07/2026  15:17             5.129 index.d.mts
+30/07/2026  15:17            17.225 index.mjs
+               4 arquivo(s)         45.693 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\magic-string
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17    <DIR>          dist
+30/07/2026  15:17             1.051 LICENSE
+30/07/2026  15:17             1.840 package.json
+30/07/2026  15:17            12.608 README.md
+               3 arquivo(s)         15.499 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\magic-string\dist
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17            10.017 magic-string.cjs.d.ts
+30/07/2026  15:17            38.935 magic-string.cjs.js
+30/07/2026  15:17            95.751 magic-string.cjs.js.map
+30/07/2026  15:17            10.017 magic-string.es.d.mts
+30/07/2026  15:17            38.739 magic-string.es.mjs
+30/07/2026  15:17            95.273 magic-string.es.mjs.map
+30/07/2026  15:17            42.936 magic-string.umd.js
+30/07/2026  15:17           112.594 magic-string.umd.js.map
+               8 arquivo(s)        444.262 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\muggle-string
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17             1.076 LICENSE
+30/07/2026  15:17    <DIR>          out
+30/07/2026  15:17               379 package.json
+30/07/2026  15:17             1.840 README.md
+               3 arquivo(s)          3.295 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\muggle-string\out
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17               605 base.d.ts
+30/07/2026  15:17             4.636 base.js
+30/07/2026  15:17               605 basic.d.ts
+30/07/2026  15:17             4.637 basic.js
+30/07/2026  15:17                80 binarySearch.d.ts
+30/07/2026  15:17               700 binarySearch.js
+30/07/2026  15:17               683 common.d.ts
+30/07/2026  15:17             5.552 common.js
+30/07/2026  15:17               109 getLength.d.ts
+30/07/2026  15:17               372 getLength.js
+30/07/2026  15:17               913 index.d.ts
+30/07/2026  15:17             6.471 index.js
+30/07/2026  15:17               230 map.d.ts
+30/07/2026  15:17             2.445 map.js
+30/07/2026  15:17               324 overwriteSource.d.ts
+30/07/2026  15:17             1.978 overwriteSource.js
+30/07/2026  15:17               334 replace.d.ts
+30/07/2026  15:17             1.380 replace.js
+30/07/2026  15:17               476 segment.d.ts
+30/07/2026  15:17             1.072 segment.js
+30/07/2026  15:17               310 sourceBased.d.ts
+30/07/2026  15:17             1.907 sourceBased.js
+30/07/2026  15:17               121 toString.d.ts
+30/07/2026  15:17               274 toString.js
+30/07/2026  15:17               354 track.d.ts
+30/07/2026  15:17             4.336 track.js
+30/07/2026  15:17               394 types.d.ts
+30/07/2026  15:17               110 types.js
+              28 arquivo(s)         41.408 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\nanoid
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17    <DIR>          async
+30/07/2026  15:17    <DIR>          bin
+30/07/2026  15:17             1.088 index.browser.cjs
+30/07/2026  15:17             1.074 index.browser.js
+30/07/2026  15:17             1.425 index.cjs
+30/07/2026  15:17             2.252 index.d.cts
+30/07/2026  15:17             2.252 index.d.ts
+30/07/2026  15:17             1.469 index.js
+30/07/2026  15:17             1.095 LICENSE
+30/07/2026  15:17               169 nanoid.js
+30/07/2026  15:17    <DIR>          non-secure
+30/07/2026  15:17             2.283 package.json
+30/07/2026  15:17             1.479 README.md
+30/07/2026  15:17    <DIR>          url-alphabet
+              10 arquivo(s)         14.586 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\nanoid\async
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17             1.002 index.browser.cjs
+30/07/2026  15:17               992 index.browser.js
+30/07/2026  15:17             1.008 index.cjs
+30/07/2026  15:17             1.505 index.d.ts
+30/07/2026  15:17               991 index.js
+30/07/2026  15:17               829 index.native.js
+30/07/2026  15:17               233 package.json
+               7 arquivo(s)          6.560 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\nanoid\bin
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17             1.129 nanoid.cjs
+               1 arquivo(s)          1.129 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\nanoid\non-secure
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17               518 index.cjs
+30/07/2026  15:17               983 index.d.ts
+30/07/2026  15:17               508 index.js
+30/07/2026  15:17                99 package.json
+               4 arquivo(s)          2.108 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\nanoid\url-alphabet
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17               121 index.cjs
+30/07/2026  15:17               111 index.js
+30/07/2026  15:17                99 package.json
+               3 arquivo(s)            331 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\path-browserify
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17    <DIR>          .github
+30/07/2026  15:17               371 .travis.yml
+30/07/2026  15:17               616 CHANGELOG.md
+30/07/2026  15:17            16.166 index.js
+30/07/2026  15:17             1.071 LICENSE
+30/07/2026  15:17               650 package.json
+30/07/2026  15:17             2.024 README.md
+30/07/2026  15:17               294 security.md
+30/07/2026  15:17    <DIR>          test
+               7 arquivo(s)         21.192 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\path-browserify\.github
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17               655 FUNDING.yml
+               1 arquivo(s)            655 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\path-browserify\test
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17               294 index.js
+30/07/2026  15:17             4.068 test-path-basename.js
+30/07/2026  15:17             2.730 test-path-dirname.js
+30/07/2026  15:17             2.701 test-path-extname.js
+30/07/2026  15:17             1.499 test-path-isabsolute.js
+30/07/2026  15:17             4.251 test-path-join.js
+30/07/2026  15:17             7.458 test-path-parse-format.js
+30/07/2026  15:17             2.503 test-path-relative.js
+30/07/2026  15:17             1.596 test-path-resolve.js
+30/07/2026  15:17             1.957 test-path-zero-length-strings.js
+30/07/2026  15:17             3.389 test-path.js
+              11 arquivo(s)         32.446 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\picocolors
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17               787 LICENSE
+30/07/2026  15:17               552 package.json
+30/07/2026  15:17               598 picocolors.browser.js
+30/07/2026  15:17               138 picocolors.d.ts
+30/07/2026  15:17             2.663 picocolors.js
+30/07/2026  15:17               622 README.md
+30/07/2026  15:17             1.013 types.d.ts
+               7 arquivo(s)          6.373 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\picomatch
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17               479 index.js
+30/07/2026  15:17    <DIR>          lib
+30/07/2026  15:17             1.091 LICENSE
+30/07/2026  15:17             1.915 package.json
+30/07/2026  15:17                60 posix.js
+30/07/2026  15:17            28.319 README.md
+               5 arquivo(s)         31.864 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\picomatch\lib
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17             4.552 constants.js
+30/07/2026  15:17            34.668 parse.js
+30/07/2026  15:17            10.722 picomatch.js
+30/07/2026  15:17             9.189 scan.js
+30/07/2026  15:17             1.994 utils.js
+               5 arquivo(s)         61.125 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\postcss
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17    <DIR>          lib
+30/07/2026  15:17             1.095 LICENSE
+30/07/2026  15:17             2.497 package.json
+30/07/2026  15:17             1.100 README.md
+               3 arquivo(s)          4.692 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\postcss\lib
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17             3.356 at-rule.d.ts
+30/07/2026  15:17               471 at-rule.js
+30/07/2026  15:17             1.680 comment.d.ts
+30/07/2026  15:17               203 comment.js
+30/07/2026  15:17            14.025 container.d.ts
+30/07/2026  15:17            12.350 container.js
+30/07/2026  15:17             6.447 css-syntax-error.d.ts
+30/07/2026  15:17             3.402 css-syntax-error.js
+30/07/2026  15:17             3.833 declaration.d.ts
+30/07/2026  15:17               495 declaration.js
+30/07/2026  15:17             1.884 document.d.ts
+30/07/2026  15:17               654 document.js
+30/07/2026  15:17               160 fromJSON.d.ts
+30/07/2026  15:17             2.810 fromJSON.js
+30/07/2026  15:17             5.126 input.d.ts
+30/07/2026  15:17             7.274 input.js
+30/07/2026  15:17             4.939 lazy-result.d.ts
+30/07/2026  15:17            16.273 lazy-result.js
+30/07/2026  15:17             1.424 list.d.ts
+30/07/2026  15:17             1.254 list.js
+30/07/2026  15:17            10.031 map-generator.js
+30/07/2026  15:17             1.503 no-work-result.d.ts
+30/07/2026  15:17             2.619 no-work-result.js
+30/07/2026  15:17            14.688 node.d.ts
+30/07/2026  15:17            12.643 node.js
+30/07/2026  15:17               133 parse.d.ts
+30/07/2026  15:17             1.147 parse.js
+30/07/2026  15:17            15.168 parser.js
+30/07/2026  15:17             1.046 postcss.d.mts
+30/07/2026  15:17            11.654 postcss.d.ts
+30/07/2026  15:17             2.898 postcss.js
+30/07/2026  15:17               980 postcss.mjs
+30/07/2026  15:17             1.757 previous-map.d.ts
+30/07/2026  15:17             4.685 previous-map.js
+30/07/2026  15:17             3.345 processor.d.ts
+30/07/2026  15:17             1.739 processor.js
+30/07/2026  15:17             4.346 result.d.ts
+30/07/2026  15:17               738 result.js
+30/07/2026  15:17             2.253 root.d.ts
+30/07/2026  15:17             1.606 root.js
+30/07/2026  15:17             2.879 rule.d.ts
+30/07/2026  15:17               569 rule.js
+30/07/2026  15:17             1.360 stringifier.d.ts
+30/07/2026  15:17            11.816 stringifier.js
+30/07/2026  15:17               163 stringify.d.ts
+30/07/2026  15:17               213 stringify.js
+30/07/2026  15:17                91 symbols.js
+30/07/2026  15:17             1.399 terminal-highlight.js
+30/07/2026  15:17             6.700 tokenize.js
+30/07/2026  15:17               256 warn-once.js
+30/07/2026  15:17             2.924 warning.d.ts
+30/07/2026  15:17             1.151 warning.js
+              52 arquivo(s)        212.560 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\rollup
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17    <DIR>          dist
+30/07/2026  15:17            35.231 LICENSE.md
+30/07/2026  15:17            12.426 package.json
+30/07/2026  15:17             9.999 README.md
+               3 arquivo(s)         57.656 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\rollup\dist
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17    <DIR>          bin
+30/07/2026  15:17    <DIR>          es
+30/07/2026  15:17               171 getLogFilter.d.ts
+30/07/2026  15:17             2.230 getLogFilter.js
+30/07/2026  15:17               471 loadConfigFile.d.ts
+30/07/2026  15:17               705 loadConfigFile.js
+30/07/2026  15:17             5.116 native.js
+30/07/2026  15:17               134 parseAst.d.ts
+30/07/2026  15:17               506 parseAst.js
+30/07/2026  15:17            36.142 rollup.d.ts
+30/07/2026  15:17             4.701 rollup.js
+30/07/2026  15:17    <DIR>          shared
+               9 arquivo(s)         50.176 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\rollup\dist\bin
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17            82.112 rollup
+               1 arquivo(s)         82.112 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\rollup\dist\es
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17             2.088 getLogFilter.js
+30/07/2026  15:17                17 package.json
+30/07/2026  15:17               293 parseAst.js
+30/07/2026  15:17               430 rollup.js
+30/07/2026  15:17    <DIR>          shared
+               4 arquivo(s)          2.828 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\rollup\dist\es\shared
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17           953.454 node-entry.js
+30/07/2026  15:17            86.189 parseAst.js
+30/07/2026  15:17           264.040 watch.js
+               3 arquivo(s)      1.303.683 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\rollup\dist\shared
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17               884 fsevents-importer.js
+30/07/2026  15:17           254.170 index.js
+30/07/2026  15:17            22.927 loadConfigFile.js
+30/07/2026  15:17            95.295 parseAst.js
+30/07/2026  15:17           952.647 rollup.js
+30/07/2026  15:17            18.481 watch-cli.js
+30/07/2026  15:17            10.570 watch.js
+               7 arquivo(s)      1.354.974 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\source-map-js
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17    <DIR>          lib
+30/07/2026  15:17             1.526 LICENSE
+30/07/2026  15:17             2.548 package.json
+30/07/2026  15:17            26.040 README.md
+30/07/2026  15:17             3.408 source-map.d.ts
+30/07/2026  15:17               405 source-map.js
+               5 arquivo(s)         33.927 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\source-map-js\lib
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17             3.197 array-set.js
+30/07/2026  15:17             4.714 base64-vlq.js
+30/07/2026  15:17             1.540 base64.js
+30/07/2026  15:17             4.249 binary-search.js
+30/07/2026  15:17             2.339 mapping-list.js
+30/07/2026  15:17             4.068 quick-sort.js
+30/07/2026  15:17                40 source-map-consumer.d.ts
+30/07/2026  15:17            41.580 source-map-consumer.js
+30/07/2026  15:17                41 source-map-generator.d.ts
+30/07/2026  15:17            14.933 source-map-generator.js
+30/07/2026  15:17                33 source-node.d.ts
+30/07/2026  15:17            13.808 source-node.js
+30/07/2026  15:17            15.403 util.js
+              13 arquivo(s)        105.945 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\tinyglobby
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17    <DIR>          dist
+30/07/2026  15:17             1.076 LICENSE
+30/07/2026  15:17             1.761 package.json
+30/07/2026  15:17               931 README.md
+               3 arquivo(s)          3.768 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\tinyglobby\dist
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17            13.706 index.cjs
+30/07/2026  15:17             4.688 index.d.cts
+30/07/2026  15:17             4.688 index.d.mts
+30/07/2026  15:17            12.438 index.mjs
+               4 arquivo(s)         35.520 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\typescript
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17    <DIR>          bin
+30/07/2026  15:17    <DIR>          lib
+30/07/2026  15:17             9.197 LICENSE.txt
+30/07/2026  15:17             3.620 package.json
+30/07/2026  15:17             2.842 README.md
+30/07/2026  15:17             2.656 SECURITY.md
+30/07/2026  15:17            37.824 ThirdPartyNoticeText.txt
+               5 arquivo(s)         56.139 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\typescript\bin
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17                45 tsc
+30/07/2026  15:17                50 tsserver
+               2 arquivo(s)             95 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\typescript\lib
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17    <DIR>          cs
+30/07/2026  15:17    <DIR>          de
+30/07/2026  15:17    <DIR>          es
+30/07/2026  15:17    <DIR>          fr
+30/07/2026  15:17    <DIR>          it
+30/07/2026  15:17    <DIR>          ja
+30/07/2026  15:17    <DIR>          ko
+30/07/2026  15:17               992 lib.d.ts
+30/07/2026  15:17            13.192 lib.decorators.d.ts
+30/07/2026  15:17             1.326 lib.decorators.legacy.d.ts
+30/07/2026  15:17             1.887 lib.dom.asynciterable.d.ts
+30/07/2026  15:17         1.874.901 lib.dom.d.ts
+30/07/2026  15:17            29.802 lib.dom.iterable.d.ts
+30/07/2026  15:17             5.229 lib.es2015.collection.d.ts
+30/07/2026  15:17            22.866 lib.es2015.core.d.ts
+30/07/2026  15:17             1.241 lib.es2015.d.ts
+30/07/2026  15:17             2.557 lib.es2015.generator.d.ts
+30/07/2026  15:17            18.200 lib.es2015.iterable.d.ts
+30/07/2026  15:17             3.200 lib.es2015.promise.d.ts
+30/07/2026  15:17             5.251 lib.es2015.proxy.d.ts
+30/07/2026  15:17             6.493 lib.es2015.reflect.d.ts
+30/07/2026  15:17             1.649 lib.es2015.symbol.d.ts
+30/07/2026  15:17            11.010 lib.es2015.symbol.wellknown.d.ts
+30/07/2026  15:17             5.204 lib.es2016.array.include.d.ts
+30/07/2026  15:17               965 lib.es2016.d.ts
+30/07/2026  15:17             1.032 lib.es2016.full.d.ts
+30/07/2026  15:17             1.484 lib.es2016.intl.d.ts
+30/07/2026  15:17               915 lib.es2017.arraybuffer.d.ts
+30/07/2026  15:17             1.162 lib.es2017.d.ts
+30/07/2026  15:17             1.916 lib.es2017.date.d.ts
+30/07/2026  15:17             1.032 lib.es2017.full.d.ts
+30/07/2026  15:17             1.449 lib.es2017.intl.d.ts
+30/07/2026  15:17             2.473 lib.es2017.object.d.ts
+30/07/2026  15:17             7.209 lib.es2017.sharedmemory.d.ts
+30/07/2026  15:17             2.378 lib.es2017.string.d.ts
+30/07/2026  15:17             1.542 lib.es2017.typedarrays.d.ts
+30/07/2026  15:17             2.692 lib.es2018.asyncgenerator.d.ts
+30/07/2026  15:17             2.257 lib.es2018.asynciterable.d.ts
+30/07/2026  15:17             1.088 lib.es2018.d.ts
+30/07/2026  15:17             1.074 lib.es2018.full.d.ts
+30/07/2026  15:17             3.021 lib.es2018.intl.d.ts
+30/07/2026  15:17             1.353 lib.es2018.promise.d.ts
+30/07/2026  15:17             1.232 lib.es2018.regexp.d.ts
+30/07/2026  15:17             3.163 lib.es2019.array.d.ts
+30/07/2026  15:17             1.071 lib.es2019.d.ts
+30/07/2026  15:17             1.074 lib.es2019.full.d.ts
+30/07/2026  15:17               958 lib.es2019.intl.d.ts
+30/07/2026  15:17             1.473 lib.es2019.object.d.ts
+30/07/2026  15:17             1.528 lib.es2019.string.d.ts
+30/07/2026  15:17             1.006 lib.es2019.symbol.d.ts
+30/07/2026  15:17            38.185 lib.es2020.bigint.d.ts
+30/07/2026  15:17             1.201 lib.es2020.d.ts
+30/07/2026  15:17             2.956 lib.es2020.date.d.ts
+30/07/2026  15:17             1.074 lib.es2020.full.d.ts
+30/07/2026  15:17            22.438 lib.es2020.intl.d.ts
+30/07/2026  15:17             1.587 lib.es2020.number.d.ts
+30/07/2026  15:17             1.803 lib.es2020.promise.d.ts
+30/07/2026  15:17             5.128 lib.es2020.sharedmemory.d.ts
+30/07/2026  15:17             2.556 lib.es2020.string.d.ts
+30/07/2026  15:17             1.606 lib.es2020.symbol.wellknown.d.ts
+30/07/2026  15:17             1.036 lib.es2021.d.ts
+30/07/2026  15:17             1.074 lib.es2021.full.d.ts
+30/07/2026  15:17             8.245 lib.es2021.intl.d.ts
+30/07/2026  15:17             2.262 lib.es2021.promise.d.ts
+30/07/2026  15:17             1.592 lib.es2021.string.d.ts
+30/07/2026  15:17             3.171 lib.es2021.weakref.d.ts
+30/07/2026  15:17             4.676 lib.es2022.array.d.ts
+30/07/2026  15:17             1.108 lib.es2022.d.ts
+30/07/2026  15:17             2.379 lib.es2022.error.d.ts
+30/07/2026  15:17             1.074 lib.es2022.full.d.ts
+30/07/2026  15:17             7.692 lib.es2022.intl.d.ts
+30/07/2026  15:17             1.085 lib.es2022.object.d.ts
+30/07/2026  15:17             1.331 lib.es2022.regexp.d.ts
+30/07/2026  15:17             1.155 lib.es2022.string.d.ts
+30/07/2026  15:17            40.236 lib.es2023.array.d.ts
+30/07/2026  15:17               900 lib.es2023.collection.d.ts
+30/07/2026  15:17               999 lib.es2023.d.ts
+30/07/2026  15:17             1.074 lib.es2023.full.d.ts
+30/07/2026  15:17             2.645 lib.es2023.intl.d.ts
+30/07/2026  15:17             2.637 lib.es2024.arraybuffer.d.ts
+30/07/2026  15:17             1.224 lib.es2024.collection.d.ts
+30/07/2026  15:17             1.166 lib.es2024.d.ts
+30/07/2026  15:17             1.074 lib.es2024.full.d.ts
+30/07/2026  15:17             1.259 lib.es2024.object.d.ts
+30/07/2026  15:17             1.389 lib.es2024.promise.d.ts
+30/07/2026  15:17             1.073 lib.es2024.regexp.d.ts
+30/07/2026  15:17             3.077 lib.es2024.sharedmemory.d.ts
+30/07/2026  15:17             1.194 lib.es2024.string.d.ts
+30/07/2026  15:17           218.439 lib.es5.d.ts
+30/07/2026  15:17             1.032 lib.es6.d.ts
+30/07/2026  15:17             1.791 lib.esnext.array.d.ts
+30/07/2026  15:17             3.878 lib.esnext.collection.d.ts
+30/07/2026  15:17             1.282 lib.esnext.d.ts
+30/07/2026  15:17             1.070 lib.esnext.decorators.d.ts
+30/07/2026  15:17             6.806 lib.esnext.disposable.d.ts
+30/07/2026  15:17             1.029 lib.esnext.error.d.ts
+30/07/2026  15:17            20.528 lib.esnext.float16.d.ts
+30/07/2026  15:17             1.074 lib.esnext.full.d.ts
+30/07/2026  15:17               893 lib.esnext.intl.d.ts
+30/07/2026  15:17             8.676 lib.esnext.iterator.d.ts
+30/07/2026  15:17             1.658 lib.esnext.promise.d.ts
+30/07/2026  15:17             1.067 lib.esnext.sharedmemory.d.ts
+30/07/2026  15:17             9.451 lib.scripthost.d.ts
+30/07/2026  15:17             1.887 lib.webworker.asynciterable.d.ts
+30/07/2026  15:17           609.557 lib.webworker.d.ts
+30/07/2026  15:17             1.041 lib.webworker.importscripts.d.ts
+30/07/2026  15:17            22.768 lib.webworker.iterable.d.ts
+30/07/2026  15:17    <DIR>          pl
+30/07/2026  15:17    <DIR>          pt-br
+30/07/2026  15:17    <DIR>          ru
+30/07/2026  15:17    <DIR>          tr
+30/07/2026  15:17               267 tsc.js
+30/07/2026  15:17               272 tsserver.js
+30/07/2026  15:17               865 tsserverlibrary.d.ts
+30/07/2026  15:17             1.012 tsserverlibrary.js
+30/07/2026  15:17           588.085 typescript.d.ts
+30/07/2026  15:17         9.112.572 typescript.js
+30/07/2026  15:17            16.788 typesMap.json
+30/07/2026  15:17               280 typingsInstaller.js
+30/07/2026  15:17             2.313 watchGuard.js
+30/07/2026  15:17    <DIR>          zh-cn
+30/07/2026  15:17    <DIR>          zh-tw
+30/07/2026  15:17         6.213.092 _tsc.js
+30/07/2026  15:17            27.888 _tsserver.js
+30/07/2026  15:17            10.363 _typingsInstaller.js
+             112 arquivo(s)     19.115.632 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\typescript\lib\cs
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17           320.453 diagnosticMessages.generated.json
+               1 arquivo(s)        320.453 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\typescript\lib\de
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17           344.426 diagnosticMessages.generated.json
+               1 arquivo(s)        344.426 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\typescript\lib\es
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17           340.054 diagnosticMessages.generated.json
+               1 arquivo(s)        340.054 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\typescript\lib\fr
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17           346.016 diagnosticMessages.generated.json
+               1 arquivo(s)        346.016 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\typescript\lib\it
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17           339.409 diagnosticMessages.generated.json
+               1 arquivo(s)        339.409 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\typescript\lib\ja
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17           381.398 diagnosticMessages.generated.json
+               1 arquivo(s)        381.398 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\typescript\lib\ko
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17           346.139 diagnosticMessages.generated.json
+               1 arquivo(s)        346.139 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\typescript\lib\pl
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17           342.111 diagnosticMessages.generated.json
+               1 arquivo(s)        342.111 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\typescript\lib\pt-br
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17           330.482 diagnosticMessages.generated.json
+               1 arquivo(s)        330.482 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\typescript\lib\ru
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17           443.587 diagnosticMessages.generated.json
+               1 arquivo(s)        443.587 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\typescript\lib\tr
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17           330.684 diagnosticMessages.generated.json
+               1 arquivo(s)        330.684 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\typescript\lib\zh-cn
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17           295.909 diagnosticMessages.generated.json
+               1 arquivo(s)        295.909 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\typescript\lib\zh-tw
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17           292.532 diagnosticMessages.generated.json
+               1 arquivo(s)        292.532 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\undici-types
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17             1.065 agent.d.ts
+30/07/2026  15:17             1.455 api.d.ts
+30/07/2026  15:17               961 balanced-pool.d.ts
+30/07/2026  15:17             1.251 cache.d.ts
+30/07/2026  15:17             4.964 client.d.ts
+30/07/2026  15:17             1.029 connector.d.ts
+30/07/2026  15:17               561 content-type.d.ts
+30/07/2026  15:17               635 cookies.d.ts
+30/07/2026  15:17             1.579 diagnostics-channel.d.ts
+30/07/2026  15:17            14.222 dispatcher.d.ts
+30/07/2026  15:17               675 env-http-proxy-agent.d.ts
+30/07/2026  15:17             4.280 errors.d.ts
+30/07/2026  15:17             1.648 eventsource.d.ts
+30/07/2026  15:17             5.575 fetch.d.ts
+30/07/2026  15:17             1.707 file.d.ts
+30/07/2026  15:17             1.433 filereader.d.ts
+30/07/2026  15:17             4.998 formdata.d.ts
+30/07/2026  15:17               276 global-dispatcher.d.ts
+30/07/2026  15:17               175 global-origin.d.ts
+30/07/2026  15:17               447 handlers.d.ts
+30/07/2026  15:17               133 header.d.ts
+30/07/2026  15:17             3.387 index.d.ts
+30/07/2026  15:17               922 interceptors.d.ts
+30/07/2026  15:17             1.090 LICENSE
+30/07/2026  15:17             2.535 mock-agent.d.ts
+30/07/2026  15:17             1.002 mock-client.d.ts
+30/07/2026  15:17               338 mock-errors.d.ts
+30/07/2026  15:17             3.902 mock-interceptor.d.ts
+30/07/2026  15:17               974 mock-pool.d.ts
+30/07/2026  15:17             1.193 package.json
+30/07/2026  15:17               691 patch.d.ts
+30/07/2026  15:17               669 pool-stats.d.ts
+30/07/2026  15:17             1.336 pool.d.ts
+30/07/2026  15:17               780 proxy-agent.d.ts
+30/07/2026  15:17             1.738 readable.d.ts
+30/07/2026  15:17               455 README.md
+30/07/2026  15:17               232 retry-agent.d.ts
+30/07/2026  15:17             2.983 retry-handler.d.ts
+30/07/2026  15:17               623 util.d.ts
+30/07/2026  15:17             5.921 webidl.d.ts
+30/07/2026  15:17             3.840 websocket.d.ts
+              41 arquivo(s)         83.680 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\vite
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17    <DIR>          bin
+30/07/2026  15:17             5.109 client.d.ts
+30/07/2026  15:17    <DIR>          dist
+30/07/2026  15:17             2.717 index.cjs
+30/07/2026  15:17               209 index.d.cts
+30/07/2026  15:17           115.624 LICENSE.md
+30/07/2026  15:17    <DIR>          misc
+30/07/2026  15:17             5.251 package.json
+30/07/2026  15:17             1.152 README.md
+30/07/2026  15:17    <DIR>          types
+               6 arquivo(s)        130.062 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\vite\bin
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17             2.691 openChrome.applescript
+30/07/2026  15:17             2.542 vite.js
+               2 arquivo(s)          5.233 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\vite\dist
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17    <DIR>          client
+30/07/2026  15:17    <DIR>          node
+30/07/2026  15:17    <DIR>          node-cjs
+               0 arquivo(s)              0 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\vite\dist\client
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17            32.405 client.mjs
+30/07/2026  15:17               643 env.mjs
+               2 arquivo(s)         33.048 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\vite\dist\node
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17    <DIR>          chunks
+30/07/2026  15:17            29.164 cli.js
+30/07/2026  15:17             4.186 constants.js
+30/07/2026  15:17           153.546 index.d.ts
+30/07/2026  15:17             6.677 index.js
+30/07/2026  15:17            10.612 module-runner.d.ts
+30/07/2026  15:17            53.266 module-runner.js
+30/07/2026  15:17             2.969 moduleRunnerTransport.d-DJ_mE5sf.d.ts
+               7 arquivo(s)        260.420 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\vite\dist\node\chunks
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17            13.038 dep-3RmXg9uo.js
+30/07/2026  15:17            19.503 dep-CV-fz3CQ.js
+30/07/2026  15:17           339.559 dep-CvfTChi5.js
+30/07/2026  15:17           235.611 dep-DDtvSN7_.js
+30/07/2026  15:17         1.504.267 dep-Dm0c1Wj2.js
+               5 arquivo(s)      2.111.978 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\vite\dist\node-cjs
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17           106.613 publicUtils.cjs
+               1 arquivo(s)        106.613 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\vite\misc
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17                21 false.js
+30/07/2026  15:17                20 true.js
+               2 arquivo(s)             41 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\vite\types
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17             1.312 customEvent.d.ts
+30/07/2026  15:17             1.282 hmrPayload.d.ts
+30/07/2026  15:17             1.060 hot.d.ts
+30/07/2026  15:17               249 import-meta.d.ts
+30/07/2026  15:17             1.909 importGlob.d.ts
+30/07/2026  15:17               871 importMeta.d.ts
+30/07/2026  15:17    <DIR>          internal
+30/07/2026  15:17               885 metadata.d.ts
+30/07/2026  15:17               109 package.json
+               8 arquivo(s)          7.677 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\vite\types\internal
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17             1.960 cssPreprocessorOptions.d.ts
+30/07/2026  15:17               520 lightningcssOptions.d.ts
+               2 arquivo(s)          2.480 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\vscode-uri
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17    <DIR>          lib
+30/07/2026  15:17             1.070 LICENSE.md
+30/07/2026  15:17             1.214 package.json
+30/07/2026  15:17             2.475 README.md
+30/07/2026  15:17             2.757 SECURITY.md
+               4 arquivo(s)          7.516 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\vscode-uri\lib
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17    <DIR>          esm
+30/07/2026  15:17    <DIR>          umd
+               0 arquivo(s)              0 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\vscode-uri\lib\esm
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17            10.732 index.mjs
+30/07/2026  15:17            62.941 index.mjs.map
+               2 arquivo(s)         73.673 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\vscode-uri\lib\umd
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17            11.020 charCode.d.ts
+30/07/2026  15:17               429 charCode.js
+30/07/2026  15:17                85 index.d.ts
+30/07/2026  15:17            11.851 index.js
+30/07/2026  15:17            62.976 index.js.map
+30/07/2026  15:17                39 platform.d.ts
+30/07/2026  15:17               692 platform.js
+30/07/2026  15:17             5.843 uri.d.ts
+30/07/2026  15:17            21.939 uri.js
+30/07/2026  15:17             2.861 utils.d.ts
+30/07/2026  15:17             5.552 utils.js
+              11 arquivo(s)        123.287 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\vue
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17    <DIR>          compiler-sfc
+30/07/2026  15:17    <DIR>          dist
+30/07/2026  15:17               171 index.js
+30/07/2026  15:17                27 index.mjs
+30/07/2026  15:17    <DIR>          jsx-runtime
+30/07/2026  15:17               741 jsx.d.ts
+30/07/2026  15:17             1.091 LICENSE
+30/07/2026  15:17             2.769 package.json
+30/07/2026  15:17             3.759 README.md
+30/07/2026  15:17    <DIR>          server-renderer
+               6 arquivo(s)          8.558 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\vue\compiler-sfc
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17                46 index.browser.js
+30/07/2026  15:17                34 index.browser.mjs
+30/07/2026  15:17                34 index.d.mts
+30/07/2026  15:17                34 index.d.ts
+30/07/2026  15:17                75 index.js
+30/07/2026  15:17                61 index.mjs
+30/07/2026  15:17                50 package.json
+30/07/2026  15:17               111 register-ts.js
+               8 arquivo(s)            445 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\vue\dist
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17             2.296 vue.cjs.js
+30/07/2026  15:17             1.774 vue.cjs.prod.js
+30/07/2026  15:17               299 vue.d.mts
+30/07/2026  15:17               299 vue.d.ts
+30/07/2026  15:17           555.428 vue.esm-browser.js
+30/07/2026  15:17           170.432 vue.esm-browser.prod.js
+30/07/2026  15:17             2.188 vue.esm-bundler.js
+30/07/2026  15:17           587.718 vue.global.js
+30/07/2026  15:17           165.599 vue.global.prod.js
+30/07/2026  15:17           385.660 vue.runtime.esm-browser.js
+30/07/2026  15:17           108.998 vue.runtime.esm-browser.prod.js
+30/07/2026  15:17               580 vue.runtime.esm-bundler.js
+30/07/2026  15:17           411.818 vue.runtime.global.js
+30/07/2026  15:17           106.947 vue.runtime.global.prod.js
+              14 arquivo(s)      2.500.036 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\vue\jsx-runtime
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17               848 index.d.ts
+30/07/2026  15:17               303 index.js
+30/07/2026  15:17               265 index.mjs
+30/07/2026  15:17                75 package.json
+               4 arquivo(s)          1.491 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\vue\server-renderer
+
+30/07/2026  15:17    <DIR>          .
+30/07/2026  15:17    <DIR>          ..
+30/07/2026  15:17                37 index.d.mts
+30/07/2026  15:17                37 index.d.ts
+30/07/2026  15:17                49 index.js
+30/07/2026  15:17                37 index.mjs
+30/07/2026  15:17                50 package.json
+               5 arquivo(s)            210 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\vue-tsc
+
+30/07/2026  18:05    <DIR>          .
+30/07/2026  18:05    <DIR>          ..
+30/07/2026  18:05    <DIR>          bin
+30/07/2026  18:05                52 index.d.ts
+30/07/2026  18:05             3.519 index.js
+30/07/2026  18:05             1.076 LICENSE
+30/07/2026  18:05               614 package.json
+30/07/2026  18:05             1.867 README.md
+               5 arquivo(s)          7.128 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\node_modules\vue-tsc\bin
+
+30/07/2026  18:05    <DIR>          .
+30/07/2026  18:05    <DIR>          ..
+30/07/2026  18:05                50 vue-tsc.js
+               1 arquivo(s)             50 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\public
+
+10/07/2026  15:46    <DIR>          .
+10/07/2026  15:46    <DIR>          ..
+10/07/2026  15:46    <DIR>          cv
+17/07/2026  18:52    <DIR>          images
+               0 arquivo(s)              0 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\public\cv
+
+10/07/2026  15:46    <DIR>          .
+10/07/2026  15:46    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\public\images
+
+17/07/2026  18:52    <DIR>          .
+17/07/2026  18:52    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\src
+
+31/07/2026  00:31    <DIR>          .
+31/07/2026  00:31    <DIR>          ..
+30/07/2026  18:36               348 App.vue
+10/07/2026  15:47    <DIR>          assets
+10/07/2026  15:49    <DIR>          components
+31/07/2026  00:31             3.278 components.zip
+10/07/2026  18:49    <DIR>          config
+10/07/2026  15:58    <DIR>          content
+10/07/2026  15:31    <DIR>          layouts
+30/07/2026  17:17               210 main.ts
+30/07/2026  16:59    <DIR>          sections
+30/07/2026  16:00    <DIR>          services
+10/07/2026  16:37    <DIR>          styles
+10/07/2026  16:29    <DIR>          types
+10/07/2026  16:27    <DIR>          utils
+30/07/2026  17:52               195 vite-env.d.ts
+               4 arquivo(s)          4.031 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\src\assets
+
+10/07/2026  15:47    <DIR>          .
+10/07/2026  15:47    <DIR>          ..
+10/07/2026  15:46    <DIR>          fonts
+10/07/2026  15:46    <DIR>          icons
+30/07/2026  19:32    <DIR>          images
+10/07/2026  15:47    <DIR>          logos
+               0 arquivo(s)              0 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\src\assets\fonts
+
+10/07/2026  15:46    <DIR>          .
+10/07/2026  15:46    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\src\assets\icons
+
+10/07/2026  15:46    <DIR>          .
+10/07/2026  15:46    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\src\assets\images
+
+30/07/2026  19:32    <DIR>          .
+30/07/2026  19:32    <DIR>          ..
+30/07/2026  22:07    <DIR>          backgrounds
+31/07/2026  00:16    <DIR>          profile
+               0 arquivo(s)              0 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\src\assets\images\backgrounds
+
+30/07/2026  22:07    <DIR>          .
+30/07/2026  22:07    <DIR>          ..
+08/07/2026  15:15         1.359.847 fundo.png
+30/07/2026  22:07           708.133 fundo.psd
+               2 arquivo(s)      2.067.980 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\src\assets\images\profile
+
+31/07/2026  00:16    <DIR>          .
+31/07/2026  00:16    <DIR>          ..
+26/06/2026  19:20            95.171 avatar.png
+30/07/2026  22:14           192.153 fundo.png
+31/07/2026  00:16           230.799 fundo1.png
+30/07/2026  22:01            16.184 imagem-hero.jpg
+               4 arquivo(s)        534.307 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\src\assets\logos
+
+10/07/2026  15:47    <DIR>          .
+10/07/2026  15:47    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\src\components
+
+10/07/2026  15:49    <DIR>          .
+10/07/2026  15:49    <DIR>          ..
+10/07/2026  16:30    <DIR>          base
+10/07/2026  16:31    <DIR>          layout
+10/07/2026  16:32    <DIR>          ui
+               0 arquivo(s)              0 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\src\components\base
+
+10/07/2026  16:30    <DIR>          .
+10/07/2026  16:30    <DIR>          ..
+10/07/2026  16:30                 0 BaseBadge.vue
+10/07/2026  16:30                 0 BaseButton.vue
+10/07/2026  16:30                 0 BaseCard.vue
+10/07/2026  16:30                 0 BaseIcon.vue
+10/07/2026  16:30                 0 BaseTitle.vue
+               5 arquivo(s)              0 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\src\components\layout
+
+10/07/2026  16:31    <DIR>          .
+10/07/2026  16:31    <DIR>          ..
+10/07/2026  16:31                 0 Container.vue
+30/07/2026  16:50               138 Footer.vue
+30/07/2026  19:00               582 Header.vue
+10/07/2026  16:31                 0 Section.vue
+               4 arquivo(s)            720 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\src\components\ui
+
+10/07/2026  16:32    <DIR>          .
+10/07/2026  16:32    <DIR>          ..
+10/07/2026  16:32                 0 CertificateCard.vue
+10/07/2026  16:32                 0 ExperienceCard.vue
+10/07/2026  16:32                 0 ProjectCard.vue
+10/07/2026  16:32                 0 SkillChip.vue
+10/07/2026  16:32                 0 TimeLine.vue
+               5 arquivo(s)              0 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\src\config
+
+10/07/2026  18:49    <DIR>          .
+10/07/2026  18:49    <DIR>          ..
+10/07/2026  18:49               513 navigation.ts
+10/07/2026  16:25               250 site.ts
+10/07/2026  16:25                84 theme.ts
+               3 arquivo(s)            847 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\src\content
+
+10/07/2026  15:58    <DIR>          .
+10/07/2026  15:58    <DIR>          ..
+30/07/2026  19:09               572 about.ts
+10/07/2026  15:30               724 certificates.ts
+10/07/2026  15:57                 0 education.ts
+10/07/2026  15:30             2.352 experience.ts
+30/07/2026  23:47               526 profile.ts
+10/07/2026  18:49             1.825 projects.ts
+10/07/2026  18:49             1.445 skills.ts
+10/07/2026  15:30               462 socials.ts
+               8 arquivo(s)          7.906 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\src\layouts
+
+10/07/2026  15:31    <DIR>          .
+10/07/2026  15:31    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\src\sections
+
+30/07/2026  16:59    <DIR>          .
+30/07/2026  16:59    <DIR>          ..
+30/07/2026  17:05    <DIR>          about
+30/07/2026  17:03    <DIR>          certificates
+30/07/2026  17:04    <DIR>          contact
+30/07/2026  17:04    <DIR>          experience
+30/07/2026  17:16    <DIR>          hero
+30/07/2026  17:07    <DIR>          projects
+30/07/2026  17:08    <DIR>          skills
+               0 arquivo(s)              0 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\src\sections\about
+
+30/07/2026  17:05    <DIR>          .
+30/07/2026  17:05    <DIR>          ..
+10/07/2026  16:04                 0 About.css
+10/07/2026  15:51                 0 AboutSection.vue
+30/07/2026  17:02                44 Index.ts
+               3 arquivo(s)             44 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\src\sections\certificates
+
+30/07/2026  17:03    <DIR>          .
+30/07/2026  17:03    <DIR>          ..
+10/07/2026  16:05                 0 Certificates.css
+10/07/2026  15:52                 0 CertificatesSection.vue
+30/07/2026  17:04                51 Index.ts
+               3 arquivo(s)             51 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\src\sections\contact
+
+30/07/2026  17:04    <DIR>          .
+30/07/2026  17:04    <DIR>          ..
+10/07/2026  16:15                 0 Contact.css
+10/07/2026  15:53                 0 ContactSection.vue
+30/07/2026  17:04                46 Index.ts
+               3 arquivo(s)             46 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\src\sections\experience
+
+30/07/2026  17:04    <DIR>          .
+30/07/2026  17:04    <DIR>          ..
+30/07/2026  16:34                 0 Experience.css
+10/07/2026  15:52                 0 ExperienceSection.vue
+30/07/2026  17:05                49 Index.ts
+               3 arquivo(s)             49 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\src\sections\hero
+
+30/07/2026  17:16    <DIR>          .
+30/07/2026  17:16    <DIR>          ..
+31/07/2026  00:14             6.581 Hero.css
+30/07/2026  23:23             1.083 HeroSection.vue
+30/07/2026  17:17                43 Index.ts
+               3 arquivo(s)          7.707 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\src\sections\projects
+
+30/07/2026  17:07    <DIR>          .
+30/07/2026  17:07    <DIR>          ..
+30/07/2026  17:08                47 Index.ts
+10/07/2026  16:18                 0 Projects.css
+10/07/2026  15:52                 0 ProjectsSection.vue
+               3 arquivo(s)             47 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\src\sections\skills
+
+30/07/2026  17:08    <DIR>          .
+30/07/2026  17:08    <DIR>          ..
+30/07/2026  17:09                45 Index.ts
+10/07/2026  16:19                 0 Skills.css
+10/07/2026  15:52                 0 SkillsSection.vue
+               3 arquivo(s)             45 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\src\services
+
+30/07/2026  16:00    <DIR>          .
+30/07/2026  16:00    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\src\styles
+
+10/07/2026  16:37    <DIR>          .
+10/07/2026  16:37    <DIR>          ..
+10/07/2026  16:35    <DIR>          base
+30/07/2026  18:32    <DIR>          components
+10/07/2026  16:37    <DIR>          globals
+30/07/2026  16:20    <DIR>          tokens
+               0 arquivo(s)              0 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\src\styles\base
+
+10/07/2026  16:35    <DIR>          .
+10/07/2026  16:35    <DIR>          ..
+10/07/2026  18:54             2.445 Animations.css
+10/07/2026  18:54               301 Fonts.css
+10/07/2026  18:54               958 Reset.css
+10/07/2026  16:35                 0 Utilities.css
+               4 arquivo(s)          3.704 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\src\styles\components
+
+30/07/2026  18:32    <DIR>          .
+30/07/2026  18:32    <DIR>          ..
+10/07/2026  16:36                 0 Badge.css
+10/07/2026  16:35                 0 Button.css
+10/07/2026  16:35                 0 Card.css
+31/07/2026  00:28             3.559 Header.css
+10/07/2026  16:36                 0 Timeline.css
+               5 arquivo(s)          3.559 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\src\styles\globals
+
+10/07/2026  16:37    <DIR>          .
+10/07/2026  16:37    <DIR>          ..
+31/07/2026  12:06               896 Globals.css
+               1 arquivo(s)            896 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\src\styles\tokens
+
+30/07/2026  16:20    <DIR>          .
+30/07/2026  16:20    <DIR>          ..
+10/07/2026  18:54               144 BreakPoints.css
+10/07/2026  18:54             1.702 Colors.css
+09/07/2026  11:59               116 Radius.css
+09/07/2026  11:59               157 Shadows.css
+09/07/2026  12:00               185 Spacing.css
+10/07/2026  18:54               179 Transitions.css
+30/07/2026  19:30               214 Typography.css
+               7 arquivo(s)          2.697 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\src\types
+
+10/07/2026  16:29    <DIR>          .
+10/07/2026  16:29    <DIR>          ..
+10/07/2026  16:29                 0 Certificate.ts
+10/07/2026  16:29                 0 Education.ts
+10/07/2026  16:29                 0 Experience.ts
+10/07/2026  18:48             4.146 index.ts
+10/07/2026  16:27                 0 Project.ts
+10/07/2026  16:29                 0 Skill.ts
+               6 arquivo(s)          4.146 bytes
+
+ Pasta de E:\Biblioteca\documentos\projetos\portifolio\src\utils
+
+10/07/2026  16:27    <DIR>          .
+10/07/2026  16:27    <DIR>          ..
+10/07/2026  16:27                 0 downloadCv.ts
+10/07/2026  16:26                 0 formatDate.ts
+10/07/2026  16:26                 0 scrollTo.ts
+               3 arquivo(s)              0 bytes
+
+     Total de Arquivos na Lista:
+            1574 arquivo(s)     96.060.074 bytes
+            1154 pasta(s)   184.834.707.456 bytes dispon¡veis
