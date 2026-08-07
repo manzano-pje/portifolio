@@ -8,8 +8,8 @@
 .skills-shell {
   /* max-width: 100%; */
   margin: 0 auto;
-  padding: 1.5rem;
-    background: var(--color-surface-raised);
+  padding: 1rem;
+  background: var(--color-surface-raised);
   border-radius: var(--radius-xl);
 }
 
@@ -17,7 +17,14 @@
   display: flex;
   flex-direction: column;
   gap: var(--space-3);
-  margin-bottom: var(--space-4);
+  margin: var(--space-2) 0
+}
+
+.skills-header-concepts {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+  margin: var(--space-4) 0 var(--space-2)
 }
 
 .skills-title {
@@ -63,40 +70,6 @@
   font-weight: 100;
 }
 
-.skill-categories {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 1rem;
-  margin-top: var(--space-6);
-}
-
-.category-block {
-  padding: 1rem 1.1rem;
-  border: 1px solid var(--color-border);
-  border-radius: var(--radius-lg);
-  background: rgba(255, 255, 255, 0.03);
-}
-
-.category-block h3 {
-  margin: 0 0 0.75rem;
-  color: var(--color-text);
-  font-size: 1rem;
-}
-
-.category-pills {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-}
-
-.category-pills span {
-  padding: 0.35rem 0.65rem;
-  border-radius: var(--radius-full);
-  background: var(--color-primary-muted);
-  color: var(--color-primary-light);
-  font-size: 0.8rem;
-  font-weight: 600;
-}
 
 @media (max-width: 900px) {
   .skills-grid {

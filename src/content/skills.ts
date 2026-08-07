@@ -23,16 +23,12 @@ export const techSkills: SkillTech[] = [
  * Grupos de conceitos e boas práticas — exibidos como text badges
  */
 export const conceptSkills: SkillConceptGroup[] = [
-  {
-    category: 'Boas Práticas',
-    items: ['SOLID', 'Clean Code', 'DDD', 'Arquitetura MVC', 'Refatoração', 'Code Review'],
-  },
-  {
-    category: 'APIs & Protocolos',
-    items: ['REST', 'RESTful', 'JSON', 'Integração de Sistemas'],
-  },
-  {
-    category: 'Metodologias',
-    items: ['Scrum', 'Kanban'],
-  },
+  { item: 'SOLID' },
+  { item: 'Clean Code' },
+  { item: 'DDD' },
+  { item: 'Arquitetura MVC' },
+  { item: 'REST' },
+  { item: 'Integração de Sistemas' },
+  { item: 'Scrum' },
+  { item: 'Kanban' },
 ]
