@@ -1,26 +1,20 @@
 <template>
-  <section id="sobre" class="about-section">
-    <div class="about-shell">
-      <div class="about-content">
-        <h2 class="about-title">Quem sou eu</h2>
+    <section id="sobre" class="about-section">
+        <div class="about-shell">
+            <div div class="about-content">
+                <h2 class="about-title">Quem sou eu</h2>
+                <div class="about-copy">
+                    <p v-for="(paragraph, index) in about.paragraphs" :key="`${paragraph}-${index}`">
+                        {{ paragraph }}
+                    </p>
+                </div>
 
-        <div class="about-copy">
-          <p
-            v-for="(paragraph, index) in about.paragraphs"
-            :key="`${paragraph}-${index}`"
-          >
-            {{ paragraph }}
-          </p>
+                <a class="about-link" :href="about.ctaHref">
+                    {{ about.ctaLabel }}
+                </a>
+            </div>
         </div>
-
-        <a class="about-link" :href="about.ctaHref">
-          {{ about.ctaLabel }}
-        </a>
-      </div>
-
-
-    </div>
-  </section>
+    </section>
 </template>
 
 <script setup lang="ts">

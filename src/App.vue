@@ -7,6 +7,7 @@
       <HeroSection />
       <div class="section-separator">
         <AboutSection />
+        
         <SkillsSection />
       </div>
     </main>
