@@ -17,17 +17,18 @@ defineProps<{
 </script>
 
 <template>
-    <article class="project-card">
+    <article class="project-card card">
         <div class="project-card__header">
             <div>
                 <h3 class="project-card__title">{{ project.name }}</h3>
                 <p class="project-card__subtitle">{{ project.subtitle }}</p>
             </div>
         </div>
+
         <p class="project-card__description">{{ project.description }}</p>
 
         <div class="project-card__tags">
-            <span v-for="tag in project.tags.slice(0, 6)" :key="tag" class="project-card__tag">
+            <span v-for="tag in project.tags.slice(0, 6)" :key="tag" class="project-card__tag badge">
                 {{ tag }}
             </span>
         </div>
