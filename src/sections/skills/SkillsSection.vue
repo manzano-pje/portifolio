@@ -8,38 +8,36 @@ Padrão: BEM
 -->
 
 <template>
-  <section id="skills" class="skills-section">
-    <div class="skills-shell">
+  <Section id="skills" class="skills-section">
+    <Container class="skills-shell">
       <div class="skills-header">
-        <span class="section">Minhas Stacks</span>
+        <BaseBadge class="section">Minhas Stacks</BaseBadge>
       </div>
 
       <div class="skills-grid">
-        <article v-for="tech in techSkills" :key="tech.slug" class="skill-card">
-          <img
-            class="skill-logo"
-            :src="`https://cdn.simpleicons.org/${tech.slug}/${tech.iconColor || '6c63ff'}`"
-            :alt="tech.name"
-          />
-          <span class="skill-name">{{ tech.name }}</span>
-        </article>
+        <SkillChip
+          v-for="tech in techSkills"
+          :key="tech.slug"
+          :name="tech.name"
+          :icon="`https://cdn.simpleicons.org/${tech.slug}/${tech.iconColor || '6c63ff'}`"
+        />
       </div>
 
       <div class="skills-header-concepts">
-        <span class="section">Práticas de Engenharia</span>
+        <BaseBadge class="section">Práticas de Engenharia</BaseBadge>
       </div>
 
       <div class="skills-grid">
-        <div v-for="concept in conceptSkills" :key="concept.item" class="skill-card">
-          
-            <span class="skill-name">{{ concept.item }}</span>
-          
-        </div>
+        <SkillChip v-for="concept in conceptSkills" :key="concept.item" :name="concept.item" />
       </div>
-    </div>
-  </section>
+    </Container>
+  </Section>
 </template>
 
 <script setup lang="ts">
 import { conceptSkills, techSkills } from '@/content/skills'
+import BaseBadge from '@/components/base/BaseBadge.vue'
+import Container from '@/components/layout/Container.vue'
+import Section from '@/components/layout/Section.vue'
+import SkillChip from '@/components/ui/SkillChip.vue'
 </script>

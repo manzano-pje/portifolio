@@ -2,10 +2,31 @@
 ==============================================================================
 Nome: Header.css
 Tipo: COMPONENT
-Responsabilidade: Define os estilos base de componentes reutilizáveis.
+Responsabilidade: Define os estilos base para títulos e wrappers reutilizáveis da interface.
 Padrão: BEM
 ==============================================================================
 */
+
+.base-title {
+  margin: 0;
+  color: var(--color-text);
+  font-size: var(--text-2xl);
+  font-weight: 800;
+  line-height: 1.2;
+}
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+.section {
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+}
 
 /* ==========================================================
    PORTFOLIO HEADER
