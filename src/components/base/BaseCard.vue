@@ -2,8 +2,14 @@
 ==============================================================================
 Nome: BaseCard.vue
 Tipo: COMPONENT
-Responsabilidade: Fornece um componente base reutilizável para a interface.
+Responsabilidade: Estrutura um container visual reutilizável para conteúdo em destaque.
 Padrão: BEM
 ==============================================================================
 -->
+
+<template>
+  <article class="base-card">
+    <slot />
+  </article>
+</template>
 

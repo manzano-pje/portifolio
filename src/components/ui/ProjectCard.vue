@@ -2,15 +2,6 @@
 ==============================================================================
 Nome: ProjectCard.vue
 Tipo: COMPONENT
-Responsabilidade: Renderiza um componente visual reutilizável para a interface.
-Padrão: BEM
-==============================================================================
--->
-
-<!--
-==============================================================================
-Nome: ProjectCard.vue
-Tipo: COMPONENT
 Responsabilidade: Renderiza o card de um projeto com informações e ações de navegação.
 Dependências: Project
 Padrão: BEM
@@ -19,6 +10,7 @@ Padrão: BEM
 
 <script setup lang="ts">
 import type { Project } from '@/types'
+import BaseCard from '@/components/base/BaseCard.vue'
 
 defineProps<{
     project: Project
@@ -26,7 +18,7 @@ defineProps<{
 </script>
 
 <template>
-    <article class="project-card card">
+    <BaseCard class="project-card card">
         <div class="project-card__header">
             <div>
                 <h3 class="project-card__title">{{ project.name }}</h3>
@@ -52,5 +44,5 @@ defineProps<{
                 GitHub
             </a>
         </div>
-    </article>
+    </BaseCard>
 </template>
