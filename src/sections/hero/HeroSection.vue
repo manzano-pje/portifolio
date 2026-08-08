@@ -9,56 +9,53 @@ Padrão: BEM
 
 <script setup lang="ts">
 import { profile } from '@/content/profile'
+import BaseBadge from '@/components/base/BaseBadge.vue'
+import BaseButton from '@/components/base/BaseButton.vue'
+import Container from '@/components/layout/Container.vue'
+import Section from '@/components/layout/Section.vue'
 </script>
 
-
 <template>
-<section class="hero-section">
-  <div class="hero-container">
+  <Section class="hero-section">
+    <Container class="hero-container">
+      <div class="hero-content">
+        <BaseBadge class="hero-badge">
+          {{ profile.role }}
+        </BaseBadge>
 
-    <div class="hero-content">
-      <span class="hero-badge">
-        {{ profile.role }}
-      </span>
+        <h1 class="hero-title">
+          Olá, eu sou
+          <span class="hero-highlight">
+            {{ profile.name }}
+          </span>
+        </h1>
 
-      <h1 class="hero-title">
-        Olá, eu sou
-        <span class="hero-highlight">
-          {{ profile.name }}
-        </span>
-      </h1>
+        <p class="hero-summary">
+          {{ profile.summary }}
+        </p>
 
-      <p class="hero-summary">
-        {{ profile.summary }}
-      </p>
+        <p class="hero-description">
+          {{ profile.description }}
+        </p>
 
-      <p class="hero-description">
-        {{ profile.description }}
-      </p>
+        <div class="hero-actions">
+          <BaseButton href="#projetos">
+            Ver projetos
+          </BaseButton>
 
-      <div class="hero-actions">
-        <a class="hero-primary-button" href="#projetos">
-          Ver projetos
-        </a>
-
-        <a
-          class="hero-secondary-button"
-          :href="profile.resumeUrl"
-        >
-          Ver currículo
-        </a>
+          <BaseButton variant="secondary" :href="profile.resumeUrl">
+            Ver currículo
+          </BaseButton>
+        </div>
       </div>
-    </div>
 
-    <div class="hero-visual">
-      <img
-        :src="profile.photo"
-        :alt="profile.name"
-        class="profile-image"
-      />
-    </div>
-
-  </div>
-</section>
-
+      <div class="hero-visual">
+        <img
+          :src="profile.photo"
+          :alt="profile.name"
+          class="profile-image"
+        />
+      </div>
+    </Container>
+  </Section>
 </template>

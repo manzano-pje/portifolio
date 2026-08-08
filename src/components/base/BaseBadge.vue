@@ -2,8 +2,14 @@
 ==============================================================================
 Nome: BaseBadge.vue
 Tipo: COMPONENT
-Responsabilidade: Fornece um componente base reutilizável para a interface.
+Responsabilidade: Exibe uma etiqueta visual reutilizável para destacar conteúdo.
 Padrão: BEM
 ==============================================================================
 -->
+
+<template>
+  <span class="base-badge">
+    <slot />
+  </span>
+</template>
 

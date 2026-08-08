@@ -2,8 +2,14 @@
 ==============================================================================
 Nome: Section.vue
 Tipo: LAYOUT
-Responsabilidade: Define a estrutura de layout reutilizável da aplicação.
+Responsabilidade: Encapsula uma seção da landing page com estrutura visual consistente.
 Padrão: BEM
 ==============================================================================
 -->
+
+<template>
+  <section class="section">
+    <slot />
+  </section>
+</template>
 

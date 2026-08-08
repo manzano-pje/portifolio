@@ -19,15 +19,19 @@ Padrão: BEM
 
 <script setup lang="ts">
 import { projects } from '@/content/projects'
+import BaseBadge from '@/components/base/BaseBadge.vue'
+import BaseTitle from '@/components/base/BaseTitle.vue'
+import Container from '@/components/layout/Container.vue'
+import Section from '@/components/layout/Section.vue'
 import ProjectCard from '@/components/ui/ProjectCard.vue'
 </script>
 
 <template>
-  <section id="projetos" class="projects-section">
-    <div class="projects-shell">
+  <Section id="projetos" class="projects-section">
+    <Container class="projects-shell">
       <div class="projects-header">
-        <span class="section-tag">Projetos em destaque</span>
-        <h2 class="projects-title">Aplicações que unem arquitetura, produto e experiência</h2>
+        <BaseBadge class="section-tag">Projetos em destaque</BaseBadge>
+        <BaseTitle class="projects-title">Aplicações que unem arquitetura, produto e experiência</BaseTitle>
         <p class="projects-description">
           Trabalhos selecionados com foco em soluções escaláveis, APIs robustas e interfaces claras para a experiência do usuário.
         </p>
@@ -36,6 +40,6 @@ import ProjectCard from '@/components/ui/ProjectCard.vue'
       <div class="projects-grid">
         <ProjectCard v-for="project in projects" :key="project.id" :project="project" />
       </div>
-    </div>
-  </section>
+    </Container>
+  </Section>
 </template>
