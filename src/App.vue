@@ -7,9 +7,10 @@
       <HeroSection />
       <div class="section-separator">
         <AboutSection />
-        
         <SkillsSection />
       </div>
+
+      <ProjectsSection />
     </main>
 
     <Footer />
@@ -30,6 +31,7 @@
   import HeroSection from './sections/hero/HeroSection.vue'
   import AboutSection from './sections/about/AboutSection.vue'
   import SkillsSection from './sections/skills/SkillsSection.vue'
+  import ProjectsSection from './sections/projects/ProjectsSection.vue'
 </script>
  
     

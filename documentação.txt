@@ -1,0 +1,471 @@
+PADRÃO DE CABEÇALHOS, ORGANIZAÇÃO E SEPARADORES DE CÓDIGO
+
+1. OBJETIVO
+
+Todos os arquivos do projeto devem seguir um padrão consistente de
+identificação, organização e separação interna.
+
+O objetivo é permitir que desenvolvedores e ferramentas de IA
+identifiquem rapidamente:
+
+- o propósito do arquivo;
+- seu tipo dentro da arquitetura;
+- sua responsabilidade;
+- suas dependências, quando aplicável;
+- as convenções utilizadas;
+- a organização interna do código.
+
+O padrão deve ser aplicado de forma pragmática.
+
+Não adicionar informações apenas para preencher um modelo.
+
+Não criar seções ou campos que não sejam pertinentes ao arquivo.
+
+--------------------------------------------------------------------------
+
+2. CABEÇALHO DOS ARQUIVOS
+
+Todo arquivo de código deve possuir um cabeçalho no início do arquivo,
+utilizando a sintaxe de comentário própria da linguagem.
+
+O cabeçalho deve conter somente informações relevantes ao tipo de arquivo.
+
+Estrutura base:
+
+==============================================================================
+Nome: [nome do arquivo]
+Tipo: [tipo do arquivo]
+Responsabilidade: [responsabilidade principal]
+Dependências: [dependências, quando aplicável]
+Padrão: [padrão/metodologia, quando aplicável]
+==============================================================================
+
+Os campos opcionais devem ser omitidos quando não forem aplicáveis.
+
+Não deixar campos vazios.
+
+--------------------------------------------------------------------------
+
+3. CLASSIFICAÇÃO DOS ARQUIVOS
+
+Utilizar uma classificação clara e consistente.
+
+Tipos principais:
+
+COMPONENT
+Componente visual reutilizável.
+
+VIEW
+Página ou tela da aplicação.
+
+LAYOUT
+Estrutura responsável pela composição de páginas ou áreas da aplicação.
+
+CSS
+Arquivo de estilos associado a um componente, view ou estrutura.
+
+TOKEN
+Arquivo que define Design Tokens.
+
+BASE
+Estilos fundamentais da aplicação.
+
+UTILITY
+Estilos ou utilidades reutilizáveis.
+
+COMPOSABLE
+Lógica reutilizável baseada na Composition API.
+
+SERVICE
+Serviço responsável por comunicação, integração ou operações externas.
+
+STORE
+Gerenciamento de estado global ou compartilhado.
+
+ROUTER
+Configuração e definição das rotas.
+
+CONFIG
+Arquivo de configuração da aplicação ou de ferramentas.
+
+TYPE
+Tipos, interfaces ou contratos TypeScript.
+
+CONSTANT
+Constantes compartilhadas da aplicação.
+
+ASSET
+Recursos estáticos utilizados pela aplicação.
+
+UTIL
+Funções utilitárias reutilizáveis.
+
+--------------------------------------------------------------------------
+
+4. REGRAS DO CABEÇALHO POR TIPO
+
+COMPONENT
+
+Informações:
+
+- Nome
+- Tipo
+- Responsabilidade
+- Dependências, quando existirem
+- Padrão, quando aplicável
+
+Exemplo:
+
+==============================================================================
+Nome: BaseButton.vue
+Tipo: COMPONENT
+Responsabilidade: Componente reutilizável para ações de interface.
+Dependências: BaseIcon
+Padrão: BEM
+==============================================================================
+
+
+VIEW
+
+Informações:
+
+- Nome
+- Tipo
+- Responsabilidade
+- Dependências, quando existirem
+- Padrão, quando aplicável
+
+
+LAYOUT
+
+Informações:
+
+- Nome
+- Tipo
+- Responsabilidade
+- Dependências, quando existirem
+- Padrão, quando aplicável
+
+
+CSS
+
+Informações:
+
+- Nome
+- Tipo
+- Responsabilidade
+- Padrão, quando aplicável
+
+Não adicionar "Dependências" quando o arquivo CSS não possuir
+dependências relevantes.
+
+Exemplo:
+
+/*
+==============================================================================
+Nome: About.css
+Tipo: CSS
+Responsabilidade: Define a apresentação visual da seção About.
+Padrão: BEM
+==============================================================================
+*/
+
+
+TOKEN
+
+Informações:
+
+- Nome
+- Tipo
+- Responsabilidade
+- Padrão, quando aplicável
+
+Exemplo:
+
+/*
+==============================================================================
+Nome: Colors.css
+Tipo: TOKEN
+Responsabilidade: Define os tokens de cores utilizados pelo Design System.
+Padrão: Design Tokens
+==============================================================================
+*/
+
+
+COMPOSABLE
+
+Informações:
+
+- Nome
+- Tipo
+- Responsabilidade
+- Dependências, quando existirem
+- Padrão, quando aplicável
+
+
+SERVICE
+
+Informações:
+
+- Nome
+- Tipo
+- Responsabilidade
+- Dependências, quando existirem
+- Padrão, quando aplicável
+
+
+STORE
+
+Informações:
+
+- Nome
+- Tipo
+- Responsabilidade
+- Dependências, quando existirem
+- Padrão, quando aplicável
+
+
+TYPE
+
+Informações:
+
+- Nome
+- Tipo
+- Responsabilidade
+- Dependências, quando existirem
+
+
+CONFIG
+
+Informações:
+
+- Nome
+- Tipo
+- Responsabilidade
+- Dependências, quando existirem
+
+--------------------------------------------------------------------------
+
+5. RESPONSABILIDADE
+
+A descrição de responsabilidade deve explicar o papel do arquivo,
+e não descrever sua implementação linha por linha.
+
+INCORRETO:
+
+Responsabilidade: Possui uma div com uma classe e utiliza display flex.
+
+CORRETO:
+
+Responsabilidade: Define a estrutura visual e o conteúdo da seção About.
+
+A responsabilidade deve ser objetiva e responder:
+
+"Qual é a função deste arquivo dentro da aplicação?"
+
+--------------------------------------------------------------------------
+
+6. DEPENDÊNCIAS
+
+O campo "Dependências" deve aparecer somente quando houver
+dependências relevantes.
+
+Exemplos:
+
+Dependências: BaseIcon, BaseButton
+
+Dependências: useAuthStore
+
+Dependências: Vue Router
+
+Quando não houver dependência relevante, o campo deve ser omitido.
+
+Não utilizar:
+
+Dependências: Nenhuma
+
+Não utilizar:
+
+Dependências: N/A
+
+--------------------------------------------------------------------------
+
+7. METODOLOGIA BEM
+
+O projeto utiliza a metodologia BEM (Block, Element, Modifier)
+para nomenclatura e organização das classes CSS.
+
+A convenção deve seguir:
+
+.block
+.block__element
+.block--modifier
+
+Exemplo:
+
+.about
+.about__content
+.about__title
+.about__description
+.about__actions
+.about--compact
+
+Não utilizar prefixos legados ou arbitrários.
+
+Não misturar BEM com nomenclaturas incompatíveis.
+
+A aplicação de BEM deve ocorrer nos arquivos relacionados à
+estrutura e estilização da interface.
+
+Não aplicar BEM artificialmente a arquivos TypeScript,
+configurações, composables, services ou outros arquivos que
+não trabalham com classes CSS.
+
+--------------------------------------------------------------------------
+
+8. SEPARADORES INTERNOS
+
+Arquivos que possuam diferentes responsabilidades ou grupos lógicos
+devem utilizar separadores visuais.
+
+Formato padrão:
+
+/* ==========================================================================
+   NOME DA SEÇÃO
+   ========================================================================== */
+
+Para JavaScript/TypeScript:
+
+// ==========================================================================
+// NOME DA SEÇÃO
+// ==========================================================================
+
+Para arquivos Vue, utilizar a sintaxe de comentário apropriada
+ao contexto.
+
+Os separadores devem representar uma divisão lógica real.
+
+Não utilizar separadores excessivamente.
+
+Não utilizar separadores para cada variável ou função.
+
+--------------------------------------------------------------------------
+
+9. ORGANIZAÇÃO DE COMPONENTES VUE
+
+Quando aplicável, organizar o conteúdo do <script setup> seguindo
+uma ordem lógica.
+
+Ordem recomendada:
+
+1. Imports
+2. Props
+3. Emits
+4. State
+5. Computed
+6. Composables
+7. Watchers
+8. Methods / Functions
+9. Lifecycle Hooks
+
+Exemplo:
+
+// ==========================================================================
+// IMPORTS
+// ==========================================================================
+
+// ==========================================================================
+// PROPS
+// ==========================================================================
+
+// ==========================================================================
+// EMITS
+// ==========================================================================
+
+// ==========================================================================
+// STATE
+// ==========================================================================
+
+// ==========================================================================
+// COMPUTED
+// ==========================================================================
+
+// ==========================================================================
+// METHODS
+// ==========================================================================
+
+// ==========================================================================
+// WATCHERS
+// ==========================================================================
+
+// ==========================================================================
+// LIFECYCLE
+// ==========================================================================
+
+Se uma categoria não existir no arquivo, seu separador não deve
+ser criado.
+
+--------------------------------------------------------------------------
+
+10. ORGANIZAÇÃO DE CSS
+
+Arquivos CSS devem ser organizados por responsabilidade.
+
+Quando aplicável:
+
+/* ==========================================================================
+   BLOCK
+   ========================================================================== */
+
+/* ==========================================================================
+   ELEMENTS
+   ========================================================================== */
+
+/* ==========================================================================
+   MODIFIERS
+   ========================================================================== */
+
+/* ==========================================================================
+   RESPONSIVE
+   ========================================================================== */
+
+A organização deve respeitar BEM.
+
+Não criar seções que não possuam conteúdo.
+
+--------------------------------------------------------------------------
+
+11. REGRAS DE QUALIDADE
+
+A IA responsável pelo desenvolvimento deve:
+
+- preservar o cabeçalho existente quando ele estiver correto;
+- atualizar o cabeçalho quando a responsabilidade do arquivo mudar;
+- não inventar dependências;
+- não adicionar campos irrelevantes;
+- não criar separadores desnecessários;
+- manter a nomenclatura consistente;
+- respeitar BEM nos arquivos de interface;
+- utilizar comentários para organização, não para explicar código óbvio;
+- evitar comentários redundantes;
+- manter os arquivos legíveis e objetivos.
+
+--------------------------------------------------------------------------
+
+12. REGRA FUNDAMENTAL
+
+O padrão é obrigatório, porém adaptativo.
+
+A estrutura do cabeçalho não deve ser aplicada mecanicamente.
+
+Cada arquivo deve conter somente as informações pertinentes à sua
+responsabilidade.
+
+A consistência do projeto é mais importante do que a quantidade
+de informações presentes no cabeçalho.
+
+Em caso de dúvida sobre uma informação, omitir a informação em vez
+de inventá-la.
+
+Em caso de dúvida sobre a classificação de um arquivo, utilizar o
+tipo que melhor representa sua responsabilidade arquitetural.

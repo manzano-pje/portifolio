@@ -51,5 +51,6 @@ export const projects: Project[] = [
     tags: ['Java', 'Spring Boot', 'PostgreSQL', 'Docker', 'Swagger', 'REST API'],
     image: '',
     githubUrl: 'https://github.com/manzano-pje',
+    demoUrl: 'https://github.com/manzano-pje',
   },
 ]
