@@ -1,3 +1,13 @@
+<!--
+==============================================================================
+Nome: ProjectsSection.vue
+Tipo: VIEW
+Responsabilidade: Exibe a seção de projetos em destaque na landing page.
+Dependências: ProjectCard.vue, projects
+Padrão: BEM
+==============================================================================
+-->
+
 <script setup lang="ts">
 import { projects } from '@/content/projects'
 import ProjectCard from '@/components/ui/ProjectCard.vue'

@@ -1,3 +1,12 @@
+/*
+==============================================================================
+Nome: projects.ts
+Tipo: CONFIG
+Responsabilidade: Centraliza os dados dos projetos exibidos na seção de destaque.
+Dependências: Project
+==============================================================================
+*/
+
 import type { Project } from '@/types'
 
 export const projects: Project[] = [
@@ -6,7 +15,7 @@ export const projects: Project[] = [
     name: 'ProofChain',
     subtitle: 'Plataforma de Certificados Digitais',
     description:
-      'Plataforma SaaS para emissão, gestão e validação de certificados digitais com integração blockchain para garantir autenticidade. Desenvolvido para combater fraudes em certificados acadêmicos e profissionais através de registros imutáveis e verificáveis.',
+      'Plataforma SaaS para emissão, gestão e validação de certificados digitais com integração blockchain para garantir autenticidade.',
     tags: [
       'Java',
       'Spring Boot',
@@ -23,32 +32,37 @@ export const projects: Project[] = [
     githubUrl: 'https://github.com/manzano-pje',
   },
   {
-    id: 'restaurant-system',
-    name: 'Sistema de Gerenciamento de Restaurante',
-    subtitle: 'Sistema Corporativo',
+    id: 'restaurante',
+    name: 'Sistema de Restaurante',
+    subtitle: 'Gestão de Pedidos e Operações',
     description:
-      'Sistema corporativo para gerenciamento completo de restaurantes, contemplando autenticação, gestão de usuários, produtos, categorias, fornecedores, pedidos e comunicação assíncrona entre serviços.',
+      'API para gerenciamento de restaurantes e lanchonetes, com controle de mesas, pedidos, produtos e setores de atendimento, utilizando mensageria para direcionamento dos pedidos.',
     tags: [
       'Java',
       'Spring Boot',
-      'Spring Security',
       'RabbitMQ',
-      'JWT',
-      'PostgreSQL',
+      'MySQL',
       'Docker',
-      'Swagger',
       'REST API',
     ],
-    image: '',
-    githubUrl: 'https://github.com/manzano-pje',
+      image: '',
+      githubUrl: 'https://github.com/manzano-pje',
   },
   {
-    id: 'stock-control',
-    name: 'Sistema de Controle de Estoque',
-    subtitle: 'Gestão Empresarial',
-    description:
-      'Sistema para gestão de estoque empresarial, permitindo controle de produtos, categorias, fornecedores e movimentações, utilizando arquitetura organizada e preparada para evolução futura.',
-    tags: ['Java', 'Spring Boot', 'PostgreSQL', 'Docker', 'Swagger', 'REST API'],
+  id: 'controle-estoque',
+  name: 'Sistema de Controle de Estoque',
+  subtitle: 'Gestão de Produtos e Estoque',
+  description:
+    'API para gerenciamento de produtos e controle de estoque, desenvolvida com Spring Boot e persistência de dados utilizando JPA e Hibernate.',
+  tags: [
+    'Java 17',
+    'Spring Boot 3.1.3',
+    'Spring Data JPA',
+    'Hibernate',
+    'MySQL',
+    'Docker',
+    'Swagger/OpenAPI',
+  ],
     image: '',
     githubUrl: 'https://github.com/manzano-pje',
     demoUrl: 'https://github.com/manzano-pje',

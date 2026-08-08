@@ -8,10 +8,6 @@
                         {{ paragraph }}
                     </p>
                 </div>
-
-                <a class="about-link" :href="about.ctaHref">
-                    {{ about.ctaLabel }}
-                </a>
             </div>
         </div>
     </section>

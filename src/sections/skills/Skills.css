@@ -8,7 +8,8 @@
 .skills-shell {
   /* max-width: 100%; */
   margin: 0 auto;
-  padding: 1rem;
+  padding: 1rem 1.0rem 1.75rem;
+
   background: var(--color-surface-raised);
   border-radius: var(--radius-xl);
 }
@@ -30,7 +31,7 @@
 .skills-title {
   margin: 0;
   color: var(--color-text);
-  font-size: var(--text-4xl);
+  font-size: var(--text-lg);
   line-height: 1.15;
   font-weight: 800;
 }

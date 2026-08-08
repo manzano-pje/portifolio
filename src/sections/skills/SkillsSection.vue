@@ -2,7 +2,7 @@
   <section id="skills" class="skills-section">
     <div class="skills-shell">
       <div class="skills-header">
-        <span class="section-tag">Minhas Stacks</span>
+        <span class="section">Minhas Stacks</span>
       </div>
 
       <div class="skills-grid">
@@ -17,7 +17,7 @@
       </div>
 
       <div class="skills-header-concepts">
-        <span class="section-tag">Práticas de Engenharia</span>
+        <span class="section">Práticas de Engenharia</span>
       </div>
 
       <div class="skills-grid">
