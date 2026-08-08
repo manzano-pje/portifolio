@@ -2,6 +2,15 @@
 ==============================================================================
 Nome: ProjectCard.vue
 Tipo: COMPONENT
+Responsabilidade: Renderiza um componente visual reutilizável para a interface.
+Padrão: BEM
+==============================================================================
+-->
+
+<!--
+==============================================================================
+Nome: ProjectCard.vue
+Tipo: COMPONENT
 Responsabilidade: Renderiza o card de um projeto com informações e ações de navegação.
 Dependências: Project
 Padrão: BEM

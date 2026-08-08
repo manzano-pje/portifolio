@@ -1,3 +1,12 @@
+<!--
+==============================================================================
+Nome: App.vue
+Tipo: VIEW
+Responsabilidade: Compõe a estrutura principal da landing page e integra as seções do portfólio.
+Padrão: BEM
+==============================================================================
+-->
+
 <template>
   <div id="app">
 

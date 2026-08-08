@@ -1,3 +1,11 @@
+/*
+==============================================================================
+Nome: site.ts
+Tipo: CONFIG
+Responsabilidade: Centraliza configurações e metadados da aplicação.
+==============================================================================
+*/
+
 export const site = {
   title: 'Paulo Manzano',
   description: 'Portfólio de Desenvolvedor Java',

@@ -1,3 +1,11 @@
+/*
+==============================================================================
+Nome: experience.ts
+Tipo: CONFIG
+Responsabilidade: Centraliza os conteúdos estáticos exibidos na interface.
+==============================================================================
+*/
+
 import type { Experience } from '@/types'
 
 export const experiences: Experience[] = [

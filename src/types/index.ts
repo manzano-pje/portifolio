@@ -1,3 +1,11 @@
+/*
+==============================================================================
+Nome: index.ts
+Tipo: TYPE
+Responsabilidade: Define os tipos e contratos TypeScript utilizados no projeto.
+==============================================================================
+*/
+
 export interface Profile {
   name: string
   shortName: string
