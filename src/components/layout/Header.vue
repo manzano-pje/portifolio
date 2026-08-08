@@ -1,3 +1,12 @@
+<!--
+==============================================================================
+Nome: Header.vue
+Tipo: LAYOUT
+Responsabilidade: Define a estrutura de layout reutilizável da aplicação.
+Padrão: BEM
+==============================================================================
+-->
+
 <template>
   <header class="portfolio-header">
     <div class="header-container">

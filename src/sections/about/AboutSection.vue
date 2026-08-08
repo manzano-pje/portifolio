@@ -1,3 +1,12 @@
+<!--
+==============================================================================
+Nome: AboutSection.vue
+Tipo: COMPONENT
+Responsabilidade: Renderiza uma seção visual da aplicação.
+Padrão: BEM
+==============================================================================
+-->
+
 <template>
     <section id="sobre" class="about-section">
         <div class="about-shell">

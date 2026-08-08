@@ -2,6 +2,14 @@
 ==============================================================================
 Nome: Project.ts
 Tipo: TYPE
+Responsabilidade: Define os tipos e contratos TypeScript utilizados no projeto.
+==============================================================================
+*/
+
+/*
+==============================================================================
+Nome: Project.ts
+Tipo: TYPE
 Responsabilidade: Define a estrutura de dados utilizada pelos projetos exibidos na seção destacada.
 ==============================================================================
 */

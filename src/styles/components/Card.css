@@ -2,6 +2,15 @@
 ==============================================================================
 Nome: Card.css
 Tipo: COMPONENT
+Responsabilidade: Define os estilos base de componentes reutilizáveis.
+Padrão: BEM
+==============================================================================
+*/
+
+/*
+==============================================================================
+Nome: Card.css
+Tipo: COMPONENT
 Responsabilidade: Define o estilo base para cards reutilizáveis na interface.
 Padrão: BEM
 ==============================================================================

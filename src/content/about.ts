@@ -1,3 +1,11 @@
+/*
+==============================================================================
+Nome: about.ts
+Tipo: CONFIG
+Responsabilidade: Centraliza os conteúdos estáticos exibidos na interface.
+==============================================================================
+*/
+
 import type { Indicator } from '@/types'
 
 export const about = {

@@ -1,3 +1,11 @@
+/*
+==============================================================================
+Nome: certificates.ts
+Tipo: CONFIG
+Responsabilidade: Centraliza os conteúdos estáticos exibidos na interface.
+==============================================================================
+*/
+
 import type { CertificateGroup } from '@/types'
 
 export const certificateGroups: CertificateGroup[] = [

@@ -1,3 +1,11 @@
+/*
+==============================================================================
+Nome: navigation.ts
+Tipo: CONFIG
+Responsabilidade: Centraliza configurações e metadados da aplicação.
+==============================================================================
+*/
+
 import type { NavigationItem } from '@/types'
 
 export const navigation: NavigationItem[] = [

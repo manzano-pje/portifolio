@@ -1,3 +1,11 @@
+/*
+==============================================================================
+Nome: profile.ts
+Tipo: CONFIG
+Responsabilidade: Centraliza os conteúdos estáticos exibidos na interface.
+==============================================================================
+*/
+
 import type { Profile } from '@/types'
 import imageHero from '@/assets/images/profile/fundo1.png'
 

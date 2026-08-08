@@ -1,6 +1,15 @@
 <!--
 ==============================================================================
 Nome: ProjectsSection.vue
+Tipo: COMPONENT
+Responsabilidade: Renderiza uma seção visual da aplicação.
+Padrão: BEM
+==============================================================================
+-->
+
+<!--
+==============================================================================
+Nome: ProjectsSection.vue
 Tipo: VIEW
 Responsabilidade: Exibe a seção de projetos em destaque na landing page.
 Dependências: ProjectCard.vue, projects

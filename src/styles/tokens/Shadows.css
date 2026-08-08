@@ -1,3 +1,12 @@
+/*
+==============================================================================
+Nome: Shadows.css
+Tipo: TOKEN
+Responsabilidade: Define os tokens visuais utilizados pelo design system.
+Padrão: BEM
+==============================================================================
+*/
+
 :root {
     --shadow-sm: 0 1px 2px rgba(0, 0, 0, .2);
     --shadow-md: 0 10px 30px rgba(0, 0, 0, .25);

@@ -1,3 +1,12 @@
+/*
+==============================================================================
+Nome: Radius.css
+Tipo: TOKEN
+Responsabilidade: Define os tokens visuais utilizados pelo design system.
+Padrão: BEM
+==============================================================================
+*/
+
 :root {
 --radius-sm:.375rem;
 --radius-md:.75rem;

@@ -1,3 +1,11 @@
+/*
+==============================================================================
+Nome: skills.ts
+Tipo: CONFIG
+Responsabilidade: Centraliza os conteúdos estáticos exibidos na interface.
+==============================================================================
+*/
+
 import type { SkillTech, SkillConceptGroup } from '@/types'
 
 /**

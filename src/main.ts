@@ -1,3 +1,11 @@
+/*
+==============================================================================
+Nome: main.ts
+Tipo: CONFIG
+Responsabilidade: Inicializa a aplicação Vue e conecta o ponto de entrada principal.
+==============================================================================
+*/
+
 import { createApp } from 'vue';
 import App from './App.vue';
 

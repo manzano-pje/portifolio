@@ -1,3 +1,12 @@
+<!--
+==============================================================================
+Nome: SkillsSection.vue
+Tipo: COMPONENT
+Responsabilidade: Renderiza uma seção visual da aplicação.
+Padrão: BEM
+==============================================================================
+-->
+
 <template>
   <section id="skills" class="skills-section">
     <div class="skills-shell">

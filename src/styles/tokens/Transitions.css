@@ -1,3 +1,12 @@
+/*
+==============================================================================
+Nome: Transitions.css
+Tipo: TOKEN
+Responsabilidade: Define os tokens visuais utilizados pelo design system.
+Padrão: BEM
+==============================================================================
+*/
+
 :root {
   --transition-fast:   150ms ease;
   --transition-base:   250ms ease;

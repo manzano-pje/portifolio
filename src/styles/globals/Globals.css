@@ -1,3 +1,12 @@
+/*
+==============================================================================
+Nome: Globals.css
+Tipo: CONFIG
+Responsabilidade: Centraliza os estilos globais da aplicação.
+Padrão: BEM
+==============================================================================
+*/
+
 
 @import "../tokens/Colors.css";
 @import "../tokens/Spacing.css";

@@ -2,6 +2,15 @@
 ==============================================================================
 Nome: Badge.css
 Tipo: COMPONENT
+Responsabilidade: Define os estilos base de componentes reutilizáveis.
+Padrão: BEM
+==============================================================================
+*/
+
+/*
+==============================================================================
+Nome: Badge.css
+Tipo: COMPONENT
 Responsabilidade: Define os estilos base para badges e pequenas etiquetas visuais.
 Padrão: BEM
 ==============================================================================

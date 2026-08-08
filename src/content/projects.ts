@@ -3,7 +3,6 @@
 Nome: projects.ts
 Tipo: CONFIG
 Responsabilidade: Centraliza os dados dos projetos exibidos na seção de destaque.
-Dependências: Project
 ==============================================================================
 */
 
