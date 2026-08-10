@@ -1,11 +1,3 @@
-/*
-==============================================================================
-Nome: Projects.css
-Tipo: CSS
-Responsabilidade: Define a apresentação visual da seção correspondente.
-Padrão: BEM
-==============================================================================
-*/
 
 /*
 ==============================================================================
@@ -23,25 +15,23 @@ Padrão: BEM
 .projects-section {
   padding: calc(var(--space-5) + 1rem) 0 var(--space-9);
   background: var(--color-background);
-  margin-left: var(--space-5);
-  margin-right: var(--space-5);
   box-sizing: border-box;
 }
 
 .projects-shell {
   width: 100%;
-  max-width: 100%;
-  margin: 2rem 0 1.75rem;
-  padding: 0;
+  max-width: 1300px;
+  margin: 0 auto;
+  padding: 2rem 0;
   box-sizing: border-box;
 }
 
 .projects-header {
   display: flex;
   flex-direction: column;
-  gap: 0.5rem;
-  margin: 2rem 1.75rem 1rem;
 
+  gap: 0.5rem;
+  margin: 0 0 1.5rem 1.5rem;
 }
 
 .section-tag {
@@ -55,10 +45,10 @@ Padrão: BEM
 
 .projects-title {
   margin: 0;
-  color: var(--color-primary-dark);
+  color: var(--color-accent);
   font-size: var(--text-lg);
   line-height: 1.0;
-  font-weight: 800;
+  font-weight: 700;
 }
 
 .projects-description {
@@ -73,6 +63,7 @@ Padrão: BEM
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 1.25rem;
+  align-items: stretch;
 }
 
 .project-card {
@@ -184,7 +175,7 @@ Padrão: BEM
 
 @media (max-width: 640px) {
   .projects-shell {
-    padding: 0 1rem;
+    padding: 1.25rem 1rem;
   }
 
   .projects-grid {

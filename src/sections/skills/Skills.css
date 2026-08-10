@@ -18,31 +18,16 @@ Padrão: BEM
   /* max-width: 100%; */
   margin: 0 auto;
   padding: 1rem 1.0rem 1.75rem;
-
   background: var(--color-surface-raised);
   border-radius: var(--radius-xl);
 }
 
-.skills-header {
+.skills-header, .skills-header-concepts {
   display: flex;
   flex-direction: column;
   gap: var(--space-3);
-  margin: var(--space-2) 0
-}
-
-.skills-header-concepts {
-  display: flex;
-  flex-direction: column;
-  gap: var(--space-3);
-  margin: var(--space-4) 0 var(--space-2)
-}
-
-.skills-title {
-  margin: 0;
-  color: var(--color-text);
-  font-size: var(--text-lg);
-  line-height: 1.15;
-  font-weight: 800;
+  margin: var(--space-2) 0;
+  color: var(--color-primary);
 }
 
 .skills-grid {

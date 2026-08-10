@@ -30,7 +30,7 @@ import ProjectCard from '@/components/ui/ProjectCard.vue'
   <Section id="projetos" class="projects-section">
     <Container class="projects-shell">
       <div class="projects-header">
-        <BaseBadge class="section-tag">Projetos em destaque</BaseBadge>
+        <BaseTitle class="section-tag">Projetos em destaque</BaseTitle>
         <BaseTitle class="projects-title">Aplicações que unem arquitetura, produto e experiência</BaseTitle>
         <p class="projects-description">
           Trabalhos selecionados com foco em soluções escaláveis, APIs robustas e interfaces claras para a experiência do usuário.

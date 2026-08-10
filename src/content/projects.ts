@@ -28,7 +28,7 @@ export const projects: Project[] = [
       'Swagger/OpenAPI',
     ],
     image: '',
-    githubUrl: 'https://github.com/manzano-pje',
+    githubUrl: 'https://github.com/manzano-pje/proofchain',
   },
   {
     id: 'restaurante',
@@ -45,7 +45,7 @@ export const projects: Project[] = [
       'REST API',
     ],
       image: '',
-      githubUrl: 'https://github.com/manzano-pje',
+      githubUrl: 'https://github.com/manzano-pje/restaurante',
   },
   {
   id: 'controle-estoque',
@@ -63,7 +63,6 @@ export const projects: Project[] = [
     'Swagger/OpenAPI',
   ],
     image: '',
-    githubUrl: 'https://github.com/manzano-pje',
-    demoUrl: 'https://github.com/manzano-pje',
+    githubUrl: 'https://github.com/manzano-pje/estoque',
   },
 ]

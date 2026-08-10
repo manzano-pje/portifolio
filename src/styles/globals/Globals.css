@@ -26,6 +26,7 @@ Padrão: BEM
 @import "../components/Badge.css";
 @import "../components/Timeline.css";
 @import "../components/Header.css";
+@import "../components/Footer.css";
 
 @import "@/sections/about/About.css";
 @import "@/sections/certificates/Certificates.css";
