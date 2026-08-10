@@ -35,10 +35,7 @@ defineProps<{
         </div>
 
         <div class="project-card__actions">
-            <a class="project-card__button project-card__button--primary" :href="project.demoUrl || project.githubUrl"
-                target="_blank" rel="noreferrer">
-                Demo
-            </a>
+        
             <a class="project-card__button project-card__button--ghost" :href="project.githubUrl" target="_blank"
                 rel="noreferrer">
                 GitHub

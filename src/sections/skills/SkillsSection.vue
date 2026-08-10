@@ -11,7 +11,7 @@ Padrão: BEM
   <Section id="skills" class="skills-section">
     <Container class="skills-shell">
       <div class="skills-header">
-        <BaseBadge class="section">Minhas Stacks</BaseBadge>
+        <BaseTitle class="section">Minhas Stacks</BaseTitle>
       </div>
 
       <div class="skills-grid">
@@ -24,7 +24,7 @@ Padrão: BEM
       </div>
 
       <div class="skills-header-concepts">
-        <BaseBadge class="section">Práticas de Engenharia</BaseBadge>
+        <BaseTitle class="section">Práticas de Engenharia</BaseTitle>
       </div>
 
       <div class="skills-grid">
