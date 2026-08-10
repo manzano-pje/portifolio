@@ -31,7 +31,7 @@ Padrão: BEM
 
           <div class="footer-contact-column">
 
-            <a class="footer-contact" href="mailto:paulo.manzano@example.com">
+            <a class="footer-contact" href="mailto:manzano.pje@gmail.com">
               <span class="footer-contact-icon" aria-hidden="true">
                 ✉
               </span>
@@ -39,7 +39,7 @@ Padrão: BEM
               <span class="footer-contact-content">
                 <span class="footer-contact-label">E-mail</span>
                 <span class="footer-contact-value">
-                  paulo.manzano@example.com
+                  manzano.pje@gmail.com
                 </span>
               </span>
             </a>
