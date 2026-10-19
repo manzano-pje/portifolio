@@ -43,7 +43,12 @@ import Section from '@/components/layout/Section.vue'
             Ver projetos
           </BaseButton>
 
-          <BaseButton variant="secondary" :href="profile.resumeUrl">
+          <BaseButton 
+            variant="secondary"
+            href="/cv/curriculo.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             Ver currículo
           </BaseButton>
         </div>
