@@ -37,7 +37,7 @@ Padrão: BEM
               <span class="footer-contact-content">
                 <span class="footer-contact-label">E-mail</span>
                 <span class="footer-contact-value">
-                  paulo.manzano@example.com
+                  manzano.pje@gmail.com
                 </span>
               </span>
             </a>
