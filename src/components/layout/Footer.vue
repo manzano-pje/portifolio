@@ -42,7 +42,7 @@ Padrão: BEM
               </span>
             </a>
 
-            <a class="footer-contact" href="https://wa.me/5511983050657" target="_blank" rel="noreferrer">
+            <a class="footer-contact" href="https://wa.me/5511983050657?text=Olá%2C+Paulo%21+Acessei+seu+portfólio+e+gostaria+de+conversar." target="_blank" rel="noreferrer">
               <span class="footer-contact-icon footer-contact-icon--whatsapp" aria-hidden="true"></span>
 
               <span class="footer-contact-content">
