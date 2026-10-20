@@ -19,7 +19,11 @@ Padrão: BEM
         <a class="navigation-link">Certificados</a>
       </nav>
       <div class="header-actions">
-        <a class="header-button">Vamos conversar</a>
+        <a class="header-button"
+          href="https://wa.me/5511983050657?text=Olá%2C%20Paulo!%20Acessei%20seu%20portfólio%20e%20gostaria%20de%20conversar."
+          target="_blank">
+          Vamos conversar
+        </a>
       </div>
     </div>
   </header>
