@@ -79,7 +79,7 @@ Padrão: BEM
 .footer-contact {
   display: flex;
   align-items: flex-start;
-  gap: var(--space-1);
+  gap: var(--space-2);
   padding: var(--space-3) 0;
   color: var(--color-text);
   text-decoration: none;
@@ -94,7 +94,6 @@ Padrão: BEM
 .footer-contact-content {
   display: flex;
   flex-direction: column;
-  gap: 0.25rem;
 }
 
 .footer-contact-label {
@@ -116,15 +115,32 @@ Padrão: BEM
 
 .footer-contact-icon {
   flex: 0 0 24px;
-
   width: 24px;
   height: 24px;
-
   display: flex;
   align-items: center;
   justify-content: center;
+  background-color: var(--color-primary);
+}
 
-  color: var(--color-primary);
+.footer-contact-icon--email {
+  -webkit-mask: url("https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/mail.svg") center / contain no-repeat;
+  mask: url("https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/mail.svg") center / contain no-repeat;
+}
+
+.footer-contact-icon--whatsapp {
+  -webkit-mask: url("https://cdn.simpleicons.org/whatsapp/25D366") center / contain no-repeat;
+  mask: url("https://cdn.simpleicons.org/whatsapp/25D366") center / contain no-repeat;
+}
+
+.footer-contact-icon--linkedin {
+  -webkit-mask: url("https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/linkedin.svg") center / contain no-repeat;
+  mask: url("https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/linkedin.svg") center / contain no-repeat;
+}
+
+.footer-contact-icon--github {
+  -webkit-mask: url("https://cdn.simpleicons.org/github") center / contain no-repeat;
+  mask: url("https://cdn.simpleicons.org/github") center / contain no-repeat;
 }
 
 .footer-visual {

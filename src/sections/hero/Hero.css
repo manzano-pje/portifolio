@@ -164,6 +164,12 @@ Padrão: BEM
         var(--space-6);
     border-radius:var(--radius-md);
     border:1px solid var(--color-border);
+     background:
+        linear-gradient(
+            135deg,
+            var(--color-primary),
+            var(--color-accent)
+        );
     color:var(--color-text);
     font-size:var(--text-sm);
     font-weight:600;

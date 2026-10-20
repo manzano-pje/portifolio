@@ -32,9 +32,7 @@ Padrão: BEM
           <div class="footer-contact-column">
 
             <a class="footer-contact" href="mailto:paulo.manzano@example.com">
-              <span class="footer-contact-icon" aria-hidden="true">
-                ✉
-              </span>
+              <span class="footer-contact-icon footer-contact-icon--email" aria-hidden="true"></span>
 
               <span class="footer-contact-content">
                 <span class="footer-contact-label">E-mail</span>
@@ -44,27 +42,23 @@ Padrão: BEM
               </span>
             </a>
 
-            <div class="footer-contact">
-              <span class="footer-contact-icon" aria-hidden="true">
-                ♧
-              </span>
+            <a class="footer-contact" href="https://wa.me/5511983050657" target="_blank" rel="noreferrer">
+              <span class="footer-contact-icon footer-contact-icon--whatsapp" aria-hidden="true"></span>
 
               <span class="footer-contact-content">
-                <span class="footer-contact-label">Localização</span>
+                <span class="footer-contact-label">WhatsApp</span>
                 <span class="footer-contact-value">
-                  Mogi das Cruzes - SP
+                  (11) 98305-0657
                 </span>
               </span>
-            </div>
+            </a>
 
           </div>
 
           <div class="footer-contact-column">
 
             <a class="footer-contact" href="https://www.linkedin.com/in/paulo-manzano" target="_blank" rel="noreferrer">
-              <span class="footer-contact-icon footer-contact-icon--linkedin">
-                in
-              </span>
+              <span class="footer-contact-icon footer-contact-icon--linkedin" aria-hidden="true"></span>
 
               <span class="footer-contact-content">
                 <span class="footer-contact-label">LinkedIn</span>
@@ -75,9 +69,7 @@ Padrão: BEM
             </a>
 
             <a class="footer-contact" href="https://github.com/manzano-pje" target="_blank" rel="noreferrer">
-              <span class="footer-contact-icon footer-contact-icon--github">
-                ●
-              </span>
+              <span class="footer-contact-icon footer-contact-icon--github" aria-hidden="true"></span>
 
               <span class="footer-contact-content">
                 <span class="footer-contact-label">GitHub</span>

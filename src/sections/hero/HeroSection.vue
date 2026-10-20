@@ -44,6 +44,7 @@ import Section from '@/components/layout/Section.vue'
           </BaseButton>
 
           <BaseButton 
+            class="hero-actions"
             variant="secondary"
             href="/cv/curriculo.pdf"
             target="_blank"
